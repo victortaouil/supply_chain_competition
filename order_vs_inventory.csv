@@ -1,0 +1,1695 @@
+productdepartment,order_date,productcategory,productname,orderquantity,profit,date,warehouseinventory,inventorycostperunit,month_of_supply
+Apparel,2015-01,Cleats,Perfect Fitness Perfect Rip Deck,456.0,22197.0,2015-01,254,0.495,0.56
+Apparel,2015-01,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,104.0,6760.0,2015-01,6,1.001,0.06
+Apparel,2015-02,Cleats,Perfect Fitness Perfect Rip Deck,378.0,17640.0,2015-02,675,0.482,1.79
+Apparel,2015-02,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,100.0,6500.0,2015-02,108,0.717,1.08
+Apparel,2015-03,Cleats,Perfect Fitness Perfect Rip Deck,442.0,20580.0,2015-03,542,1.456,1.23
+Apparel,2015-03,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,107.0,6955.0,2015-03,169,2.208,1.58
+Apparel,2015-04,Cleats,Perfect Fitness Perfect Rip Deck,403.0,19698.0,2015-04,633,1.229,1.57
+Apparel,2015-04,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,127.0,8255.0,2015-04,98,1.216,0.77
+Apparel,2015-05,Cleats,Perfect Fitness Perfect Rip Deck,330.0,16023.0,2015-05,624,0.729,1.89
+Apparel,2015-05,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,104.0,6760.0,2015-05,161,1.206,1.55
+Apparel,2015-06,Cleats,Perfect Fitness Perfect Rip Deck,371.0,18522.0,2015-06,462,2.304,1.25
+Apparel,2015-06,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,111.0,7215.0,2015-06,74,2.007,0.67
+Apparel,2015-07,Cleats,Perfect Fitness Perfect Rip Deck,398.0,18963.0,2015-07,1,1.188,0.0
+Apparel,2015-07,Crafts,Porcelain crafts,1.0,231.0,2015-07,0,1.618,0.0
+Apparel,2015-07,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,121.0,7865.0,2015-07,216,0.852,1.79
+Apparel,2015-08,Baby,Baby sweater,3.0,84.0,2015-08,4,1.273,1.33
+Apparel,2015-08,Cleats,Perfect Fitness Perfect Rip Deck,374.0,18228.0,2015-08,508,1.131,1.36
+Apparel,2015-08,Crafts,Porcelain crafts,3.0,693.0,2015-08,1,1.649,0.33
+Apparel,2015-08,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,120.0,7800.0,2015-08,170,0.681,1.42
+Apparel,2015-09,Baby,Baby sweater,1.0,28.0,2015-09,1,0.283,1.0
+Apparel,2015-09,Cleats,Perfect Fitness Perfect Rip Deck,339.0,16023.0,2015-09,550,0.745,1.62
+Apparel,2015-09,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,98.0,6370.0,2015-09,36,0.45,0.37
+Apparel,2015-10,Cleats,Perfect Fitness Perfect Rip Deck,328.0,16317.0,2015-10,48,1.855,0.15
+Apparel,2015-10,Crafts,Porcelain crafts,3.0,693.0,2015-10,1,0.47,0.33
+Apparel,2015-10,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,114.0,7410.0,2015-10,200,1.674,1.75
+Apparel,2015-11,Cleats,Perfect Fitness Perfect Rip Deck,392.0,17787.0,2015-11,391,1.812,1.0
+Apparel,2015-11,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,111.0,7215.0,2015-11,125,2.078,1.13
+Apparel,2015-12,Cleats,Perfect Fitness Perfect Rip Deck,320.0,15582.0,2015-12,495,0.462,1.55
+Apparel,2015-12,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,101.0,6565.0,2015-12,98,0.164,0.97
+Apparel,2015-12,Women's Clothing,Summer dresses,1.0,99.0,2015-12,2,1.55,2.0
+Apparel,2016-01,Cleats,Perfect Fitness Perfect Rip Deck,378.0,19110.0,2016-01,613,2.239,1.62
+Apparel,2016-01,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,150.0,9750.0,2016-01,172,1.689,1.15
+Apparel,2016-02,Cleats,Perfect Fitness Perfect Rip Deck,341.0,15288.0,2016-02,261,2.151,0.77
+Apparel,2016-02,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,100.0,6500.0,2016-02,80,0.364,0.8
+Apparel,2016-02,Women's Clothing,Summer dresses,2.0,198.0,2016-02,2,1.817,1.0
+Apparel,2016-03,Cleats,Perfect Fitness Perfect Rip Deck,487.0,21756.0,2016-03,543,1.576,1.11
+Apparel,2016-03,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,119.0,7735.0,2016-03,199,0.51,1.67
+Apparel,2016-04,Cleats,Perfect Fitness Perfect Rip Deck,400.0,20433.0,2016-04,481,2.293,1.2
+Apparel,2016-04,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,125.0,8125.0,2016-04,233,2.042,1.86
+Apparel,2016-05,Cleats,Perfect Fitness Perfect Rip Deck,492.0,24549.0,2016-05,884,2.139,1.8
+Apparel,2016-05,Cleats,Total Gym 1400,1.0,136.0,2016-05,1,0.877,1.0
+Apparel,2016-05,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,112.0,7280.0,2016-05,17,1.424,0.15
+Apparel,2016-06,Cleats,Perfect Fitness Perfect Rip Deck,423.0,21168.0,2016-06,211,1.185,0.5
+Apparel,2016-06,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,117.0,7605.0,2016-06,82,2.008,0.7
+Apparel,2016-07,Cleats,Perfect Fitness Perfect Rip Deck,387.0,18669.0,2016-07,51,2.184,0.13
+Apparel,2016-07,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,130.0,8450.0,2016-07,206,1.077,1.58
+Apparel,2016-08,Cleats,Perfect Fitness Perfect Rip Deck,478.0,23226.0,2016-08,931,1.867,1.95
+Apparel,2016-08,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,137.0,8905.0,2016-08,261,0.779,1.91
+Apparel,2016-08,Women's Clothing,Summer dresses,1.0,99.0,2016-08,0,1.696,0.0
+Apparel,2016-09,Cleats,Perfect Fitness Perfect Rip Deck,399.0,19698.0,2016-09,582,1.349,1.46
+Apparel,2016-09,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,98.0,6370.0,2016-09,34,1.88,0.35
+Apparel,2016-10,Cleats,Perfect Fitness Perfect Rip Deck,427.0,20139.0,2016-10,12,1.36,0.03
+Apparel,2016-10,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,141.0,9165.0,2016-10,182,0.777,1.29
+Apparel,2016-11,Cleats,Perfect Fitness Perfect Rip Deck,384.0,18228.0,2016-11,411,1.593,1.07
+Apparel,2016-11,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,116.0,7540.0,2016-11,166,0.316,1.43
+Apparel,2016-12,Cleats,Perfect Fitness Perfect Rip Deck,403.0,20139.0,2016-12,674,0.364,1.67
+Apparel,2016-12,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,131.0,8515.0,2016-12,119,1.36,0.91
+Apparel,2017-01,Cleats,Perfect Fitness Perfect Rip Deck,357.0,17493.0,2017-01,529,0.528,1.48
+Apparel,2017-01,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,112.0,7280.0,2017-01,188,0.757,1.68
+Apparel,2017-02,Cleats,Perfect Fitness Perfect Rip Deck,436.0,21021.0,2017-02,679,0.919,1.56
+Apparel,2017-02,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,98.0,6370.0,2017-02,99,1.446,1.01
+Apparel,2017-03,Cleats,Perfect Fitness Perfect Rip Deck,345.0,16611.0,2017-03,57,0.396,0.17
+Apparel,2017-03,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,137.0,8905.0,2017-03,101,0.219,0.74
+Apparel,2017-04,Cleats,Perfect Fitness Perfect Rip Deck,406.0,20580.0,2017-04,621,0.887,1.53
+Apparel,2017-04,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,110.0,7150.0,2017-04,93,0.58,0.85
+Apparel,2017-05,Cleats,Perfect Fitness Perfect Rip Deck,406.0,20433.0,2017-05,730,0.943,1.8
+Apparel,2017-05,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,115.0,7475.0,2017-05,4,1.008,0.03
+Apparel,2017-06,Cleats,Perfect Fitness Perfect Rip Deck,317.0,15729.0,2017-06,288,0.502,0.91
+Apparel,2017-06,Crafts,Porcelain crafts,2.0,462.0,2017-06,1,0.216,0.5
+Apparel,2017-06,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,133.0,8645.0,2017-06,70,1.424,0.53
+Apparel,2017-07,Cleats,Perfect Fitness Perfect Rip Deck,339.0,16611.0,2017-07,37,2.059,0.11
+Apparel,2017-07,Crafts,Porcelain crafts,5.0,1155.0,2017-07,0,1.128,0.0
+Apparel,2017-07,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,126.0,8190.0,2017-07,194,1.327,1.54
+Apparel,2017-08,Cleats,Perfect Fitness Perfect Rip Deck,396.0,19257.0,2017-08,158,0.569,0.4
+Apparel,2017-08,Crafts,Porcelain crafts,3.0,693.0,2017-08,6,1.771,2.0
+Apparel,2017-08,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,102.0,6630.0,2017-08,52,1.182,0.51
+Apparel,2017-09,Baby,Baby sweater,1.0,28.0,2017-09,1,1.296,1.0
+Apparel,2017-09,Children's Clothing,Children's heaters,1.0,169.0,2017-09,2,2.177,2.0
+Apparel,2017-09,Cleats,Perfect Fitness Perfect Rip Deck,391.0,19404.0,2017-09,536,1.657,1.37
+Apparel,2017-09,Cleats,Total Gym 1400,5.0,680.0,2017-09,1,0.192,0.2
+Apparel,2017-09,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,127.0,8255.0,2017-09,106,1.024,0.83
+Apparel,2017-10,Baby,Baby sweater,22.0,616.0,2017-10,27,1.527,1.23
+Apparel,2017-10,Children's Clothing,Children's heaters,5.0,845.0,2017-10,3,2.283,0.6
+Apparel,2017-10,Cleats,Perfect Fitness Perfect Rip Deck,12.0,1323.0,2017-10,2,2.283,0.17
+Apparel,2017-10,Crafts,Porcelain crafts,43.0,9933.0,2017-10,39,1.993,0.91
+Apparel,2017-10,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,1.0,65.0,2017-10,0,0.442,0.0
+Apparel,2017-11,Baby,Baby sweater,10.0,280.0,2017-11,10,0.306,1.0
+Apparel,2017-11,Children's Clothing,Children's heaters,3.0,507.0,2017-11,1,0.782,0.33
+Apparel,2017-11,Cleats,Perfect Fitness Perfect Rip Deck,9.0,1323.0,2017-11,7,2.304,0.78
+Apparel,2017-11,Crafts,Porcelain crafts,25.0,5775.0,2017-11,36,0.542,1.44
+Apparel,2017-11,Men's Clothing,Men's gala suit,4.0,348.0,2017-11,5,1.207,1.25
+Apparel,2017-11,Women's Clothing,Summer dresses,21.0,2079.0,2017-11,25,0.21,1.19
+Apparel,2017-12,Cleats,Perfect Fitness Perfect Rip Deck,8.0,1176.0,2017-12,0,0.695,0.0
+Apparel,2017-12,Men's Clothing,Men's gala suit,4.0,348.0,2017-12,3,1.575,0.75
+Apparel,2017-12,Women's Clothing,Summer dresses,44.0,4356.0,2017-12,13,1.362,0.3
+Book Shop,2015-08,Books,Sports Books,1.0,15.0,2015-08,0,1.997,0.0
+Book Shop,2015-09,Books,Sports Books,1.0,15.0,2015-09,2,1.133,2.0
+Book Shop,2017-09,Books,Sports Books,4.0,60.0,2017-09,0,0.994,0.0
+Book Shop,2017-10,Books,Sports Books,32.0,480.0,2017-10,58,2.037,1.81
+Book Shop,2017-11,Books,Sports Books,15.0,225.0,2017-11,26,1.47,1.73
+Book Shop,2017-12,Books,Sports Books,3.0,45.0,2017-12,2,0.999,0.67
+Discs Shop,2015-08,CDs,CDs of rock,2.0,12.0,2015-08,2,1.322,1.0
+Discs Shop,2015-09,CDs,CDs of rock,4.0,24.0,2015-09,8,1.444,2.0
+Discs Shop,2015-10,DVDs,DVDs,3.0,237.0,2015-10,2,0.361,0.67
+Discs Shop,2015-11,Video Games,Fighting video games,2.0,38.0,2015-11,1,0.273,0.5
+Discs Shop,2015-12,DVDs,DVDs,1.0,79.0,2015-12,2,2.015,2.0
+Discs Shop,2015-12,Music,Rock music,1.0,110.0,2015-12,2,0.349,2.0
+Discs Shop,2015-12,Video Games,Fighting video games,2.0,38.0,2015-12,3,0.898,1.5
+Discs Shop,2016-01,DVDs,DVDs,3.0,237.0,2016-01,4,1.52,1.33
+Discs Shop,2016-01,Video Games,Fighting video games,1.0,19.0,2016-01,1,0.15,1.0
+Discs Shop,2016-02,DVDs,DVDs,2.0,158.0,2016-02,3,0.568,1.5
+Discs Shop,2016-02,Music,Rock music,1.0,110.0,2016-02,2,0.27,2.0
+Discs Shop,2016-03,Video Games,Fighting video games,3.0,57.0,2016-03,0,0.468,0.0
+Discs Shop,2016-09,Video Games,Fighting video games,2.0,38.0,2016-09,0,0.104,0.0
+Discs Shop,2016-12,Video Games,Fighting video games,4.0,76.0,2016-12,0,0.497,0.0
+Discs Shop,2017-06,CDs,CDs of rock,1.0,6.0,2017-06,0,0.772,0.0
+Discs Shop,2017-06,DVDs,DVDs,1.0,79.0,2017-06,2,1.551,2.0
+Discs Shop,2017-08,CDs,CDs of rock,1.0,6.0,2017-08,1,1.43,1.0
+Discs Shop,2017-08,DVDs,DVDs,1.0,79.0,2017-08,0,1.299,0.0
+Discs Shop,2017-09,CDs,CDs of rock,3.0,18.0,2017-09,1,0.87,0.33
+Discs Shop,2017-09,DVDs,DVDs,2.0,158.0,2017-09,2,2.222,1.0
+Discs Shop,2017-10,CDs,CDs of rock,36.0,216.0,2017-10,34,2.223,0.94
+Discs Shop,2017-10,DVDs,DVDs,22.0,1738.0,2017-10,41,0.17,1.86
+Discs Shop,2017-11,CDs,CDs of rock,16.0,96.0,2017-11,3,0.854,0.19
+Discs Shop,2017-11,DVDs,DVDs,55.0,4345.0,2017-11,33,0.791,0.6
+Discs Shop,2017-11,Music,Rock music,3.0,330.0,2017-11,2,0.733,0.67
+Discs Shop,2017-11,Video Games,Fighting video games,19.0,361.0,2017-11,18,0.156,0.95
+Discs Shop,2017-12,DVDs,DVDs,32.0,2528.0,2017-12,64,2.036,2.0
+Discs Shop,2017-12,Music,Rock music,9.0,990.0,2017-12,16,2.263,1.78
+Discs Shop,2017-12,Video Games,Fighting video games,32.0,608.0,2017-12,4,1.878,0.12
+Fan Shop,2015-01,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,74.0,11100.0,2015-01,82,0.712,1.11
+Fan Shop,2015-01,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,94.0,18800.0,2015-01,141,0.985,1.5
+Fan Shop,2015-01,Hunting & Shooting,ENO Atlas Hammock Straps,14.0,272.0,2015-01,20,0.2,1.43
+Fan Shop,2015-01,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,400.0,15625.0,2015-01,442,2.342,1.1
+Fan Shop,2015-01,Water Sports,Pelican Sunstream 100 Kayak,86.0,8600.0,2015-01,132,2.032,1.53
+Fan Shop,2015-02,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,85.0,12750.0,2015-02,101,1.046,1.19
+Fan Shop,2015-02,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,87.0,17400.0,2015-02,7,1.684,0.08
+Fan Shop,2015-02,Hunting & Shooting,ENO Atlas Hammock Straps,3.0,68.0,2015-02,5,0.735,1.67
+Fan Shop,2015-02,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,277.0,11000.0,2015-02,144,2.34,0.52
+Fan Shop,2015-02,Water Sports,Pelican Sunstream 100 Kayak,81.0,8100.0,2015-02,32,0.13,0.4
+Fan Shop,2015-03,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,71.0,10650.0,2015-03,97,0.773,1.37
+Fan Shop,2015-03,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,85.0,17000.0,2015-03,153,1.429,1.8
+Fan Shop,2015-03,Hunting & Shooting,ENO Atlas Hammock Straps,2.0,68.0,2015-03,2,0.376,1.0
+Fan Shop,2015-03,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,355.0,15250.0,2015-03,589,1.65,1.66
+Fan Shop,2015-03,Water Sports,Pelican Sunstream 100 Kayak,68.0,6800.0,2015-03,42,1.097,0.62
+Fan Shop,2015-04,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,76.0,11400.0,2015-04,72,1.199,0.95
+Fan Shop,2015-04,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,87.0,17400.0,2015-04,73,0.698,0.84
+Fan Shop,2015-04,Hunting & Shooting,ENO Atlas Hammock Straps,1.0,68.0,2015-04,2,1.868,2.0
+Fan Shop,2015-04,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,329.0,13000.0,2015-04,116,1.169,0.35
+Fan Shop,2015-04,Water Sports,Pelican Sunstream 100 Kayak,84.0,8400.0,2015-04,100,0.626,1.19
+Fan Shop,2015-05,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,54.0,8100.0,2015-05,59,0.731,1.09
+Fan Shop,2015-05,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,87.0,17400.0,2015-05,68,2.167,0.78
+Fan Shop,2015-05,Hunting & Shooting,ENO Atlas Hammock Straps,5.0,136.0,2015-05,10,0.435,2.0
+Fan Shop,2015-05,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,218.0,9500.0,2015-05,399,1.973,1.83
+Fan Shop,2015-05,Water Sports,Pelican Sunstream 100 Kayak,80.0,8000.0,2015-05,35,2.18,0.44
+Fan Shop,2015-06,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,79.0,11850.0,2015-06,103,1.808,1.3
+Fan Shop,2015-06,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,92.0,18400.0,2015-06,76,1.658,0.83
+Fan Shop,2015-06,Hunting & Shooting,ENO Atlas Hammock Straps,4.0,204.0,2015-06,2,1.392,0.5
+Fan Shop,2015-06,Hunting & Shooting,The North Face Women's Recon Backpack,5.0,176.0,2015-06,8,2.092,1.6
+Fan Shop,2015-06,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,277.0,12625.0,2015-06,430,0.74,1.55
+Fan Shop,2015-06,Water Sports,Pelican Sunstream 100 Kayak,67.0,6700.0,2015-06,12,1.422,0.18
+Fan Shop,2015-07,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,75.0,11250.0,2015-07,125,0.483,1.67
+Fan Shop,2015-07,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,78.0,15600.0,2015-07,46,1.714,0.59
+Fan Shop,2015-07,Hunting & Shooting,ENO Atlas Hammock Straps,9.0,136.0,2015-07,5,1.879,0.56
+Fan Shop,2015-07,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,284.0,12000.0,2015-07,22,1.993,0.08
+Fan Shop,2015-07,Water Sports,Pelican Sunstream 100 Kayak,71.0,7100.0,2015-07,26,2.082,0.37
+Fan Shop,2015-08,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,74.0,11100.0,2015-08,132,0.553,1.78
+Fan Shop,2015-08,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,91.0,18200.0,2015-08,146,2.297,1.6
+Fan Shop,2015-08,Hunting & Shooting,ENO Atlas Hammock Straps,13.0,204.0,2015-08,20,1.32,1.54
+Fan Shop,2015-08,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,230.0,9500.0,2015-08,58,1.148,0.25
+Fan Shop,2015-08,Water Sports,Pelican Sunstream 100 Kayak,95.0,9500.0,2015-08,105,1.924,1.11
+Fan Shop,2015-09,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,79.0,11850.0,2015-09,39,2.082,0.49
+Fan Shop,2015-09,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,77.0,15400.0,2015-09,130,1.167,1.69
+Fan Shop,2015-09,Hunting & Shooting,ENO Atlas Hammock Straps,9.0,204.0,2015-09,17,0.574,1.89
+Fan Shop,2015-09,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,349.0,14750.0,2015-09,414,1.383,1.19
+Fan Shop,2015-09,Water Sports,Pelican Sunstream 100 Kayak,82.0,8200.0,2015-09,22,1.272,0.27
+Fan Shop,2015-10,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,83.0,12450.0,2015-10,101,0.815,1.22
+Fan Shop,2015-10,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,92.0,18400.0,2015-10,66,1.414,0.72
+Fan Shop,2015-10,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,234.0,10875.0,2015-10,423,0.641,1.81
+Fan Shop,2015-10,Water Sports,Pelican Sunstream 100 Kayak,80.0,8000.0,2015-10,138,0.945,1.72
+Fan Shop,2015-11,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,66.0,9900.0,2015-11,101,1.194,1.53
+Fan Shop,2015-11,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,80.0,16000.0,2015-11,106,0.674,1.32
+Fan Shop,2015-11,Hunting & Shooting,ENO Atlas Hammock Straps,7.0,204.0,2015-11,6,2.086,0.86
+Fan Shop,2015-11,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,329.0,14375.0,2015-11,64,1.199,0.19
+Fan Shop,2015-11,Water Sports,Pelican Sunstream 100 Kayak,66.0,6600.0,2015-11,53,1.283,0.8
+Fan Shop,2015-12,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,65.0,9750.0,2015-12,76,2.13,1.17
+Fan Shop,2015-12,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,88.0,17600.0,2015-12,30,1.805,0.34
+Fan Shop,2015-12,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,346.0,14875.0,2015-12,326,2.158,0.94
+Fan Shop,2015-12,Water Sports,Pelican Sunstream 100 Kayak,97.0,9700.0,2015-12,55,0.719,0.57
+Fan Shop,2016-01,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,87.0,13050.0,2016-01,62,1.235,0.71
+Fan Shop,2016-01,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,90.0,18000.0,2016-01,91,1.805,1.01
+Fan Shop,2016-01,Hunting & Shooting,ENO Atlas Hammock Straps,5.0,68.0,2016-01,3,1.162,0.6
+Fan Shop,2016-01,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,332.0,13500.0,2016-01,56,0.966,0.17
+Fan Shop,2016-01,Water Sports,Pelican Sunstream 100 Kayak,95.0,9500.0,2016-01,106,0.312,1.12
+Fan Shop,2016-02,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,66.0,9900.0,2016-02,90,1.958,1.36
+Fan Shop,2016-02,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,85.0,17000.0,2016-02,29,0.197,0.34
+Fan Shop,2016-02,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,336.0,13375.0,2016-02,132,2.331,0.39
+Fan Shop,2016-02,Water Sports,Pelican Sunstream 100 Kayak,68.0,6800.0,2016-02,22,2.336,0.32
+Fan Shop,2016-03,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,71.0,10650.0,2016-03,31,0.301,0.44
+Fan Shop,2016-03,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,86.0,17200.0,2016-03,32,1.047,0.37
+Fan Shop,2016-03,Hunting & Shooting,ENO Atlas Hammock Straps,4.0,204.0,2016-03,7,1.779,1.75
+Fan Shop,2016-03,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,298.0,12750.0,2016-03,83,0.629,0.28
+Fan Shop,2016-03,Water Sports,Pelican Sunstream 100 Kayak,75.0,7500.0,2016-03,125,1.634,1.67
+Fan Shop,2016-04,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,68.0,10200.0,2016-04,42,1.753,0.62
+Fan Shop,2016-04,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,89.0,17800.0,2016-04,154,0.362,1.73
+Fan Shop,2016-04,Hunting & Shooting,ENO Atlas Hammock Straps,4.0,68.0,2016-04,5,0.684,1.25
+Fan Shop,2016-04,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,283.0,12750.0,2016-04,470,1.81,1.66
+Fan Shop,2016-04,Water Sports,Pelican Sunstream 100 Kayak,75.0,7500.0,2016-04,9,0.536,0.12
+Fan Shop,2016-05,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,83.0,12450.0,2016-05,39,0.812,0.47
+Fan Shop,2016-05,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,80.0,16000.0,2016-05,32,2.298,0.4
+Fan Shop,2016-05,Hunting & Shooting,ENO Atlas Hammock Straps,2.0,68.0,2016-05,2,1.274,1.0
+Fan Shop,2016-05,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,375.0,14250.0,2016-05,136,1.463,0.36
+Fan Shop,2016-05,Water Sports,Pelican Sunstream 100 Kayak,89.0,8900.0,2016-05,95,0.98,1.07
+Fan Shop,2016-06,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,76.0,11400.0,2016-06,109,0.88,1.43
+Fan Shop,2016-06,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,81.0,16200.0,2016-06,131,1.999,1.62
+Fan Shop,2016-06,Hunting & Shooting,ENO Atlas Hammock Straps,9.0,204.0,2016-06,13,1.434,1.44
+Fan Shop,2016-06,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,283.0,12875.0,2016-06,190,0.402,0.67
+Fan Shop,2016-06,Water Sports,Pelican Sunstream 100 Kayak,68.0,6800.0,2016-06,55,2.263,0.81
+Fan Shop,2016-07,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,68.0,10200.0,2016-07,123,1.812,1.81
+Fan Shop,2016-07,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,107.0,21400.0,2016-07,16,1.895,0.15
+Fan Shop,2016-07,Hunting & Shooting,ENO Atlas Hammock Straps,5.0,136.0,2016-07,1,2.086,0.2
+Fan Shop,2016-07,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,383.0,16000.0,2016-07,24,0.461,0.06
+Fan Shop,2016-07,Water Sports,Pelican Sunstream 100 Kayak,100.0,10000.0,2016-07,74,2.284,0.74
+Fan Shop,2016-08,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,72.0,10800.0,2016-08,56,0.24,0.78
+Fan Shop,2016-08,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,108.0,21600.0,2016-08,120,1.366,1.11
+Fan Shop,2016-08,Hunting & Shooting,ENO Atlas Hammock Straps,4.0,68.0,2016-08,1,2.303,0.25
+Fan Shop,2016-08,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,303.0,13750.0,2016-08,528,0.365,1.74
+Fan Shop,2016-08,Water Sports,Pelican Sunstream 100 Kayak,89.0,8900.0,2016-08,78,2.257,0.88
+Fan Shop,2016-09,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,71.0,10650.0,2016-09,42,1.183,0.59
+Fan Shop,2016-09,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,86.0,17200.0,2016-09,131,1.862,1.52
+Fan Shop,2016-09,Hunting & Shooting,ENO Atlas Hammock Straps,5.0,204.0,2016-09,0,0.53,0.0
+Fan Shop,2016-09,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,262.0,11500.0,2016-09,339,0.542,1.29
+Fan Shop,2016-09,Water Sports,Pelican Sunstream 100 Kayak,84.0,8400.0,2016-09,155,1.082,1.85
+Fan Shop,2016-10,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,90.0,13500.0,2016-10,2,1.526,0.02
+Fan Shop,2016-10,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,80.0,16000.0,2016-10,112,1.631,1.4
+Fan Shop,2016-10,Hunting & Shooting,ENO Atlas Hammock Straps,5.0,68.0,2016-10,6,2.123,1.2
+Fan Shop,2016-10,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,406.0,16125.0,2016-10,135,0.722,0.33
+Fan Shop,2016-10,Water Sports,Pelican Sunstream 100 Kayak,93.0,9300.0,2016-10,79,1.602,0.85
+Fan Shop,2016-11,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,84.0,12600.0,2016-11,149,0.977,1.77
+Fan Shop,2016-11,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,104.0,20800.0,2016-11,81,1.488,0.78
+Fan Shop,2016-11,Hunting & Shooting,ENO Atlas Hammock Straps,6.0,136.0,2016-11,5,1.423,0.83
+Fan Shop,2016-11,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,282.0,12000.0,2016-11,438,1.346,1.55
+Fan Shop,2016-11,Water Sports,Pelican Sunstream 100 Kayak,107.0,10700.0,2016-11,121,0.677,1.13
+Fan Shop,2016-12,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,71.0,10650.0,2016-12,87,0.873,1.23
+Fan Shop,2016-12,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,87.0,17400.0,2016-12,128,0.83,1.47
+Fan Shop,2016-12,Hunting & Shooting,ENO Atlas Hammock Straps,5.0,136.0,2016-12,5,1.931,1.0
+Fan Shop,2016-12,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,328.0,13375.0,2016-12,460,0.469,1.4
+Fan Shop,2016-12,Water Sports,Pelican Sunstream 100 Kayak,73.0,7300.0,2016-12,81,0.901,1.11
+Fan Shop,2017-01,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,66.0,9900.0,2017-01,15,1.309,0.23
+Fan Shop,2017-01,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,73.0,14600.0,2017-01,32,1.346,0.44
+Fan Shop,2017-01,Hunting & Shooting,ENO Atlas Hammock Straps,8.0,204.0,2017-01,12,2.043,1.5
+Fan Shop,2017-01,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,288.0,12875.0,2017-01,491,0.671,1.7
+Fan Shop,2017-01,Water Sports,Pelican Sunstream 100 Kayak,60.0,6000.0,2017-01,104,1.406,1.73
+Fan Shop,2017-02,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,81.0,12150.0,2017-02,81,1.99,1.0
+Fan Shop,2017-02,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,83.0,16600.0,2017-02,91,0.682,1.1
+Fan Shop,2017-02,Hunting & Shooting,ENO Atlas Hammock Straps,7.0,136.0,2017-02,0,1.739,0.0
+Fan Shop,2017-02,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,337.0,13125.0,2017-02,189,1.799,0.56
+Fan Shop,2017-02,Water Sports,Pelican Sunstream 100 Kayak,68.0,6800.0,2017-02,105,0.267,1.54
+Fan Shop,2017-03,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,62.0,9300.0,2017-03,11,0.161,0.18
+Fan Shop,2017-03,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,77.0,15400.0,2017-03,91,1.125,1.18
+Fan Shop,2017-03,Hunting & Shooting,ENO Atlas Hammock Straps,7.0,204.0,2017-03,3,0.172,0.43
+Fan Shop,2017-03,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,287.0,13125.0,2017-03,175,2.098,0.61
+Fan Shop,2017-03,Water Sports,Pelican Sunstream 100 Kayak,96.0,9600.0,2017-03,100,1.539,1.04
+Fan Shop,2017-04,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,71.0,10650.0,2017-04,91,1.386,1.28
+Fan Shop,2017-04,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,85.0,17000.0,2017-04,8,2.181,0.09
+Fan Shop,2017-04,Hunting & Shooting,ENO Atlas Hammock Straps,4.0,68.0,2017-04,3,1.917,0.75
+Fan Shop,2017-04,Hunting & Shooting,insta-bed Neverflat Air Mattress,1.0,60.0,2017-04,2,1.218,2.0
+Fan Shop,2017-04,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,316.0,12625.0,2017-04,583,0.947,1.84
+Fan Shop,2017-04,Water Sports,Pelican Sunstream 100 Kayak,79.0,7900.0,2017-04,23,0.574,0.29
+Fan Shop,2017-05,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,70.0,10500.0,2017-05,97,2.161,1.39
+Fan Shop,2017-05,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,82.0,16400.0,2017-05,85,0.699,1.04
+Fan Shop,2017-05,Hunting & Shooting,The North Face Women's Recon Backpack,2.0,176.0,2017-05,2,0.293,1.0
+Fan Shop,2017-05,Hunting & Shooting,insta-bed Neverflat Air Mattress,3.0,180.0,2017-05,1,0.985,0.33
+Fan Shop,2017-05,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,335.0,13625.0,2017-05,599,0.851,1.79
+Fan Shop,2017-05,Water Sports,Pelican Sunstream 100 Kayak,79.0,7900.0,2017-05,4,1.052,0.05
+Fan Shop,2017-06,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,73.0,10950.0,2017-06,113,0.464,1.55
+Fan Shop,2017-06,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,91.0,18200.0,2017-06,14,0.329,0.15
+Fan Shop,2017-06,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,258.0,10750.0,2017-06,477,1.344,1.85
+Fan Shop,2017-06,Water Sports,Pelican Sunstream 100 Kayak,75.0,7500.0,2017-06,84,2.031,1.12
+Fan Shop,2017-07,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,71.0,10650.0,2017-07,90,0.324,1.27
+Fan Shop,2017-07,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,85.0,17000.0,2017-07,35,1.76,0.41
+Fan Shop,2017-07,Hunting & Shooting,insta-bed Neverflat Air Mattress,2.0,120.0,2017-07,0,1.103,0.0
+Fan Shop,2017-07,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,337.0,13500.0,2017-07,91,1.147,0.27
+Fan Shop,2017-07,Water Sports,Pelican Sunstream 100 Kayak,82.0,8200.0,2017-07,22,0.662,0.27
+Fan Shop,2017-08,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,69.0,10350.0,2017-08,6,1.258,0.09
+Fan Shop,2017-08,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,87.0,17400.0,2017-08,167,1.96,1.92
+Fan Shop,2017-08,Hunting & Shooting,The North Face Women's Recon Backpack,7.0,352.0,2017-08,7,1.34,1.0
+Fan Shop,2017-08,Hunting & Shooting,insta-bed Neverflat Air Mattress,5.0,300.0,2017-08,10,0.13,2.0
+Fan Shop,2017-08,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,248.0,10250.0,2017-08,436,1.932,1.76
+Fan Shop,2017-08,Water Sports,Pelican Sunstream 100 Kayak,94.0,9400.0,2017-08,129,2.041,1.37
+Fan Shop,2017-09,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,75.0,11250.0,2017-09,34,0.765,0.45
+Fan Shop,2017-09,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,94.0,18800.0,2017-09,8,1.497,0.09
+Fan Shop,2017-09,Hunting & Shooting,The North Face Women's Recon Backpack,2.0,176.0,2017-09,1,0.959,0.5
+Fan Shop,2017-09,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,254.0,11250.0,2017-09,150,0.916,0.59
+Fan Shop,2017-09,Water Sports,Pelican Maverick 100X Kayak,7.0,1204.0,2017-09,3,1.412,0.43
+Fan Shop,2017-09,Water Sports,Pelican Sunstream 100 Kayak,75.0,7500.0,2017-09,29,1.609,0.39
+Fan Shop,2017-10,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,1.0,150.0,2017-10,0,1.778,0.0
+Fan Shop,2017-10,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,5.0,250.0,2017-10,8,2.002,1.6
+Fan Shop,2017-12,Toys,Toys,73.0,438.0,2017-12,133,0.195,1.82
+Fitness,2015-01,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,2.0,58.0,2015-01,1,0.756,0.5
+Fitness,2015-01,Hockey,Nike Dri-FIT Crew Sock 6 Pack,10.0,108.0,2015-01,10,0.118,1.0
+Fitness,2015-01,Hockey,Nike Women's Legend V-Neck T-Shirt,4.0,58.0,2015-01,7,0.17,1.75
+Fitness,2015-01,Lacrosse,Under Armour Men's Tech II T-Shirt,6.0,177.0,2015-01,4,0.801,0.67
+Fitness,2015-01,Tennis & Racquet,Nike Men's Comfort 2 Slide,11.0,424.0,2015-01,19,0.936,1.73
+Fitness,2015-02,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,3.0,58.0,2015-02,3,0.56,1.0
+Fitness,2015-02,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,7.0,270.0,2015-02,14,2.099,2.0
+Fitness,2015-02,Hockey,Nike Dri-FIT Crew Sock 6 Pack,6.0,72.0,2015-02,1,0.96,0.17
+Fitness,2015-02,Hockey,Nike Women's Legend V-Neck T-Shirt,5.0,58.0,2015-02,1,0.819,0.2
+Fitness,2015-02,Lacrosse,Under Armour Men's Tech II T-Shirt,2.0,59.0,2015-02,3,0.865,1.5
+Fitness,2015-02,Tennis & Racquet,Nike Men's Comfort 2 Slide,3.0,106.0,2015-02,2,0.988,0.67
+Fitness,2015-03,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,3.0,58.0,2015-03,5,1.842,1.67
+Fitness,2015-03,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,5.0,135.0,2015-03,4,1.0,0.8
+Fitness,2015-03,Hockey,Nike Dri-FIT Crew Sock 6 Pack,6.0,108.0,2015-03,11,1.117,1.83
+Fitness,2015-03,Lacrosse,Under Armour Men's Tech II T-Shirt,7.0,118.0,2015-03,1,0.329,0.14
+Fitness,2015-03,Tennis & Racquet,Nike Men's Comfort 2 Slide,6.0,212.0,2015-03,9,0.212,1.5
+Fitness,2015-04,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,3.0,135.0,2015-04,3,0.535,1.0
+Fitness,2015-04,Hockey,Nike Women's Legend V-Neck T-Shirt,5.0,58.0,2015-04,6,1.885,1.2
+Fitness,2015-04,Lacrosse,Under Armour Men's Tech II T-Shirt,5.0,118.0,2015-04,7,0.922,1.4
+Fitness,2015-04,Tennis & Racquet,Nike Men's Comfort 2 Slide,4.0,106.0,2015-04,5,0.309,1.25
+Fitness,2015-05,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,3.0,116.0,2015-05,3,1.964,1.0
+Fitness,2015-05,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,9.0,540.0,2015-05,5,0.162,0.56
+Fitness,2015-05,Hockey,Nike Dri-FIT Crew Sock 6 Pack,5.0,72.0,2015-05,1,0.333,0.2
+Fitness,2015-05,Hockey,Nike Women's Legend V-Neck T-Shirt,12.0,290.0,2015-05,22,1.567,1.83
+Fitness,2015-05,Lacrosse,Under Armour Men's Tech II T-Shirt,3.0,118.0,2015-05,4,1.033,1.33
+Fitness,2015-05,Tennis & Racquet,Nike Men's Comfort 2 Slide,5.0,212.0,2015-05,9,1.653,1.8
+Fitness,2015-06,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,6.0,174.0,2015-06,0,2.315,0.0
+Fitness,2015-06,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,3.0,135.0,2015-06,6,2.079,2.0
+Fitness,2015-06,Lacrosse,Under Armour Men's Tech II T-Shirt,7.0,118.0,2015-06,9,0.208,1.29
+Fitness,2015-07,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,3.0,58.0,2015-07,2,1.256,0.67
+Fitness,2015-07,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,8.0,405.0,2015-07,11,1.334,1.38
+Fitness,2015-07,Hockey,Nike Dri-FIT Crew Sock 6 Pack,6.0,108.0,2015-07,11,0.291,1.83
+Fitness,2015-07,Hockey,Nike Women's Legend V-Neck T-Shirt,4.0,58.0,2015-07,4,0.385,1.0
+Fitness,2015-07,Lacrosse,Under Armour Men's Tech II T-Shirt,8.0,118.0,2015-07,9,2.16,1.12
+Fitness,2015-07,Tennis & Racquet,Nike Men's Comfort 2 Slide,20.0,636.0,2015-07,12,1.052,0.6
+Fitness,2015-08,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,10.0,405.0,2015-08,13,1.617,1.3
+Fitness,2015-08,Hockey,Nike Dri-FIT Crew Sock 6 Pack,4.0,72.0,2015-08,4,2.11,1.0
+Fitness,2015-08,Hockey,Nike Women's Legend V-Neck T-Shirt,1.0,58.0,2015-08,0,0.233,0.0
+Fitness,2015-08,Lacrosse,Under Armour Men's Tech II T-Shirt,5.0,59.0,2015-08,1,0.141,0.2
+Fitness,2015-08,Tennis & Racquet,Nike Men's Comfort 2 Slide,8.0,318.0,2015-08,10,1.703,1.25
+Fitness,2015-09,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,13.0,174.0,2015-09,6,0.875,0.46
+Fitness,2015-09,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,5.0,405.0,2015-09,3,2.08,0.6
+Fitness,2015-09,Hockey,Nike Dri-FIT Crew Sock 6 Pack,7.0,72.0,2015-09,11,0.767,1.57
+Fitness,2015-09,Soccer,Elevation Training Mask 2.0,3.0,160.0,2015-09,0,0.216,0.0
+Fitness,2015-09,Tennis & Racquet,Nike Men's Comfort 2 Slide,2.0,106.0,2015-09,1,0.692,0.5
+Fitness,2015-10,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,6.0,116.0,2015-10,0,0.216,0.0
+Fitness,2015-10,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,5.0,135.0,2015-10,3,0.926,0.6
+Fitness,2015-10,Hockey,Nike Dri-FIT Crew Sock 6 Pack,7.0,72.0,2015-10,6,2.216,0.86
+Fitness,2015-10,Hockey,Nike Women's Legend V-Neck T-Shirt,5.0,58.0,2015-10,1,1.975,0.2
+Fitness,2015-10,Tennis & Racquet,Nike Men's Comfort 2 Slide,6.0,212.0,2015-10,2,1.837,0.33
+Fitness,2015-11,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,1.0,58.0,2015-11,0,0.339,0.0
+Fitness,2015-11,Hockey,Nike Dri-FIT Crew Sock 6 Pack,1.0,36.0,2015-11,2,1.381,2.0
+Fitness,2015-11,Hockey,Nike Women's Legend V-Neck T-Shirt,5.0,116.0,2015-11,0,1.619,0.0
+Fitness,2015-11,Lacrosse,Under Armour Men's Tech II T-Shirt,1.0,59.0,2015-11,1,0.901,1.0
+Fitness,2015-11,Tennis & Racquet,Nike Men's Comfort 2 Slide,18.0,530.0,2015-11,30,0.666,1.67
+Fitness,2015-12,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,2.0,58.0,2015-12,4,0.324,2.0
+Fitness,2015-12,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,14.0,675.0,2015-12,9,1.346,0.64
+Fitness,2015-12,Hockey,Nike Dri-FIT Crew Sock 6 Pack,8.0,72.0,2015-12,10,1.796,1.25
+Fitness,2015-12,Hockey,Nike Women's Legend V-Neck T-Shirt,1.0,58.0,2015-12,1,2.195,1.0
+Fitness,2015-12,Lacrosse,Under Armour Men's Tech II T-Shirt,9.0,177.0,2015-12,12,0.417,1.33
+Fitness,2015-12,Sporting Goods,Smart watch,4.0,628.0,2015-12,7,0.762,1.75
+Fitness,2015-12,Tennis & Racquet,Nike Men's Comfort 2 Slide,3.0,212.0,2015-12,2,0.497,0.67
+Fitness,2016-01,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,2.0,58.0,2016-01,1,1.703,0.5
+Fitness,2016-01,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,2.0,135.0,2016-01,4,2.261,2.0
+Fitness,2016-01,Lacrosse,Under Armour Men's Tech II T-Shirt,4.0,59.0,2016-01,0,1.006,0.0
+Fitness,2016-01,Sporting Goods,Smart watch,2.0,314.0,2016-01,4,0.522,2.0
+Fitness,2016-01,Tennis & Racquet,Nike Men's Comfort 2 Slide,2.0,106.0,2016-01,3,1.603,1.5
+Fitness,2016-02,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,7.0,174.0,2016-02,13,1.034,1.86
+Fitness,2016-02,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,3.0,135.0,2016-02,1,0.183,0.33
+Fitness,2016-02,Hockey,Nike Dri-FIT Crew Sock 6 Pack,3.0,72.0,2016-02,4,0.409,1.33
+Fitness,2016-02,Hockey,Nike Women's Legend V-Neck T-Shirt,4.0,58.0,2016-02,3,1.108,0.75
+Fitness,2016-02,Sporting Goods,Smart watch,1.0,157.0,2016-02,1,1.481,1.0
+Fitness,2016-02,Tennis & Racquet,Nike Men's Comfort 2 Slide,7.0,318.0,2016-02,14,0.331,2.0
+Fitness,2016-03,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,2.0,58.0,2016-03,4,0.699,2.0
+Fitness,2016-03,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,4.0,135.0,2016-03,6,2.004,1.5
+Fitness,2016-03,Hockey,Nike Dri-FIT Crew Sock 6 Pack,1.0,36.0,2016-03,2,1.382,2.0
+Fitness,2016-03,Hockey,Nike Women's Legend V-Neck T-Shirt,4.0,58.0,2016-03,7,1.342,1.75
+Fitness,2016-03,Sporting Goods,Smart watch,1.0,157.0,2016-03,2,0.425,2.0
+Fitness,2016-03,Tennis & Racquet,Nike Men's Comfort 2 Slide,4.0,106.0,2016-03,3,1.421,0.75
+Fitness,2016-04,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,13.0,232.0,2016-04,22,0.791,1.69
+Fitness,2016-04,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,9.0,270.0,2016-04,3,0.635,0.33
+Fitness,2016-04,Hockey,Nike Dri-FIT Crew Sock 6 Pack,5.0,72.0,2016-04,4,0.467,0.8
+Fitness,2016-04,Hockey,Nike Women's Legend V-Neck T-Shirt,5.0,58.0,2016-04,7,2.052,1.4
+Fitness,2016-04,Lacrosse,Under Armour Men's Tech II T-Shirt,11.0,177.0,2016-04,2,1.177,0.18
+Fitness,2016-04,Tennis & Racquet,Nike Men's Comfort 2 Slide,20.0,636.0,2016-04,20,1.726,1.0
+Fitness,2016-05,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,22.0,945.0,2016-05,34,1.552,1.55
+Fitness,2016-05,Hockey,Nike Dri-FIT Crew Sock 6 Pack,7.0,108.0,2016-05,2,0.839,0.29
+Fitness,2016-05,Lacrosse,Under Armour Men's Tech II T-Shirt,9.0,118.0,2016-05,6,0.543,0.67
+Fitness,2016-06,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,5.0,116.0,2016-06,9,2.034,1.8
+Fitness,2016-06,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,19.0,540.0,2016-06,28,0.808,1.47
+Fitness,2016-06,Hockey,Nike Women's Legend V-Neck T-Shirt,5.0,58.0,2016-06,1,1.379,0.2
+Fitness,2016-06,Lacrosse,Under Armour Men's Tech II T-Shirt,3.0,118.0,2016-06,1,2.297,0.33
+Fitness,2016-06,Tennis & Racquet,Nike Men's Comfort 2 Slide,1.0,106.0,2016-06,1,2.066,1.0
+Fitness,2016-07,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,5.0,116.0,2016-07,7,2.01,1.4
+Fitness,2016-07,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,11.0,405.0,2016-07,4,0.641,0.36
+Fitness,2016-07,Hockey,Nike Dri-FIT Crew Sock 6 Pack,1.0,36.0,2016-07,1,0.555,1.0
+Fitness,2016-07,Hockey,Nike Women's Legend V-Neck T-Shirt,3.0,58.0,2016-07,2,1.409,0.67
+Fitness,2016-07,Lacrosse,Under Armour Men's Tech II T-Shirt,8.0,118.0,2016-07,15,0.702,1.88
+Fitness,2016-08,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,4.0,270.0,2016-08,4,0.226,1.0
+Fitness,2016-08,Hockey,Nike Dri-FIT Crew Sock 6 Pack,11.0,108.0,2016-08,19,0.188,1.73
+Fitness,2016-08,Hockey,Nike Women's Legend V-Neck T-Shirt,3.0,58.0,2016-08,3,0.983,1.0
+Fitness,2016-08,Soccer,Elevation Training Mask 2.0,4.0,160.0,2016-08,6,2.241,1.5
+Fitness,2016-09,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,3.0,58.0,2016-09,6,1.103,2.0
+Fitness,2016-09,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,5.0,135.0,2016-09,0,0.959,0.0
+Fitness,2016-09,Hockey,Nike Dri-FIT Crew Sock 6 Pack,4.0,36.0,2016-09,2,2.02,0.5
+Fitness,2016-09,Hockey,Nike Women's Legend V-Neck T-Shirt,6.0,116.0,2016-09,4,1.731,0.67
+Fitness,2016-09,Tennis & Racquet,Nike Men's Comfort 2 Slide,11.0,424.0,2016-09,18,0.593,1.64
+Fitness,2016-10,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,10.0,405.0,2016-10,8,1.965,0.8
+Fitness,2016-10,Hockey,Nike Dri-FIT Crew Sock 6 Pack,11.0,144.0,2016-10,12,2.228,1.09
+Fitness,2016-10,Hockey,Nike Women's Legend V-Neck T-Shirt,7.0,116.0,2016-10,8,2.292,1.14
+Fitness,2016-10,Lacrosse,Under Armour Men's Tech II T-Shirt,5.0,177.0,2016-10,0,1.789,0.0
+Fitness,2016-10,Tennis & Racquet,Nike Men's Comfort 2 Slide,3.0,106.0,2016-10,4,1.799,1.33
+Fitness,2016-11,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,7.0,116.0,2016-11,5,1.207,0.71
+Fitness,2016-11,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,4.0,135.0,2016-11,2,0.841,0.5
+Fitness,2016-11,Hockey,Nike Dri-FIT Crew Sock 6 Pack,15.0,108.0,2016-11,4,1.719,0.27
+Fitness,2016-11,Hockey,Nike Women's Legend V-Neck T-Shirt,2.0,58.0,2016-11,4,0.403,2.0
+Fitness,2016-12,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,5.0,58.0,2016-12,7,1.03,1.4
+Fitness,2016-12,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,6.0,270.0,2016-12,9,1.469,1.5
+Fitness,2016-12,Hockey,Nike Dri-FIT Crew Sock 6 Pack,7.0,144.0,2016-12,1,0.585,0.14
+Fitness,2016-12,Hockey,Nike Women's Legend V-Neck T-Shirt,8.0,174.0,2016-12,14,2.249,1.75
+Fitness,2016-12,Lacrosse,Under Armour Men's Tech II T-Shirt,9.0,118.0,2016-12,8,0.579,0.89
+Fitness,2016-12,Tennis & Racquet,Nike Men's Comfort 2 Slide,5.0,424.0,2016-12,3,0.741,0.6
+Fitness,2017-01,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,5.0,174.0,2017-01,10,1.482,2.0
+Fitness,2017-01,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,6.0,270.0,2017-01,0,2.326,0.0
+Fitness,2017-01,Hockey,Nike Dri-FIT Crew Sock 6 Pack,2.0,36.0,2017-01,4,0.809,2.0
+Fitness,2017-01,Hockey,Nike Women's Legend V-Neck T-Shirt,1.0,58.0,2017-01,2,0.719,2.0
+Fitness,2017-01,Lacrosse,Under Armour Men's Tech II T-Shirt,16.0,236.0,2017-01,17,1.452,1.06
+Fitness,2017-01,Tennis & Racquet,Nike Men's Comfort 2 Slide,8.0,318.0,2017-01,1,1.3,0.12
+Fitness,2017-02,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,4.0,116.0,2017-02,3,1.571,0.75
+Fitness,2017-02,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,5.0,270.0,2017-02,5,1.516,1.0
+Fitness,2017-02,Hockey,Nike Dri-FIT Crew Sock 6 Pack,2.0,36.0,2017-02,2,0.906,1.0
+Fitness,2017-02,Hockey,Nike Women's Legend V-Neck T-Shirt,9.0,116.0,2017-02,9,2.237,1.0
+Fitness,2017-02,Lacrosse,Under Armour Men's Tech II T-Shirt,10.0,177.0,2017-02,14,0.434,1.4
+Fitness,2017-02,Tennis & Racquet,Nike Men's Comfort 2 Slide,3.0,106.0,2017-02,4,0.923,1.33
+Fitness,2017-03,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,1.0,58.0,2017-03,1,1.371,1.0
+Fitness,2017-03,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,6.0,270.0,2017-03,11,2.163,1.83
+Fitness,2017-03,Hockey,Nike Dri-FIT Crew Sock 6 Pack,3.0,72.0,2017-03,3,1.39,1.0
+Fitness,2017-03,Hockey,Nike Women's Legend V-Neck T-Shirt,4.0,58.0,2017-03,5,2.09,1.25
+Fitness,2017-03,Lacrosse,Under Armour Men's Tech II T-Shirt,12.0,177.0,2017-03,19,0.503,1.58
+Fitness,2017-03,Tennis & Racquet,Nike Men's Comfort 2 Slide,9.0,318.0,2017-03,6,1.278,0.67
+Fitness,2017-04,Baseball & Softball,adidas Brazuca 2017 Official Match Ball,1.0,74.0,2017-04,0,1.502,0.0
+Fitness,2017-04,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,6.0,540.0,2017-04,12,1.486,2.0
+Fitness,2017-04,Hockey,Nike Dri-FIT Crew Sock 6 Pack,3.0,72.0,2017-04,5,2.085,1.67
+Fitness,2017-04,Hockey,Nike Women's Legend V-Neck T-Shirt,5.0,58.0,2017-04,1,0.369,0.2
+Fitness,2017-04,Lacrosse,Nike Kids' Grade School KD VI Basketball Shoe,3.0,186.0,2017-04,0,1.816,0.0
+Fitness,2017-04,Lacrosse,Under Armour Men's Tech II T-Shirt,4.0,177.0,2017-04,7,1.418,1.75
+Fitness,2017-04,Tennis & Racquet,Nike Men's Comfort 2 Slide,5.0,212.0,2017-04,5,1.646,1.0
+Fitness,2017-05,Baseball & Softball,adidas Brazuca 2017 Official Match Ball,3.0,222.0,2017-05,4,2.211,1.33
+Fitness,2017-05,Lacrosse,Nike Kids' Grade School KD VI Basketball Shoe,3.0,372.0,2017-05,4,1.446,1.33
+Fitness,2017-05,Soccer,Elevation Training Mask 2.0,19.0,960.0,2017-05,21,0.127,1.11
+Fitness,2017-05,Soccer,Nike Men's Fingertrap Max Training Shoe,5.0,285.0,2017-05,5,1.372,1.0
+Fitness,2017-06,Baseball & Softball,adidas Brazuca 2017 Official Match Ball,2.0,148.0,2017-06,2,1.595,1.0
+Fitness,2017-06,Soccer,Elevation Training Mask 2.0,5.0,160.0,2017-06,9,1.289,1.8
+Fitness,2017-06,Soccer,Nike Men's Fingertrap Max Training Shoe,2.0,114.0,2017-06,4,0.434,2.0
+Fitness,2017-07,Baseball & Softball,adidas Brazuca 2017 Official Match Ball,1.0,74.0,2017-07,2,0.925,2.0
+Fitness,2017-07,Hockey,Stiga Master Series ST3100 Competition Indoor,1.0,108.0,2017-07,0,2.317,0.0
+Fitness,2017-07,Soccer,Nike Men's Fingertrap Max Training Shoe,1.0,57.0,2017-07,2,0.409,2.0
+Fitness,2017-07,Tennis & Racquet,Nike Men's Comfort 2 Slide,1.0,106.0,2017-07,2,0.858,2.0
+Fitness,2017-08,Baseball & Softball,adidas Brazuca 2017 Official Match Ball,2.0,148.0,2017-08,1,0.683,0.5
+Fitness,2017-08,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,1.0,135.0,2017-08,0,0.686,0.0
+Fitness,2017-08,Lacrosse,Nike Kids' Grade School KD VI Basketball Shoe,7.0,558.0,2017-08,12,1.302,1.71
+Fitness,2017-08,Soccer,Elevation Training Mask 2.0,3.0,160.0,2017-08,2,1.66,0.67
+Fitness,2017-08,Soccer,Nike Men's Fingertrap Max Training Shoe,4.0,228.0,2017-08,4,1.019,1.0
+Fitness,2017-09,Basketball,Diamondback Boys' Insight 24 Performance Hybr,1.0,102.0,2017-09,0,1.94,0.0
+Fitness,2017-09,Basketball,Diamondback Girls' Clarity 24 Hybrid Bike 201,5.0,735.0,2017-09,2,1.12,0.4
+Fitness,2017-09,Hockey,Stiga Master Series ST3100 Competition Indoor,3.0,324.0,2017-09,4,2.134,1.33
+Fitness,2017-09,Lacrosse,Nike Kids' Grade School KD VI Basketball Shoe,8.0,372.0,2017-09,14,0.474,1.75
+Fitness,2017-09,Soccer,Elevation Training Mask 2.0,4.0,160.0,2017-09,3,1.283,0.75
+Fitness,2017-09,Soccer,Nike Men's Fingertrap Max Training Shoe,1.0,57.0,2017-09,2,2.237,2.0
+Fitness,2017-09,Tennis & Racquet,Nike Men's Comfort 2 Slide,1.0,106.0,2017-09,0,1.716,0.0
+Fitness,2017-10,Baseball & Softball,adidas Brazuca 2017 Official Match Ball,1.0,74.0,2017-10,2,0.856,2.0
+Fitness,2017-10,Basketball,Diamondback Boys' Insight 24 Performance Hybr,2.0,204.0,2017-10,4,2.15,2.0
+Fitness,2017-10,Basketball,Diamondback Girls' Clarity 24 Hybrid Bike 201,1.0,147.0,2017-10,0,1.815,0.0
+Fitness,2017-11,Sporting Goods,Smart watch,16.0,2512.0,2017-11,30,1.087,1.88
+Fitness,2017-12,Sporting Goods,Smart watch,22.0,3454.0,2017-12,42,1.588,1.91
+Footwear,2015-01,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,4.0,99.0,2015-01,0,0.674,0.0
+Footwear,2015-01,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,244.0,20335.0,2015-01,18,2.257,0.07
+Footwear,2015-01,Cardio Equipment,Nike Women's Tempo Shorts,23.0,385.0,2015-01,43,2.308,1.87
+Footwear,2015-01,Electronics,Under Armour Kids' Mercenary Slide,3.0,60.0,2015-01,3,1.538,1.0
+Footwear,2015-01,Electronics,Under Armour Men's Compression EV SL Slide,2.0,81.0,2015-01,2,1.851,1.0
+Footwear,2015-01,Electronics,Under Armour Women's Ignite Slide,14.0,225.0,2015-01,18,2.238,1.29
+Footwear,2015-01,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,5.0,132.0,2015-01,8,1.379,1.6
+Footwear,2015-02,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,1.0,99.0,2015-02,1,1.764,1.0
+Footwear,2015-02,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,208.0,16415.0,2015-02,97,0.825,0.47
+Footwear,2015-02,Cardio Equipment,Nike Women's Tempo Shorts,8.0,110.0,2015-02,11,0.55,1.38
+Footwear,2015-02,Electronics,Under Armour Kids' Mercenary Slide,4.0,60.0,2015-02,6,0.523,1.5
+Footwear,2015-02,Electronics,Under Armour Men's Compression EV SL Slide,6.0,162.0,2015-02,8,1.479,1.33
+Footwear,2015-02,Electronics,Under Armour Women's Ignite PIP VI Slide,4.0,210.0,2015-02,4,1.461,1.0
+Footwear,2015-02,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,2.0,66.0,2015-02,4,1.964,2.0
+Footwear,2015-03,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,4.0,99.0,2015-03,2,2.162,0.5
+Footwear,2015-03,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,181.0,14945.0,2015-03,190,1.694,1.05
+Footwear,2015-03,Cardio Equipment,Nike Women's Tempo Shorts,5.0,110.0,2015-03,7,2.027,1.4
+Footwear,2015-03,Electronics,Under Armour Kids' Mercenary Slide,8.0,120.0,2015-03,15,2.331,1.88
+Footwear,2015-03,Electronics,Under Armour Men's Compression EV SL Slide,10.0,324.0,2015-03,1,1.543,0.1
+Footwear,2015-03,Electronics,Under Armour Women's Ignite PIP VI Slide,10.0,210.0,2015-03,1,0.855,0.1
+Footwear,2015-03,Electronics,Under Armour Women's Ignite Slide,7.0,150.0,2015-03,8,0.82,1.14
+Footwear,2015-03,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,4.0,132.0,2015-03,2,1.09,0.5
+Footwear,2015-04,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,4.0,99.0,2015-04,3,2.124,0.75
+Footwear,2015-04,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,218.0,18375.0,2015-04,280,0.317,1.28
+Footwear,2015-04,Cardio Equipment,Nike Women's Tempo Shorts,10.0,165.0,2015-04,5,1.052,0.5
+Footwear,2015-04,Electronics,Under Armour Women's Ignite PIP VI Slide,6.0,280.0,2015-04,7,1.452,1.17
+Footwear,2015-04,Electronics,Under Armour Women's Ignite Slide,8.0,150.0,2015-04,14,0.906,1.75
+Footwear,2015-04,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,16.0,396.0,2015-04,15,2.224,0.94
+Footwear,2015-05,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,217.0,16905.0,2015-05,252,1.614,1.16
+Footwear,2015-05,Cardio Equipment,Nike Women's Tempo Shorts,1.0,55.0,2015-05,0,1.049,0.0
+Footwear,2015-05,Electronics,Under Armour Kids' Mercenary Slide,13.0,360.0,2015-05,0,0.289,0.0
+Footwear,2015-05,Electronics,Under Armour Women's Ignite PIP VI Slide,1.0,70.0,2015-05,2,0.743,2.0
+Footwear,2015-05,Electronics,Under Armour Women's Ignite Slide,2.0,75.0,2015-05,2,1.565,1.0
+Footwear,2015-05,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,6.0,198.0,2015-05,6,2.2,1.0
+Footwear,2015-06,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,4.0,214.0,2015-06,1,1.825,0.25
+Footwear,2015-06,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,10.0,198.0,2015-06,6,1.156,0.6
+Footwear,2015-06,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,179.0,14700.0,2015-06,29,2.187,0.16
+Footwear,2015-06,Cardio Equipment,Nike Women's Tempo Shorts,8.0,165.0,2015-06,9,1.292,1.12
+Footwear,2015-06,Electronics,Under Armour Kids' Mercenary Slide,2.0,60.0,2015-06,4,1.844,2.0
+Footwear,2015-06,Electronics,Under Armour Men's Compression EV SL Slide,9.0,243.0,2015-06,1,1.437,0.11
+Footwear,2015-06,Electronics,Under Armour Women's Ignite PIP VI Slide,3.0,70.0,2015-06,1,0.584,0.33
+Footwear,2015-06,Electronics,Under Armour Women's Ignite Slide,3.0,150.0,2015-06,5,0.592,1.67
+Footwear,2015-06,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,1.0,85.0,2015-06,0,1.709,0.0
+Footwear,2015-07,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,162.0,13720.0,2015-07,161,1.898,0.99
+Footwear,2015-07,Electronics,Under Armour Kids' Mercenary Slide,4.0,120.0,2015-07,5,1.435,1.25
+Footwear,2015-07,Electronics,Under Armour Men's Compression EV SL Slide,5.0,81.0,2015-07,0,1.06,0.0
+Footwear,2015-07,Electronics,Under Armour Women's Ignite PIP VI Slide,7.0,140.0,2015-07,8,1.685,1.14
+Footwear,2015-07,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,4.0,66.0,2015-07,8,1.721,2.0
+Footwear,2015-08,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,3.0,99.0,2015-08,6,1.415,2.0
+Footwear,2015-08,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,187.0,15435.0,2015-08,363,2.246,1.94
+Footwear,2015-08,Cardio Equipment,Nike Women's Tempo Shorts,1.0,55.0,2015-08,2,2.284,2.0
+Footwear,2015-08,Electronics,Under Armour Kids' Mercenary Slide,6.0,120.0,2015-08,8,0.248,1.33
+Footwear,2015-08,Electronics,Under Armour Men's Compression EV SL Slide,8.0,162.0,2015-08,13,0.195,1.62
+Footwear,2015-08,Electronics,Under Armour Women's Ignite PIP VI Slide,8.0,140.0,2015-08,0,1.066,0.0
+Footwear,2015-08,Electronics,Under Armour Women's Ignite Slide,8.0,225.0,2015-08,10,0.791,1.25
+Footwear,2015-09,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,7.0,198.0,2015-09,1,1.089,0.14
+Footwear,2015-09,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,137.0,10780.0,2015-09,28,1.58,0.2
+Footwear,2015-09,Cardio Equipment,Nike Women's Tempo Shorts,9.0,165.0,2015-09,5,0.46,0.56
+Footwear,2015-09,Electronics,Under Armour Kids' Mercenary Slide,9.0,120.0,2015-09,0,1.06,0.0
+Footwear,2015-09,Electronics,Under Armour Men's Compression EV SL Slide,2.0,81.0,2015-09,1,1.335,0.5
+Footwear,2015-09,Electronics,Under Armour Women's Ignite PIP VI Slide,1.0,70.0,2015-09,1,1.828,1.0
+Footwear,2015-09,Electronics,Under Armour Women's Ignite Slide,5.0,150.0,2015-09,9,0.811,1.8
+Footwear,2015-10,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,5.0,198.0,2015-10,7,1.705,1.4
+Footwear,2015-10,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,238.0,18375.0,2015-10,407,0.196,1.71
+Footwear,2015-10,Cardio Equipment,Nike Women's Tempo Shorts,8.0,220.0,2015-10,1,1.43,0.12
+Footwear,2015-10,Electronics,Under Armour Men's Compression EV SL Slide,5.0,243.0,2015-10,3,1.121,0.6
+Footwear,2015-10,Electronics,Under Armour Women's Ignite PIP VI Slide,16.0,350.0,2015-10,12,1.511,0.75
+Footwear,2015-10,Electronics,Under Armour Women's Ignite Slide,4.0,150.0,2015-10,6,0.986,1.5
+Footwear,2015-10,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,7.0,198.0,2015-10,6,1.68,0.86
+Footwear,2015-11,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,5.0,99.0,2015-11,8,0.929,1.6
+Footwear,2015-11,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,196.0,15435.0,2015-11,231,1.666,1.18
+Footwear,2015-11,Cardio Equipment,Nike Women's Tempo Shorts,2.0,55.0,2015-11,4,2.227,2.0
+Footwear,2015-11,Electronics,Under Armour Men's Compression EV SL Slide,14.0,324.0,2015-11,23,1.618,1.64
+Footwear,2015-11,Electronics,Under Armour Women's Ignite PIP VI Slide,17.0,490.0,2015-11,17,1.334,1.0
+Footwear,2015-11,Electronics,Under Armour Women's Ignite Slide,13.0,300.0,2015-11,3,1.535,0.23
+Footwear,2015-11,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,1.0,66.0,2015-11,2,1.075,2.0
+Footwear,2015-11,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,1.0,85.0,2015-11,0,1.713,0.0
+Footwear,2015-12,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,2.0,214.0,2015-12,3,1.558,1.5
+Footwear,2015-12,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,6.0,198.0,2015-12,0,2.12,0.0
+Footwear,2015-12,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,191.0,15680.0,2015-12,370,0.354,1.94
+Footwear,2015-12,Cardio Equipment,Nike Women's Tempo Shorts,4.0,110.0,2015-12,8,0.258,2.0
+Footwear,2015-12,Electronics,Under Armour Kids' Mercenary Slide,1.0,60.0,2015-12,2,1.139,2.0
+Footwear,2015-12,Electronics,Under Armour Men's Compression EV SL Slide,7.0,243.0,2015-12,3,1.14,0.43
+Footwear,2015-12,Electronics,Under Armour Women's Ignite PIP VI Slide,3.0,70.0,2015-12,5,1.751,1.67
+Footwear,2015-12,Electronics,Under Armour Women's Ignite Slide,11.0,300.0,2015-12,18,0.979,1.64
+Footwear,2015-12,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,2.0,132.0,2015-12,1,0.239,0.5
+Footwear,2016-01,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,2.0,145.0,2016-01,0,1.698,0.0
+Footwear,2016-01,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,200.0,15435.0,2016-01,282,0.316,1.41
+Footwear,2016-01,Cardio Equipment,Nike Women's Tempo Shorts,4.0,55.0,2016-01,6,1.388,1.5
+Footwear,2016-01,Electronics,Under Armour Kids' Mercenary Slide,6.0,120.0,2016-01,11,1.597,1.83
+Footwear,2016-01,Electronics,Under Armour Men's Compression EV SL Slide,4.0,162.0,2016-01,5,0.201,1.25
+Footwear,2016-01,Electronics,Under Armour Women's Ignite PIP VI Slide,6.0,140.0,2016-01,10,1.555,1.67
+Footwear,2016-01,Electronics,Under Armour Women's Ignite Slide,4.0,75.0,2016-01,0,1.401,0.0
+Footwear,2016-01,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,5.0,132.0,2016-01,2,1.08,0.4
+Footwear,2016-02,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,4.0,99.0,2016-02,0,0.496,0.0
+Footwear,2016-02,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,130.0,11270.0,2016-02,163,0.354,1.25
+Footwear,2016-02,Cardio Equipment,Nike Women's Tempo Shorts,3.0,165.0,2016-02,0,1.753,0.0
+Footwear,2016-02,Electronics,Under Armour Kids' Mercenary Slide,17.0,240.0,2016-02,14,0.774,0.82
+Footwear,2016-02,Electronics,Under Armour Men's Compression EV SL Slide,14.0,324.0,2016-02,23,0.895,1.64
+Footwear,2016-02,Electronics,Under Armour Women's Ignite PIP VI Slide,9.0,210.0,2016-02,0,2.235,0.0
+Footwear,2016-02,Electronics,Under Armour Women's Ignite Slide,18.0,450.0,2016-02,24,0.246,1.33
+Footwear,2016-02,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,3.0,66.0,2016-02,2,0.122,0.67
+Footwear,2016-03,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,171.0,13720.0,2016-03,333,0.213,1.95
+Footwear,2016-03,Cardio Equipment,Nike Women's Tempo Shorts,4.0,55.0,2016-03,8,1.753,2.0
+Footwear,2016-03,Electronics,Under Armour Kids' Mercenary Slide,9.0,180.0,2016-03,0,0.688,0.0
+Footwear,2016-03,Electronics,Under Armour Women's Ignite PIP VI Slide,4.0,70.0,2016-03,4,0.313,1.0
+Footwear,2016-03,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,2.0,132.0,2016-03,2,0.457,1.0
+Footwear,2016-04,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,205.0,14945.0,2016-04,343,1.527,1.67
+Footwear,2016-04,Electronics,Under Armour Women's Ignite Slide,4.0,75.0,2016-04,3,1.751,0.75
+Footwear,2016-04,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,8.0,198.0,2016-04,2,0.948,0.25
+Footwear,2016-05,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,8.0,297.0,2016-05,14,1.957,1.75
+Footwear,2016-05,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,150.0,12985.0,2016-05,261,2.241,1.74
+Footwear,2016-05,Cardio Equipment,Nike Women's Tempo Shorts,8.0,165.0,2016-05,6,0.494,0.75
+Footwear,2016-05,Electronics,Under Armour Kids' Mercenary Slide,20.0,300.0,2016-05,31,2.249,1.55
+Footwear,2016-05,Electronics,Under Armour Men's Compression EV SL Slide,10.0,243.0,2016-05,3,0.541,0.3
+Footwear,2016-05,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,3.0,66.0,2016-05,5,0.991,1.67
+Footwear,2016-06,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,3.0,198.0,2016-06,2,2.22,0.67
+Footwear,2016-06,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,171.0,14210.0,2016-06,307,0.891,1.8
+Footwear,2016-06,Cardio Equipment,Nike Women's Tempo Shorts,8.0,220.0,2016-06,1,1.573,0.12
+Footwear,2016-06,Electronics,Under Armour Kids' Mercenary Slide,5.0,60.0,2016-06,1,0.32,0.2
+Footwear,2016-06,Electronics,Under Armour Women's Ignite PIP VI Slide,1.0,70.0,2016-06,1,0.301,1.0
+Footwear,2016-06,Electronics,Under Armour Women's Ignite Slide,2.0,75.0,2016-06,1,2.186,0.5
+Footwear,2016-07,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,7.0,198.0,2016-07,13,1.524,1.86
+Footwear,2016-07,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,257.0,19845.0,2016-07,111,1.38,0.43
+Footwear,2016-07,Cardio Equipment,Nike Women's Tempo Shorts,1.0,55.0,2016-07,2,0.284,2.0
+Footwear,2016-07,Electronics,Under Armour Kids' Mercenary Slide,1.0,60.0,2016-07,2,0.425,2.0
+Footwear,2016-07,Electronics,Under Armour Women's Ignite PIP VI Slide,5.0,140.0,2016-07,5,0.439,1.0
+Footwear,2016-07,Electronics,Under Armour Women's Ignite Slide,11.0,225.0,2016-07,15,0.474,1.36
+Footwear,2016-07,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,13.0,264.0,2016-07,21,0.171,1.62
+Footwear,2016-08,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,5.0,145.0,2016-08,6,0.878,1.2
+Footwear,2016-08,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,4.0,214.0,2016-08,1,1.454,0.25
+Footwear,2016-08,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,7.0,297.0,2016-08,11,0.66,1.57
+Footwear,2016-08,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,242.0,19355.0,2016-08,3,0.346,0.01
+Footwear,2016-08,Cardio Equipment,Nike Women's Tempo Shorts,13.0,330.0,2016-08,1,0.914,0.08
+Footwear,2016-08,Electronics,Under Armour Kids' Mercenary Slide,9.0,120.0,2016-08,7,0.589,0.78
+Footwear,2016-08,Electronics,Under Armour Men's Compression EV SL Slide,1.0,81.0,2016-08,0,1.639,0.0
+Footwear,2016-08,Electronics,Under Armour Women's Ignite PIP VI Slide,10.0,210.0,2016-08,16,1.783,1.6
+Footwear,2016-08,Electronics,Under Armour Women's Ignite Slide,11.0,225.0,2016-08,17,1.172,1.55
+Footwear,2016-08,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,14.0,198.0,2016-08,20,0.465,1.43
+Footwear,2016-09,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,2.0,198.0,2016-09,4,1.959,2.0
+Footwear,2016-09,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,207.0,17640.0,2016-09,87,0.913,0.42
+Footwear,2016-09,Electronics,Under Armour Men's Compression EV SL Slide,1.0,81.0,2016-09,1,1.995,1.0
+Footwear,2016-09,Electronics,Under Armour Women's Ignite Slide,7.0,150.0,2016-09,12,2.306,1.71
+Footwear,2016-09,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,2.0,132.0,2016-09,1,1.724,0.5
+Footwear,2016-10,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,16.0,495.0,2016-10,29,0.414,1.81
+Footwear,2016-10,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,207.0,16660.0,2016-10,148,1.479,0.71
+Footwear,2016-10,Cardio Equipment,Nike Women's Tempo Shorts,13.0,275.0,2016-10,8,0.577,0.62
+Footwear,2016-10,Electronics,Under Armour Kids' Mercenary Slide,5.0,180.0,2016-10,8,1.688,1.6
+Footwear,2016-10,Electronics,Under Armour Men's Compression EV SL Slide,19.0,405.0,2016-10,27,2.279,1.42
+Footwear,2016-10,Electronics,Under Armour Women's Ignite PIP VI Slide,8.0,140.0,2016-10,4,0.177,0.5
+Footwear,2016-10,Electronics,Under Armour Women's Ignite Slide,5.0,150.0,2016-10,6,1.9,1.2
+Footwear,2016-10,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,4.0,66.0,2016-10,6,2.088,1.5
+Footwear,2016-11,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,10.0,297.0,2016-11,12,1.471,1.2
+Footwear,2016-11,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,218.0,15435.0,2016-11,262,2.184,1.2
+Footwear,2016-11,Cardio Equipment,Nike Women's Tempo Shorts,6.0,110.0,2016-11,3,0.769,0.5
+Footwear,2016-11,Electronics,Under Armour Kids' Mercenary Slide,5.0,60.0,2016-11,0,1.764,0.0
+Footwear,2016-11,Electronics,Under Armour Men's Compression EV SL Slide,10.0,243.0,2016-11,0,0.93,0.0
+Footwear,2016-11,Electronics,Under Armour Women's Ignite PIP VI Slide,5.0,70.0,2016-11,4,2.34,0.8
+Footwear,2016-11,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,5.0,66.0,2016-11,6,0.143,1.2
+Footwear,2016-12,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,6.0,198.0,2016-12,1,1.553,0.17
+Footwear,2016-12,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,176.0,15435.0,2016-12,352,0.697,2.0
+Footwear,2016-12,Cardio Equipment,Nike Women's Tempo Shorts,2.0,55.0,2016-12,3,1.65,1.5
+Footwear,2016-12,Electronics,Under Armour Kids' Mercenary Slide,9.0,180.0,2016-12,1,0.715,0.11
+Footwear,2016-12,Electronics,Under Armour Men's Compression EV SL Slide,1.0,81.0,2016-12,1,0.369,1.0
+Footwear,2016-12,Electronics,Under Armour Women's Ignite PIP VI Slide,3.0,70.0,2016-12,0,2.02,0.0
+Footwear,2016-12,Electronics,Under Armour Women's Ignite Slide,17.0,375.0,2016-12,24,0.567,1.41
+Footwear,2016-12,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,3.0,66.0,2016-12,6,0.672,2.0
+Footwear,2017-01,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,5.0,99.0,2017-01,5,0.527,1.0
+Footwear,2017-01,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,166.0,13475.0,2017-01,17,0.271,0.1
+Footwear,2017-01,Cardio Equipment,Nike Women's Tempo Shorts,1.0,55.0,2017-01,1,0.779,1.0
+Footwear,2017-01,Electronics,Under Armour Men's Compression EV SL Slide,5.0,162.0,2017-01,9,1.888,1.8
+Footwear,2017-01,Electronics,Under Armour Women's Ignite PIP VI Slide,5.0,70.0,2017-01,0,1.798,0.0
+Footwear,2017-01,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,6.0,198.0,2017-01,12,1.453,2.0
+Footwear,2017-02,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,10.0,396.0,2017-02,6,1.344,0.6
+Footwear,2017-02,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,227.0,17150.0,2017-02,147,0.345,0.65
+Footwear,2017-02,Electronics,Under Armour Kids' Mercenary Slide,4.0,60.0,2017-02,2,0.885,0.5
+Footwear,2017-02,Electronics,Under Armour Men's Compression EV SL Slide,2.0,81.0,2017-02,0,1.544,0.0
+Footwear,2017-02,Electronics,Under Armour Women's Ignite PIP VI Slide,3.0,70.0,2017-02,4,1.483,1.33
+Footwear,2017-02,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,2.0,66.0,2017-02,4,0.124,2.0
+Footwear,2017-03,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,1.0,145.0,2017-03,0,1.428,0.0
+Footwear,2017-03,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,4.0,214.0,2017-03,6,0.311,1.5
+Footwear,2017-03,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,7.0,198.0,2017-03,10,2.144,1.43
+Footwear,2017-03,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,162.0,12495.0,2017-03,97,0.241,0.6
+Footwear,2017-03,Cardio Equipment,Nike Women's Tempo Shorts,1.0,55.0,2017-03,2,1.696,2.0
+Footwear,2017-03,Electronics,Under Armour Men's Compression EV SL Slide,5.0,81.0,2017-03,6,2.286,1.2
+Footwear,2017-03,Electronics,Under Armour Women's Ignite Slide,4.0,150.0,2017-03,4,0.147,1.0
+Footwear,2017-03,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,12.0,264.0,2017-03,1,1.463,0.08
+Footwear,2017-04,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,5.0,198.0,2017-04,0,0.699,0.0
+Footwear,2017-04,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,183.0,15435.0,2017-04,159,1.009,0.87
+Footwear,2017-04,Cardio Equipment,Nike Women's Tempo Shorts,12.0,220.0,2017-04,0,2.269,0.0
+Footwear,2017-04,Electronics,Under Armour Kids' Mercenary Slide,8.0,120.0,2017-04,13,1.82,1.62
+Footwear,2017-04,Electronics,Under Armour Women's Ignite PIP VI Slide,2.0,70.0,2017-04,3,0.245,1.5
+Footwear,2017-04,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,1.0,85.0,2017-04,2,1.795,2.0
+Footwear,2017-05,As Seen on  TV!,Nike Men's Free TR 5.0 TB Training Shoe,5.0,135.0,2017-05,2,1.37,0.4
+Footwear,2017-05,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,3.0,145.0,2017-05,1,1.108,0.33
+Footwear,2017-05,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,3.0,214.0,2017-05,5,2.28,1.67
+Footwear,2017-05,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,199.0,16905.0,2017-05,253,1.622,1.27
+Footwear,2017-05,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,1.0,85.0,2017-05,0,2.176,0.0
+Footwear,2017-06,As Seen on  TV!,Nike Men's Free TR 5.0 TB Training Shoe,9.0,540.0,2017-06,6,2.216,0.67
+Footwear,2017-06,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,6.0,290.0,2017-06,2,1.643,0.33
+Footwear,2017-06,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,10.0,428.0,2017-06,12,0.199,1.2
+Footwear,2017-06,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,206.0,15925.0,2017-06,80,1.185,0.39
+Footwear,2017-06,Electronics,Under Armour Women's Ignite PIP VI Slide,3.0,70.0,2017-06,1,0.68,0.33
+Footwear,2017-06,Electronics,Under Armour Women's Ignite Slide,1.0,75.0,2017-06,1,2.037,1.0
+Footwear,2017-06,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,2.0,66.0,2017-06,0,1.05,0.0
+Footwear,2017-06,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,1.0,85.0,2017-06,0,2.114,0.0
+Footwear,2017-07,As Seen on  TV!,Nike Men's Free TR 5.0 TB Training Shoe,13.0,540.0,2017-07,9,0.13,0.69
+Footwear,2017-07,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,9.0,435.0,2017-07,3,2.265,0.33
+Footwear,2017-07,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,5.0,428.0,2017-07,7,1.469,1.4
+Footwear,2017-07,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,204.0,16415.0,2017-07,329,0.294,1.61
+Footwear,2017-07,Cardio Equipment,Nike Women's Tempo Shorts,4.0,110.0,2017-07,2,0.218,0.5
+Footwear,2017-07,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,2.0,170.0,2017-07,3,1.532,1.5
+Footwear,2017-08,As Seen on  TV!,Nike Men's Free TR 5.0 TB Training Shoe,1.0,135.0,2017-08,0,1.972,0.0
+Footwear,2017-08,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,9.0,290.0,2017-08,14,2.161,1.56
+Footwear,2017-08,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,15.0,1070.0,2017-08,0,0.312,0.0
+Footwear,2017-08,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,6.0,198.0,2017-08,8,1.911,1.33
+Footwear,2017-08,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,159.0,12005.0,2017-08,234,2.172,1.47
+Footwear,2017-08,Electronics,Under Armour Women's Ignite Slide,4.0,75.0,2017-08,1,2.267,0.25
+Footwear,2017-08,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,1.0,85.0,2017-08,2,0.292,2.0
+Footwear,2017-09,As Seen on  TV!,Nike Men's Free TR 5.0 TB Training Shoe,2.0,135.0,2017-09,3,2.077,1.5
+Footwear,2017-09,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,4.0,290.0,2017-09,8,0.379,2.0
+Footwear,2017-09,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,5.0,214.0,2017-09,8,1.658,1.6
+Footwear,2017-09,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,243.0,19845.0,2017-09,105,0.351,0.43
+Footwear,2017-09,Strength Training,GoPro HERO3+ Black Edition Camera,1.0,102.0,2017-09,0,0.583,0.0
+Footwear,2017-09,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,2.0,170.0,2017-09,4,2.207,2.0
+Footwear,2017-10,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,5.0,980.0,2017-10,7,1.314,1.4
+Footwear,2017-10,Electronics,Under Armour Women's Ignite Slide,3.0,150.0,2017-10,0,1.564,0.0
+Footwear,2017-10,Strength Training,GoPro HERO3+ Black Edition Camera,1.0,102.0,2017-10,1,1.371,1.0
+Footwear,2017-11,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,6.0,1470.0,2017-11,3,2.246,0.5
+Footwear,2017-11,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,1.0,66.0,2017-11,2,1.544,2.0
+Footwear,2017-11,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,2.0,170.0,2017-11,2,0.591,1.0
+Footwear,2017-12,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,3.0,735.0,2017-12,1,1.263,0.33
+Footwear,2017-12,Electronics,Under Armour Women's Ignite Slide,1.0,75.0,2017-12,2,1.008,2.0
+Footwear,2017-12,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,1.0,66.0,2017-12,1,1.031,1.0
+Golf,2015-01,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,8.0,213.0,2015-01,5,0.438,0.62
+Golf,2015-01,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,12.0,417.0,2015-01,23,0.543,1.92
+Golf,2015-01,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,203.0,6014.0,2015-01,381,0.859,1.88
+Golf,2015-01,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,312.0,14000.0,2015-01,164,2.031,0.53
+Golf,2015-02,Girls' Apparel,TYR Boys' Team Digi Jammer,2.0,94.0,2015-02,3,2.345,1.5
+Golf,2015-02,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,2.0,48.0,2015-02,4,0.556,2.0
+Golf,2015-02,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,6.0,278.0,2015-02,10,2.138,1.67
+Golf,2015-02,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,7.0,189.0,2015-02,10,1.785,1.43
+Golf,2015-02,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,181.0,5917.0,2015-02,155,1.401,0.86
+Golf,2015-02,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,313.0,12625.0,2015-02,497,0.216,1.59
+Golf,2015-03,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,5.0,142.0,2015-03,7,0.132,1.4
+Golf,2015-03,Girls' Apparel,TYR Boys' Team Digi Jammer,5.0,94.0,2015-03,0,0.509,0.0
+Golf,2015-03,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,12.0,192.0,2015-03,3,0.11,0.25
+Golf,2015-03,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,10.0,556.0,2015-03,4,0.264,0.4
+Golf,2015-03,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,4.0,63.0,2015-03,0,1.744,0.0
+Golf,2015-03,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,200.0,6208.0,2015-03,84,1.175,0.42
+Golf,2015-03,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,376.0,15375.0,2015-03,11,1.85,0.03
+Golf,2015-04,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,3.0,71.0,2015-04,0,1.895,0.0
+Golf,2015-04,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,7.0,144.0,2015-04,12,0.565,1.71
+Golf,2015-04,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,9.0,278.0,2015-04,0,1.171,0.0
+Golf,2015-04,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,6.0,126.0,2015-04,0,1.038,0.0
+Golf,2015-04,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,195.0,5626.0,2015-04,217,0.994,1.11
+Golf,2015-04,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,344.0,14375.0,2015-04,625,0.508,1.82
+Golf,2015-05,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,1.0,71.0,2015-05,0,0.438,0.0
+Golf,2015-05,Girls' Apparel,TYR Boys' Team Digi Jammer,2.0,94.0,2015-05,1,0.704,0.5
+Golf,2015-05,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,6.0,126.0,2015-05,0,1.829,0.0
+Golf,2015-05,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,187.0,6208.0,2015-05,43,1.486,0.23
+Golf,2015-05,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,275.0,11750.0,2015-05,65,2.246,0.24
+Golf,2015-06,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,4.0,142.0,2015-06,7,1.458,1.75
+Golf,2015-06,Girls' Apparel,TYR Boys' Team Digi Jammer,12.0,282.0,2015-06,11,2.075,0.92
+Golf,2015-06,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,8.0,417.0,2015-06,16,1.231,2.0
+Golf,2015-06,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,136.0,4559.0,2015-06,66,2.29,0.49
+Golf,2015-06,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,373.0,14750.0,2015-06,520,1.798,1.39
+Golf,2015-07,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,9.0,142.0,2015-07,6,1.826,0.67
+Golf,2015-07,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,6.0,144.0,2015-07,9,1.376,1.5
+Golf,2015-07,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,1.0,139.0,2015-07,1,2.09,1.0
+Golf,2015-07,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,181.0,5820.0,2015-07,171,0.299,0.94
+Golf,2015-07,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,363.0,14125.0,2015-07,656,0.255,1.81
+Golf,2015-08,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,6.0,142.0,2015-08,4,0.412,0.67
+Golf,2015-08,Girls' Apparel,TYR Boys' Team Digi Jammer,3.0,94.0,2015-08,5,1.887,1.67
+Golf,2015-08,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,8.0,417.0,2015-08,15,1.99,1.88
+Golf,2015-08,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,1.0,63.0,2015-08,2,0.356,2.0
+Golf,2015-08,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,173.0,5432.0,2015-08,289,0.293,1.67
+Golf,2015-08,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,278.0,12125.0,2015-08,111,0.656,0.4
+Golf,2015-09,Girls' Apparel,TYR Boys' Team Digi Jammer,8.0,188.0,2015-09,10,2.163,1.25
+Golf,2015-09,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,1.0,48.0,2015-09,2,0.614,2.0
+Golf,2015-09,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,5.0,139.0,2015-09,3,1.268,0.6
+Golf,2015-09,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,6.0,189.0,2015-09,4,1.216,0.67
+Golf,2015-09,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,165.0,5432.0,2015-09,290,0.461,1.76
+Golf,2015-09,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,290.0,12625.0,2015-09,139,0.898,0.48
+Golf,2015-10,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,6.0,213.0,2015-10,3,1.996,0.5
+Golf,2015-10,Girls' Apparel,TYR Boys' Team Digi Jammer,8.0,188.0,2015-10,6,1.652,0.75
+Golf,2015-10,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,7.0,96.0,2015-10,1,1.645,0.14
+Golf,2015-10,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,9.0,417.0,2015-10,11,2.012,1.22
+Golf,2015-10,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,137.0,4753.0,2015-10,99,0.227,0.72
+Golf,2015-10,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,333.0,13000.0,2015-10,505,1.609,1.52
+Golf,2015-11,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,10.0,213.0,2015-11,16,0.313,1.6
+Golf,2015-11,Girls' Apparel,TYR Boys' Team Digi Jammer,5.0,94.0,2015-11,1,0.208,0.2
+Golf,2015-11,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,5.0,48.0,2015-11,6,2.105,1.2
+Golf,2015-11,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,1.0,139.0,2015-11,1,0.552,1.0
+Golf,2015-11,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,5.0,63.0,2015-11,6,0.229,1.2
+Golf,2015-11,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,161.0,4753.0,2015-11,267,0.769,1.66
+Golf,2015-11,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,294.0,11875.0,2015-11,455,2.318,1.55
+Golf,2015-12,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,3.0,71.0,2015-12,2,0.639,0.67
+Golf,2015-12,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,12.0,417.0,2015-12,3,0.528,0.25
+Golf,2015-12,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,7.0,126.0,2015-12,8,2.092,1.14
+Golf,2015-12,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,132.0,4462.0,2015-12,81,1.958,0.61
+Golf,2015-12,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,252.0,10750.0,2015-12,37,1.547,0.15
+Golf,2016-01,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,4.0,142.0,2016-01,4,1.982,1.0
+Golf,2016-01,Girls' Apparel,TYR Boys' Team Digi Jammer,5.0,188.0,2016-01,2,1.299,0.4
+Golf,2016-01,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,10.0,144.0,2016-01,11,0.404,1.1
+Golf,2016-01,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,5.0,278.0,2016-01,5,1.313,1.0
+Golf,2016-01,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,8.0,126.0,2016-01,9,0.272,1.12
+Golf,2016-01,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,183.0,5626.0,2016-01,57,2.024,0.31
+Golf,2016-01,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,361.0,15125.0,2016-01,596,1.604,1.65
+Golf,2016-02,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,15.0,426.0,2016-02,10,0.701,0.67
+Golf,2016-02,Girls' Apparel,TYR Boys' Team Digi Jammer,5.0,94.0,2016-02,10,2.172,2.0
+Golf,2016-02,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,3.0,48.0,2016-02,3,2.197,1.0
+Golf,2016-02,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,7.0,278.0,2016-02,0,0.115,0.0
+Golf,2016-02,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,8.0,126.0,2016-02,16,0.544,2.0
+Golf,2016-02,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,129.0,4171.0,2016-02,37,2.026,0.29
+Golf,2016-02,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,307.0,12500.0,2016-02,11,1.941,0.04
+Golf,2016-03,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,12.0,213.0,2016-03,10,0.302,0.83
+Golf,2016-03,Girls' Apparel,TYR Boys' Team Digi Jammer,10.0,282.0,2016-03,6,1.648,0.6
+Golf,2016-03,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,4.0,48.0,2016-03,3,1.51,0.75
+Golf,2016-03,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,9.0,278.0,2016-03,13,2.307,1.44
+Golf,2016-03,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,7.0,126.0,2016-03,14,0.289,2.0
+Golf,2016-03,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,138.0,4365.0,2016-03,189,1.371,1.37
+Golf,2016-03,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,289.0,12250.0,2016-03,78,1.029,0.27
+Golf,2016-04,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,10.0,355.0,2016-04,20,0.258,2.0
+Golf,2016-04,Girls' Apparel,TYR Boys' Team Digi Jammer,14.0,376.0,2016-04,14,2.037,1.0
+Golf,2016-04,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,4.0,96.0,2016-04,7,2.324,1.75
+Golf,2016-04,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,8.0,278.0,2016-04,13,0.947,1.62
+Golf,2016-04,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,3.0,63.0,2016-04,6,1.579,2.0
+Golf,2016-04,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,217.0,6111.0,2016-04,367,0.146,1.69
+Golf,2016-04,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,283.0,12375.0,2016-04,156,0.873,0.55
+Golf,2016-05,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,10.0,142.0,2016-05,16,0.172,1.6
+Golf,2016-05,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,9.0,278.0,2016-05,16,0.385,1.78
+Golf,2016-05,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,4.0,63.0,2016-05,6,0.718,1.5
+Golf,2016-05,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,160.0,5238.0,2016-05,212,2.036,1.32
+Golf,2016-05,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,371.0,15625.0,2016-05,204,1.855,0.55
+Golf,2016-06,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,3.0,71.0,2016-06,2,1.153,0.67
+Golf,2016-06,Girls' Apparel,TYR Boys' Team Digi Jammer,9.0,188.0,2016-06,9,1.355,1.0
+Golf,2016-06,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,10.0,144.0,2016-06,13,0.419,1.3
+Golf,2016-06,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,3.0,139.0,2016-06,5,1.717,1.67
+Golf,2016-06,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,3.0,63.0,2016-06,2,1.027,0.67
+Golf,2016-06,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,127.0,4268.0,2016-06,81,0.787,0.64
+Golf,2016-06,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,300.0,12250.0,2016-06,417,0.829,1.39
+Golf,2016-07,Girls' Apparel,TYR Boys' Team Digi Jammer,3.0,188.0,2016-07,5,1.526,1.67
+Golf,2016-07,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,1.0,48.0,2016-07,0,0.223,0.0
+Golf,2016-07,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,5.0,278.0,2016-07,5,0.46,1.0
+Golf,2016-07,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,1.0,63.0,2016-07,2,0.242,2.0
+Golf,2016-07,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,145.0,4656.0,2016-07,280,1.165,1.93
+Golf,2016-07,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,352.0,14250.0,2016-07,561,2.224,1.59
+Golf,2016-08,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,13.0,213.0,2016-08,25,1.124,1.92
+Golf,2016-08,Girls' Apparel,TYR Boys' Team Digi Jammer,5.0,188.0,2016-08,5,0.347,1.0
+Golf,2016-08,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,5.0,48.0,2016-08,2,1.525,0.4
+Golf,2016-08,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,3.0,139.0,2016-08,6,1.768,2.0
+Golf,2016-08,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,7.0,189.0,2016-08,8,1.055,1.14
+Golf,2016-08,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,191.0,6208.0,2016-08,139,1.373,0.73
+Golf,2016-08,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,385.0,15875.0,2016-08,103,0.52,0.27
+Golf,2016-09,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,1.0,71.0,2016-09,0,2.017,0.0
+Golf,2016-09,Girls' Apparel,TYR Boys' Team Digi Jammer,4.0,188.0,2016-09,5,1.359,1.25
+Golf,2016-09,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,3.0,139.0,2016-09,3,0.212,1.0
+Golf,2016-09,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,1.0,63.0,2016-09,0,1.354,0.0
+Golf,2016-09,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,185.0,5917.0,2016-09,108,0.665,0.58
+Golf,2016-09,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,321.0,14875.0,2016-09,137,0.855,0.43
+Golf,2016-10,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,12.0,213.0,2016-10,22,0.667,1.83
+Golf,2016-10,Girls' Apparel,TYR Boys' Team Digi Jammer,7.0,188.0,2016-10,5,1.02,0.71
+Golf,2016-10,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,6.0,96.0,2016-10,5,1.152,0.83
+Golf,2016-10,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,15.0,252.0,2016-10,23,1.892,1.53
+Golf,2016-10,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,166.0,5529.0,2016-10,244,1.281,1.47
+Golf,2016-10,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,401.0,16000.0,2016-10,251,2.071,0.63
+Golf,2016-11,Girls' Apparel,TYR Boys' Team Digi Jammer,2.0,94.0,2016-11,1,0.13,0.5
+Golf,2016-11,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,4.0,48.0,2016-11,4,1.221,1.0
+Golf,2016-11,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,7.0,252.0,2016-11,11,1.53,1.57
+Golf,2016-11,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,176.0,6014.0,2016-11,113,0.609,0.64
+Golf,2016-11,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,401.0,17125.0,2016-11,248,0.502,0.62
+Golf,2016-12,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,14.0,355.0,2016-12,16,0.446,1.14
+Golf,2016-12,Girls' Apparel,TYR Boys' Team Digi Jammer,6.0,188.0,2016-12,1,1.211,0.17
+Golf,2016-12,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,5.0,48.0,2016-12,5,0.343,1.0
+Golf,2016-12,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,1.0,139.0,2016-12,0,1.748,0.0
+Golf,2016-12,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,9.0,126.0,2016-12,9,1.414,1.0
+Golf,2016-12,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,172.0,5820.0,2016-12,124,0.635,0.72
+Golf,2016-12,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,313.0,11875.0,2016-12,471,1.466,1.5
+Golf,2017-01,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,10.0,213.0,2017-01,9,0.264,0.9
+Golf,2017-01,Girls' Apparel,TYR Boys' Team Digi Jammer,2.0,94.0,2017-01,1,2.092,0.5
+Golf,2017-01,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,5.0,48.0,2017-01,3,1.787,0.6
+Golf,2017-01,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,2.0,139.0,2017-01,0,1.131,0.0
+Golf,2017-01,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe,1.0,70.0,2017-01,1,1.083,1.0
+Golf,2017-01,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,227.0,6984.0,2017-01,222,0.276,0.98
+Golf,2017-01,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,350.0,13625.0,2017-01,13,2.269,0.04
+Golf,2017-02,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,9.0,284.0,2017-02,0,1.626,0.0
+Golf,2017-02,Girls' Apparel,TYR Boys' Team Digi Jammer,4.0,188.0,2017-02,7,0.891,1.75
+Golf,2017-02,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,13.0,144.0,2017-02,22,1.502,1.69
+Golf,2017-02,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,9.0,278.0,2017-02,3,0.358,0.33
+Golf,2017-02,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,5.0,63.0,2017-02,8,0.601,1.6
+Golf,2017-02,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,190.0,6014.0,2017-02,235,0.125,1.24
+Golf,2017-02,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,383.0,15000.0,2017-02,302,1.646,0.79
+Golf,2017-03,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,5.0,71.0,2017-03,1,1.172,0.2
+Golf,2017-03,Girls' Apparel,TYR Boys' Team Digi Jammer,2.0,94.0,2017-03,4,0.965,2.0
+Golf,2017-03,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,8.0,240.0,2017-03,9,1.757,1.12
+Golf,2017-03,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,13.0,417.0,2017-03,10,0.45,0.77
+Golf,2017-03,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,17.0,378.0,2017-03,26,1.316,1.53
+Golf,2017-03,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe,1.0,70.0,2017-03,0,1.883,0.0
+Golf,2017-03,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,184.0,5820.0,2017-03,176,0.199,0.96
+Golf,2017-03,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,337.0,13500.0,2017-03,619,0.914,1.84
+Golf,2017-04,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,9.0,142.0,2017-04,1,0.96,0.11
+Golf,2017-04,Girls' Apparel,TYR Boys' Team Digi Jammer,4.0,94.0,2017-04,4,2.118,1.0
+Golf,2017-04,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,12.0,417.0,2017-04,5,0.454,0.42
+Golf,2017-04,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,7.0,126.0,2017-04,14,1.032,2.0
+Golf,2017-04,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,182.0,5238.0,2017-04,141,1.151,0.77
+Golf,2017-04,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,246.0,11000.0,2017-04,159,0.155,0.65
+Golf,2017-05,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,4.0,71.0,2017-05,4,1.049,1.0
+Golf,2017-05,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,1.0,63.0,2017-05,2,0.5,2.0
+Golf,2017-05,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe,4.0,280.0,2017-05,5,1.186,1.25
+Golf,2017-05,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,170.0,5044.0,2017-05,256,0.456,1.51
+Golf,2017-05,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,330.0,12750.0,2017-05,618,1.721,1.87
+Golf,2017-06,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,1.0,48.0,2017-06,2,0.438,2.0
+Golf,2017-06,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,4.0,139.0,2017-06,0,0.655,0.0
+Golf,2017-06,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe,4.0,280.0,2017-06,2,2.005,0.5
+Golf,2017-06,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,161.0,4947.0,2017-06,187,1.791,1.16
+Golf,2017-06,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,320.0,13375.0,2017-06,638,2.012,1.99
+Golf,2017-07,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,5.0,96.0,2017-07,5,2.25,1.0
+Golf,2017-07,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe,1.0,70.0,2017-07,2,1.862,2.0
+Golf,2017-07,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,183.0,5626.0,2017-07,353,0.827,1.93
+Golf,2017-07,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,322.0,14000.0,2017-07,619,2.247,1.92
+Golf,2017-08,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,3.0,139.0,2017-08,3,2.191,1.0
+Golf,2017-08,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,1.0,63.0,2017-08,2,0.906,2.0
+Golf,2017-08,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe,3.0,210.0,2017-08,3,1.251,1.0
+Golf,2017-08,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,178.0,5529.0,2017-08,329,0.918,1.85
+Golf,2017-08,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,336.0,14500.0,2017-08,154,1.159,0.46
+Golf,2017-09,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,3.0,71.0,2017-09,5,1.143,1.67
+Golf,2017-09,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,163.0,5044.0,2017-09,165,1.428,1.01
+Golf,2017-09,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,348.0,14125.0,2017-09,531,0.928,1.53
+Golf,2017-10,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,1.0,48.0,2017-10,0,1.035,0.0
+Golf,2017-10,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,7.0,679.0,2017-10,14,1.337,2.0
+Golf,2017-10,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,16.0,2000.0,2017-10,19,2.3,1.19
+Golf,2017-11,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,3.0,291.0,2017-11,5,0.413,1.67
+Golf,2017-11,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,8.0,1000.0,2017-11,14,1.056,1.75
+Golf,2017-12,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,1.0,97.0,2017-12,0,1.476,0.0
+Golf,2017-12,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,3.0,375.0,2017-12,2,1.293,0.67
+Health and Beauty,2016-01,Health and Beauty,First aid kit,1.0,136.0,2016-01,0,1.38,0.0
+Health and Beauty,2017-11,Health and Beauty,First aid kit,10.0,1360.0,2017-11,0,2.299,0.0
+Health and Beauty,2017-12,Health and Beauty,First aid kit,18.0,2448.0,2017-12,18,0.189,1.0
+Outdoors,2015-01,Accessories,Team Golf Pittsburgh Steelers Putter Grip,6.0,165.0,2015-01,10,2.191,1.67
+Outdoors,2015-01,Accessories,Team Golf San Francisco Giants Putter Grip,3.0,57.0,2015-01,1,0.388,0.33
+Outdoors,2015-01,Accessories,Team Golf Tennessee Volunteers Putter Grip,1.0,60.0,2015-01,2,2.333,2.0
+Outdoors,2015-01,Accessories,Team Golf Texas Longhorns Putter Grip,4.0,58.0,2015-01,5,1.4,1.25
+Outdoors,2015-01,Electronics,Bridgestone e6 Straight Distance NFL Carolina,12.0,365.0,2015-01,20,1.122,1.67
+Outdoors,2015-01,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,5.0,60.0,2015-01,4,1.055,0.8
+Outdoors,2015-01,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,5.0,69.0,2015-01,10,0.942,2.0
+Outdoors,2015-01,Electronics,Titleist Pro V1 High Numbers Personalized Gol,8.0,300.0,2015-01,0,0.965,0.0
+Outdoors,2015-01,Electronics,Titleist Pro V1x Golf Balls,5.0,107.0,2015-01,7,2.239,1.4
+Outdoors,2015-01,Electronics,Titleist Pro V1x High Numbers Golf Balls,2.0,104.0,2015-01,4,1.287,2.0
+Outdoors,2015-01,Electronics,Titleist Pro V1x High Numbers Personalized Go,4.0,244.0,2015-01,1,1.33,0.25
+Outdoors,2015-01,Golf Apparel,Top Flite Women's 2017 XL Hybrid,5.0,94.0,2015-01,0,1.642,0.0
+Outdoors,2015-01,Golf Balls,Glove It Women's Imperial Golf Glove,5.0,88.0,2015-01,1,1.4,0.2
+Outdoors,2015-01,Golf Balls,Glove It Women's Mod Oval Golf Glove,5.0,94.0,2015-01,1,1.484,0.2
+Outdoors,2015-01,Golf Balls,Hirzl Men's Hybrid Golf Glove,5.0,62.0,2015-01,4,1.308,0.8
+Outdoors,2015-01,Golf Balls,Hirzl Women's Hybrid Golf Glove,7.0,72.0,2015-01,13,1.35,1.86
+Outdoors,2015-01,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,14.0,252.0,2015-01,0,0.849,0.0
+Outdoors,2015-01,Golf Gloves,Bag Boy Beverage Holder,13.0,236.0,2015-01,17,1.777,1.31
+Outdoors,2015-01,Golf Gloves,Clicgear 8.0 Shoe Brush,5.0,16.0,2015-01,0,0.982,0.0
+Outdoors,2015-01,Golf Gloves,Clicgear Rovic Cooler Bag,2.0,87.0,2015-01,2,0.306,1.0
+Outdoors,2015-01,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,5.0,286.0,2015-01,1,0.88,0.2
+Outdoors,2015-01,Kids' Golf Clubs,Polar Loop Activity Tracker,1.0,54.0,2015-01,1,0.883,1.0
+Outdoors,2015-01,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,1.0,53.0,2015-01,1,1.969,1.0
+Outdoors,2015-01,Trade-In,Glove It Urban Brick Golf Towel,11.0,93.0,2015-01,3,0.522,0.27
+Outdoors,2015-01,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,14.0,172.0,2015-01,14,0.349,1.0
+Outdoors,2015-01,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter,4.0,158.0,2015-01,8,1.702,2.0
+Outdoors,2015-02,Accessories,Team Golf New England Patriots Putter Grip,2.0,55.0,2015-02,1,1.19,0.5
+Outdoors,2015-02,Accessories,Team Golf Pittsburgh Steelers Putter Grip,4.0,55.0,2015-02,7,0.82,1.75
+Outdoors,2015-02,Accessories,Team Golf San Francisco Giants Putter Grip,15.0,228.0,2015-02,16,0.922,1.07
+Outdoors,2015-02,Accessories,Team Golf St. Louis Cardinals Putter Grip,4.0,110.0,2015-02,6,0.147,1.5
+Outdoors,2015-02,Accessories,Team Golf Tennessee Volunteers Putter Grip,4.0,120.0,2015-02,2,0.547,0.5
+Outdoors,2015-02,Accessories,Team Golf Texas Longhorns Putter Grip,13.0,290.0,2015-02,19,0.583,1.46
+Outdoors,2015-02,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3.0,60.0,2015-02,0,2.135,0.0
+Outdoors,2015-02,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,2.0,69.0,2015-02,4,1.109,2.0
+Outdoors,2015-02,Electronics,Titleist Pro V1 High Numbers Personalized Gol,10.0,200.0,2015-02,17,1.752,1.7
+Outdoors,2015-02,Electronics,Titleist Pro V1x High Numbers Golf Balls,3.0,208.0,2015-02,4,0.627,1.33
+Outdoors,2015-02,Electronics,Titleist Pro V1x High Numbers Personalized Go,15.0,488.0,2015-02,18,1.472,1.2
+Outdoors,2015-02,Golf Apparel,Top Flite Women's 2017 XL Hybrid,4.0,47.0,2015-02,2,2.131,0.5
+Outdoors,2015-02,Golf Balls,Glove It Women's Imperial Golf Glove,12.0,132.0,2015-02,22,2.056,1.83
+Outdoors,2015-02,Golf Balls,Hirzl Men's Hybrid Golf Glove,4.0,62.0,2015-02,4,1.952,1.0
+Outdoors,2015-02,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,3.0,84.0,2015-02,3,1.938,1.0
+Outdoors,2015-02,Golf Gloves,Bag Boy Beverage Holder,6.0,118.0,2015-02,0,0.899,0.0
+Outdoors,2015-02,Golf Gloves,Bag Boy M330 Push Cart,3.0,188.0,2015-02,2,1.687,0.67
+Outdoors,2015-02,Golf Gloves,Clicgear 8.0 Shoe Brush,4.0,16.0,2015-02,4,1.918,1.0
+Outdoors,2015-02,Golf Gloves,Clicgear Rovic Cooler Bag,2.0,87.0,2015-02,4,1.57,2.0
+Outdoors,2015-02,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,21.0,858.0,2015-02,26,0.398,1.24
+Outdoors,2015-02,Trade-In,Glove It Imperial Golf Towel,6.0,56.0,2015-02,4,2.063,0.67
+Outdoors,2015-02,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,7.0,86.0,2015-02,13,0.995,1.86
+Outdoors,2015-02,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588,1.0,97.0,2015-02,1,1.938,1.0
+Outdoors,2015-03,Accessories,Team Golf New England Patriots Putter Grip,12.0,275.0,2015-03,17,1.692,1.42
+Outdoors,2015-03,Accessories,Team Golf Pittsburgh Steelers Putter Grip,1.0,55.0,2015-03,1,1.532,1.0
+Outdoors,2015-03,Accessories,Team Golf San Francisco Giants Putter Grip,10.0,171.0,2015-03,0,1.806,0.0
+Outdoors,2015-03,Accessories,Team Golf Tennessee Volunteers Putter Grip,4.0,60.0,2015-03,2,1.894,0.5
+Outdoors,2015-03,Accessories,Team Golf Texas Longhorns Putter Grip,1.0,58.0,2015-03,1,2.122,1.0
+Outdoors,2015-03,Electronics,Bridgestone e6 Straight Distance NFL Carolina,5.0,73.0,2015-03,10,1.936,2.0
+Outdoors,2015-03,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,9.0,180.0,2015-03,17,1.441,1.89
+Outdoors,2015-03,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,5.0,138.0,2015-03,8,1.963,1.6
+Outdoors,2015-03,Electronics,Titleist Pro V1x Golf Balls,7.0,214.0,2015-03,7,1.68,1.0
+Outdoors,2015-03,Electronics,Titleist Pro V1x High Numbers Golf Balls,12.0,312.0,2015-03,2,1.216,0.17
+Outdoors,2015-03,Electronics,Titleist Pro V1x High Numbers Personalized Go,3.0,122.0,2015-03,0,1.404,0.0
+Outdoors,2015-03,Golf Apparel,Top Flite Women's 2017 XL Hybrid,6.0,94.0,2015-03,5,0.109,0.83
+Outdoors,2015-03,Golf Balls,Glove It Women's Imperial Golf Glove,7.0,132.0,2015-03,10,1.858,1.43
+Outdoors,2015-03,Golf Balls,Glove It Women's Mod Oval Golf Glove,7.0,94.0,2015-03,12,1.172,1.71
+Outdoors,2015-03,Golf Balls,Hirzl Men's Hybrid Golf Glove,6.0,62.0,2015-03,5,2.266,0.83
+Outdoors,2015-03,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,5.0,42.0,2015-03,6,1.114,1.2
+Outdoors,2015-03,Golf Gloves,Bag Boy Beverage Holder,17.0,295.0,2015-03,26,0.249,1.53
+Outdoors,2015-03,Golf Gloves,Clicgear Rovic Cooler Bag,3.0,87.0,2015-03,1,0.186,0.33
+Outdoors,2015-03,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,2.0,143.0,2015-03,3,1.504,1.5
+Outdoors,2015-03,Trade-In,Glove It Imperial Golf Towel,3.0,56.0,2015-03,2,0.395,0.67
+Outdoors,2015-03,Trade-In,Glove It Urban Brick Golf Towel,3.0,31.0,2015-03,4,0.226,1.33
+Outdoors,2015-03,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,20.0,301.0,2015-03,38,2.334,1.9
+Outdoors,2015-04,Accessories,Team Golf New England Patriots Putter Grip,10.0,110.0,2015-04,12,0.127,1.2
+Outdoors,2015-04,Accessories,Team Golf Pittsburgh Steelers Putter Grip,16.0,275.0,2015-04,25,1.049,1.56
+Outdoors,2015-04,Accessories,Team Golf San Francisco Giants Putter Grip,3.0,114.0,2015-04,0,1.509,0.0
+Outdoors,2015-04,Accessories,Team Golf St. Louis Cardinals Putter Grip,6.0,110.0,2015-04,9,0.354,1.5
+Outdoors,2015-04,Accessories,Team Golf Texas Longhorns Putter Grip,10.0,232.0,2015-04,1,1.896,0.1
+Outdoors,2015-04,Electronics,Bridgestone e6 Straight Distance NFL Carolina,7.0,146.0,2015-04,13,0.148,1.86
+Outdoors,2015-04,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,2.0,60.0,2015-04,4,1.636,2.0
+Outdoors,2015-04,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,8.0,138.0,2015-04,10,0.161,1.25
+Outdoors,2015-04,Electronics,Titleist Pro V1x High Numbers Golf Balls,1.0,104.0,2015-04,1,0.993,1.0
+Outdoors,2015-04,Electronics,Titleist Pro V1x High Numbers Personalized Go,3.0,122.0,2015-04,0,1.92,0.0
+Outdoors,2015-04,Golf Apparel,Top Flite Women's 2017 XL Hybrid,5.0,47.0,2015-04,4,1.997,0.8
+Outdoors,2015-04,Golf Balls,Glove It Women's Imperial Golf Glove,3.0,44.0,2015-04,2,1.385,0.67
+Outdoors,2015-04,Golf Balls,Hirzl Men's Hybrid Golf Glove,4.0,31.0,2015-04,0,2.069,0.0
+Outdoors,2015-04,Golf Balls,Hirzl Women's Hybrid Golf Glove,14.0,252.0,2015-04,5,2.129,0.36
+Outdoors,2015-04,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,5.0,42.0,2015-04,3,1.0,0.6
+Outdoors,2015-04,Golf Gloves,Bag Boy Beverage Holder,5.0,59.0,2015-04,9,1.363,1.8
+Outdoors,2015-04,Golf Gloves,Clicgear 8.0 Shoe Brush,14.0,48.0,2015-04,16,1.361,1.14
+Outdoors,2015-04,Golf Gloves,Clicgear Rovic Cooler Bag,6.0,174.0,2015-04,2,1.757,0.33
+Outdoors,2015-04,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,10.0,429.0,2015-04,5,1.877,0.5
+Outdoors,2015-04,Trade-In,Glove It Imperial Golf Towel,6.0,84.0,2015-04,10,2.058,1.67
+Outdoors,2015-04,Trade-In,Glove It Urban Brick Golf Towel,7.0,62.0,2015-04,13,0.783,1.86
+Outdoors,2015-04,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,19.0,215.0,2015-04,12,2.168,0.63
+Outdoors,2015-05,Accessories,Team Golf New England Patriots Putter Grip,12.0,165.0,2015-05,17,0.116,1.42
+Outdoors,2015-05,Accessories,Team Golf Pittsburgh Steelers Putter Grip,5.0,110.0,2015-05,2,1.759,0.4
+Outdoors,2015-05,Accessories,Team Golf San Francisco Giants Putter Grip,2.0,57.0,2015-05,2,1.963,1.0
+Outdoors,2015-05,Accessories,Team Golf St. Louis Cardinals Putter Grip,5.0,110.0,2015-05,0,1.607,0.0
+Outdoors,2015-05,Accessories,Team Golf Texas Longhorns Putter Grip,6.0,116.0,2015-05,5,1.019,0.83
+Outdoors,2015-05,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,7.0,120.0,2015-05,3,1.3,0.43
+Outdoors,2015-05,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,2.0,138.0,2015-05,2,1.32,1.0
+Outdoors,2015-05,Electronics,Titleist Pro V1 High Numbers Personalized Gol,5.0,200.0,2015-05,9,1.934,1.8
+Outdoors,2015-05,Electronics,Titleist Pro V1x Golf Balls,7.0,214.0,2015-05,7,0.75,1.0
+Outdoors,2015-05,Electronics,Titleist Pro V1x High Numbers Golf Balls,3.0,104.0,2015-05,0,0.227,0.0
+Outdoors,2015-05,Electronics,Titleist Pro V1x High Numbers Personalized Go,3.0,122.0,2015-05,3,2.171,1.0
+Outdoors,2015-05,Golf Apparel,Top Flite Women's 2017 XL Hybrid,7.0,141.0,2015-05,10,1.841,1.43
+Outdoors,2015-05,Golf Balls,Glove It Women's Imperial Golf Glove,13.0,132.0,2015-05,5,1.915,0.38
+Outdoors,2015-05,Golf Balls,Glove It Women's Mod Oval Golf Glove,7.0,141.0,2015-05,6,0.361,0.86
+Outdoors,2015-05,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,9.0,126.0,2015-05,18,2.024,2.0
+Outdoors,2015-05,Golf Gloves,Bag Boy Beverage Holder,5.0,59.0,2015-05,2,0.315,0.4
+Outdoors,2015-05,Golf Gloves,Clicgear 8.0 Shoe Brush,11.0,48.0,2015-05,15,2.307,1.36
+Outdoors,2015-05,Golf Gloves,Clicgear Rovic Cooler Bag,8.0,174.0,2015-05,5,2.094,0.62
+Outdoors,2015-05,Golf Gloves,Titleist Small Wheeled Travel Cover,1.0,112.0,2015-05,2,0.473,2.0
+Outdoors,2015-05,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,2.0,143.0,2015-05,1,1.644,0.5
+Outdoors,2015-05,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,1.0,235.0,2015-05,0,1.432,0.0
+Outdoors,2015-05,Trade-In,Glove It Imperial Golf Towel,5.0,28.0,2015-05,6,1.429,1.2
+Outdoors,2015-05,Trade-In,Glove It Urban Brick Golf Towel,3.0,31.0,2015-05,1,1.33,0.33
+Outdoors,2015-05,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,5.0,43.0,2015-05,9,0.335,1.8
+Outdoors,2015-06,Accessories,Team Golf New England Patriots Putter Grip,9.0,110.0,2015-06,18,0.662,2.0
+Outdoors,2015-06,Accessories,Team Golf Pittsburgh Steelers Putter Grip,6.0,110.0,2015-06,3,1.34,0.5
+Outdoors,2015-06,Accessories,Team Golf San Francisco Giants Putter Grip,6.0,114.0,2015-06,0,2.334,0.0
+Outdoors,2015-06,Accessories,Team Golf St. Louis Cardinals Putter Grip,3.0,55.0,2015-06,4,0.205,1.33
+Outdoors,2015-06,Accessories,Team Golf Tennessee Volunteers Putter Grip,5.0,60.0,2015-06,7,1.207,1.4
+Outdoors,2015-06,Accessories,Team Golf Texas Longhorns Putter Grip,10.0,174.0,2015-06,2,0.437,0.2
+Outdoors,2015-06,Electronics,Bridgestone e6 Straight Distance NFL Carolina,3.0,146.0,2015-06,0,2.026,0.0
+Outdoors,2015-06,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,6.0,120.0,2015-06,6,0.231,1.0
+Outdoors,2015-06,Electronics,Titleist Pro V1 High Numbers Personalized Gol,2.0,100.0,2015-06,2,2.084,1.0
+Outdoors,2015-06,Electronics,Titleist Pro V1x Golf Balls,12.0,428.0,2015-06,19,0.811,1.58
+Outdoors,2015-06,Electronics,Titleist Pro V1x High Numbers Golf Balls,8.0,208.0,2015-06,12,0.366,1.5
+Outdoors,2015-06,Electronics,Titleist Pro V1x High Numbers Personalized Go,9.0,244.0,2015-06,7,0.547,0.78
+Outdoors,2015-06,Golf Balls,Glove It Women's Mod Oval Golf Glove,12.0,141.0,2015-06,3,1.646,0.25
+Outdoors,2015-06,Golf Balls,Hirzl Women's Hybrid Golf Glove,3.0,36.0,2015-06,5,1.67,1.67
+Outdoors,2015-06,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,3.0,42.0,2015-06,1,1.432,0.33
+Outdoors,2015-06,Golf Gloves,Bag Boy Beverage Holder,1.0,59.0,2015-06,1,1.302,1.0
+Outdoors,2015-06,Golf Gloves,Clicgear 8.0 Shoe Brush,2.0,16.0,2015-06,4,1.615,2.0
+Outdoors,2015-06,Golf Gloves,Clicgear Rovic Cooler Bag,6.0,174.0,2015-06,5,1.338,0.83
+Outdoors,2015-06,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,5.0,143.0,2015-06,3,0.601,0.6
+Outdoors,2015-06,Trade-In,Glove It Imperial Golf Towel,2.0,28.0,2015-06,0,1.777,0.0
+Outdoors,2015-06,Trade-In,Glove It Urban Brick Golf Towel,5.0,62.0,2015-06,6,0.802,1.2
+Outdoors,2015-06,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,5.0,43.0,2015-06,10,0.347,2.0
+Outdoors,2015-07,Accessories,Team Golf Pittsburgh Steelers Putter Grip,7.0,110.0,2015-07,3,2.153,0.43
+Outdoors,2015-07,Accessories,Team Golf San Francisco Giants Putter Grip,4.0,114.0,2015-07,2,1.569,0.5
+Outdoors,2015-07,Accessories,Team Golf St. Louis Cardinals Putter Grip,10.0,110.0,2015-07,10,0.811,1.0
+Outdoors,2015-07,Accessories,Team Golf Tennessee Volunteers Putter Grip,8.0,120.0,2015-07,13,1.955,1.62
+Outdoors,2015-07,Accessories,Team Golf Texas Longhorns Putter Grip,9.0,232.0,2015-07,3,0.667,0.33
+Outdoors,2015-07,Electronics,Bridgestone e6 Straight Distance NFL Carolina,10.0,146.0,2015-07,20,0.446,2.0
+Outdoors,2015-07,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,5.0,120.0,2015-07,2,1.653,0.4
+Outdoors,2015-07,Electronics,Titleist Pro V1 High Numbers Personalized Gol,9.0,200.0,2015-07,17,2.246,1.89
+Outdoors,2015-07,Electronics,Titleist Pro V1x Golf Balls,2.0,107.0,2015-07,1,0.75,0.5
+Outdoors,2015-07,Electronics,Titleist Pro V1x High Numbers Golf Balls,6.0,208.0,2015-07,6,1.703,1.0
+Outdoors,2015-07,Electronics,Titleist Pro V1x High Numbers Personalized Go,4.0,366.0,2015-07,0,0.235,0.0
+Outdoors,2015-07,Golf Apparel,Top Flite Women's 2017 XL Hybrid,5.0,94.0,2015-07,0,1.395,0.0
+Outdoors,2015-07,Golf Balls,Hirzl Men's Hybrid Golf Glove,15.0,124.0,2015-07,17,2.321,1.13
+Outdoors,2015-07,Golf Balls,Hirzl Women's Hybrid Golf Glove,13.0,108.0,2015-07,10,0.785,0.77
+Outdoors,2015-07,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,1.0,42.0,2015-07,2,0.872,2.0
+Outdoors,2015-07,Golf Gloves,Clicgear 8.0 Shoe Brush,4.0,16.0,2015-07,2,1.611,0.5
+Outdoors,2015-07,Golf Gloves,Clicgear Rovic Cooler Bag,8.0,261.0,2015-07,11,1.142,1.38
+Outdoors,2015-07,Golf Shoes,LIJA Women's Button Golf Dress,2.0,96.0,2015-07,1,0.935,0.5
+Outdoors,2015-07,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,12.0,572.0,2015-07,12,2.317,1.0
+Outdoors,2015-07,Trade-In,Glove It Imperial Golf Towel,2.0,28.0,2015-07,3,0.36,1.5
+Outdoors,2015-07,Trade-In,Glove It Urban Brick Golf Towel,6.0,62.0,2015-07,8,2.11,1.33
+Outdoors,2015-07,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,10.0,129.0,2015-07,8,2.084,0.8
+Outdoors,2015-08,Accessories,Team Golf New England Patriots Putter Grip,1.0,55.0,2015-08,0,0.733,0.0
+Outdoors,2015-08,Accessories,Team Golf Pittsburgh Steelers Putter Grip,10.0,165.0,2015-08,13,0.887,1.3
+Outdoors,2015-08,Accessories,Team Golf San Francisco Giants Putter Grip,6.0,114.0,2015-08,9,2.116,1.5
+Outdoors,2015-08,Accessories,Team Golf St. Louis Cardinals Putter Grip,2.0,55.0,2015-08,0,0.973,0.0
+Outdoors,2015-08,Accessories,Team Golf Texas Longhorns Putter Grip,6.0,116.0,2015-08,4,1.358,0.67
+Outdoors,2015-08,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,11.0,207.0,2015-08,5,0.994,0.45
+Outdoors,2015-08,Electronics,Titleist Pro V1 High Numbers Personalized Gol,4.0,100.0,2015-08,8,2.253,2.0
+Outdoors,2015-08,Electronics,Titleist Pro V1x Golf Balls,2.0,107.0,2015-08,4,1.747,2.0
+Outdoors,2015-08,Electronics,Titleist Pro V1x High Numbers Personalized Go,6.0,244.0,2015-08,4,1.097,0.67
+Outdoors,2015-08,Golf Apparel,Top Flite Women's 2017 XL Hybrid,17.0,188.0,2015-08,22,0.185,1.29
+Outdoors,2015-08,Golf Balls,Glove It Women's Imperial Golf Glove,1.0,44.0,2015-08,2,0.448,2.0
+Outdoors,2015-08,Golf Balls,Glove It Women's Mod Oval Golf Glove,4.0,47.0,2015-08,6,2.072,1.5
+Outdoors,2015-08,Golf Balls,Hirzl Women's Hybrid Golf Glove,16.0,144.0,2015-08,31,0.939,1.94
+Outdoors,2015-08,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,1.0,42.0,2015-08,0,2.303,0.0
+Outdoors,2015-08,Golf Gloves,Bag Boy Beverage Holder,3.0,59.0,2015-08,2,1.21,0.67
+Outdoors,2015-08,Golf Gloves,Clicgear 8.0 Shoe Brush,4.0,32.0,2015-08,5,0.394,1.25
+Outdoors,2015-08,Golf Gloves,Clicgear Rovic Cooler Bag,4.0,87.0,2015-08,7,1.856,1.75
+Outdoors,2015-08,Golf Shoes,LIJA Women's Argyle Golf Polo,1.0,134.0,2015-08,2,1.004,2.0
+Outdoors,2015-08,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,1.0,96.0,2015-08,2,1.383,2.0
+Outdoors,2015-08,Trade-In,Glove It Imperial Golf Towel,1.0,28.0,2015-08,0,0.102,0.0
+Outdoors,2015-08,Trade-In,Glove It Urban Brick Golf Towel,3.0,31.0,2015-08,2,0.815,0.67
+Outdoors,2015-08,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,3.0,43.0,2015-08,2,0.135,0.67
+Outdoors,2015-08,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588,3.0,291.0,2015-08,4,1.489,1.33
+Outdoors,2015-09,Accessories,Team Golf New England Patriots Putter Grip,4.0,55.0,2015-09,5,1.789,1.25
+Outdoors,2015-09,Accessories,Team Golf Pittsburgh Steelers Putter Grip,5.0,55.0,2015-09,10,0.208,2.0
+Outdoors,2015-09,Accessories,Team Golf San Francisco Giants Putter Grip,3.0,114.0,2015-09,3,0.924,1.0
+Outdoors,2015-09,Accessories,Team Golf Tennessee Volunteers Putter Grip,5.0,180.0,2015-09,10,2.161,2.0
+Outdoors,2015-09,Accessories,Team Golf Texas Longhorns Putter Grip,10.0,174.0,2015-09,9,1.614,0.9
+Outdoors,2015-09,Electronics,Bridgestone e6 Straight Distance NFL Carolina,1.0,73.0,2015-09,0,0.166,0.0
+Outdoors,2015-09,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3.0,60.0,2015-09,5,1.222,1.67
+Outdoors,2015-09,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,8.0,207.0,2015-09,13,1.135,1.62
+Outdoors,2015-09,Electronics,Titleist Pro V1 High Numbers Personalized Gol,11.0,400.0,2015-09,21,0.504,1.91
+Outdoors,2015-09,Electronics,Titleist Pro V1x Golf Balls,2.0,107.0,2015-09,0,1.018,0.0
+Outdoors,2015-09,Electronics,Titleist Pro V1x High Numbers Golf Balls,2.0,104.0,2015-09,4,0.438,2.0
+Outdoors,2015-09,Electronics,Titleist Pro V1x High Numbers Personalized Go,6.0,244.0,2015-09,4,0.244,0.67
+Outdoors,2015-09,Golf Balls,Glove It Women's Imperial Golf Glove,4.0,88.0,2015-09,1,2.284,0.25
+Outdoors,2015-09,Golf Balls,Hirzl Women's Hybrid Golf Glove,3.0,36.0,2015-09,4,2.329,1.33
+Outdoors,2015-09,Golf Gloves,Bag Boy Beverage Holder,4.0,118.0,2015-09,6,1.254,1.5
+Outdoors,2015-09,Golf Gloves,Clicgear 8.0 Shoe Brush,4.0,16.0,2015-09,3,1.771,0.75
+Outdoors,2015-09,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,5.0,143.0,2015-09,2,0.438,0.4
+Outdoors,2015-09,Trade-In,Glove It Imperial Golf Towel,11.0,112.0,2015-09,16,0.119,1.45
+Outdoors,2015-09,Trade-In,Glove It Urban Brick Golf Towel,5.0,62.0,2015-09,1,0.257,0.2
+Outdoors,2015-09,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588,1.0,97.0,2015-09,2,1.842,2.0
+Outdoors,2015-10,Accessories,Team Golf New England Patriots Putter Grip,2.0,110.0,2015-10,1,0.855,0.5
+Outdoors,2015-10,Accessories,Team Golf Pittsburgh Steelers Putter Grip,18.0,220.0,2015-10,1,1.189,0.06
+Outdoors,2015-10,Accessories,Team Golf San Francisco Giants Putter Grip,18.0,285.0,2015-10,22,1.858,1.22
+Outdoors,2015-10,Accessories,Team Golf St. Louis Cardinals Putter Grip,2.0,55.0,2015-10,4,2.238,2.0
+Outdoors,2015-10,Accessories,Team Golf Tennessee Volunteers Putter Grip,7.0,120.0,2015-10,3,2.269,0.43
+Outdoors,2015-10,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,5.0,120.0,2015-10,4,1.635,0.8
+Outdoors,2015-10,Electronics,Titleist Pro V1 High Numbers Personalized Gol,4.0,100.0,2015-10,6,0.829,1.5
+Outdoors,2015-10,Electronics,Titleist Pro V1x Golf Balls,6.0,214.0,2015-10,4,2.033,0.67
+Outdoors,2015-10,Electronics,Titleist Pro V1x High Numbers Golf Balls,6.0,208.0,2015-10,6,0.972,1.0
+Outdoors,2015-10,Electronics,Titleist Pro V1x High Numbers Personalized Go,7.0,244.0,2015-10,0,1.434,0.0
+Outdoors,2015-10,Garden,Lawn mower,1.0,258.0,2015-10,2,0.547,2.0
+Outdoors,2015-10,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,1.0,31.0,2015-10,2,0.565,2.0
+Outdoors,2015-10,Golf Apparel,Top Flite Women's 2017 XL Hybrid,9.0,94.0,2015-10,1,2.279,0.11
+Outdoors,2015-10,Golf Balls,Glove It Women's Mod Oval Golf Glove,8.0,94.0,2015-10,9,1.6,1.12
+Outdoors,2015-10,Golf Balls,Hirzl Men's Hybrid Golf Glove,8.0,93.0,2015-10,8,0.816,1.0
+Outdoors,2015-10,Golf Balls,Hirzl Women's Hybrid Golf Glove,4.0,36.0,2015-10,3,1.06,0.75
+Outdoors,2015-10,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,3.0,42.0,2015-10,2,0.162,0.67
+Outdoors,2015-10,Golf Gloves,Bag Boy Beverage Holder,8.0,118.0,2015-10,1,1.54,0.12
+Outdoors,2015-10,Golf Gloves,Clicgear 8.0 Shoe Brush,10.0,32.0,2015-10,19,1.895,1.9
+Outdoors,2015-10,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,11.0,429.0,2015-10,0,1.057,0.0
+Outdoors,2015-10,Trade-In,Glove It Imperial Golf Towel,18.0,140.0,2015-10,27,0.607,1.5
+Outdoors,2015-10,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,2.0,43.0,2015-10,3,1.162,1.5
+Outdoors,2015-11,Accessories,Team Golf New England Patriots Putter Grip,10.0,110.0,2015-11,1,1.224,0.1
+Outdoors,2015-11,Accessories,Team Golf San Francisco Giants Putter Grip,10.0,114.0,2015-11,19,0.418,1.9
+Outdoors,2015-11,Accessories,Team Golf St. Louis Cardinals Putter Grip,5.0,55.0,2015-11,10,0.769,2.0
+Outdoors,2015-11,Accessories,Team Golf Tennessee Volunteers Putter Grip,7.0,120.0,2015-11,1,2.018,0.14
+Outdoors,2015-11,Accessories,Team Golf Texas Longhorns Putter Grip,13.0,232.0,2015-11,4,1.895,0.31
+Outdoors,2015-11,Electronics,Bridgestone e6 Straight Distance NFL Carolina,9.0,219.0,2015-11,13,2.056,1.44
+Outdoors,2015-11,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3.0,120.0,2015-11,2,1.921,0.67
+Outdoors,2015-11,Electronics,Titleist Pro V1 High Numbers Personalized Gol,10.0,200.0,2015-11,2,1.314,0.2
+Outdoors,2015-11,Electronics,Titleist Pro V1x Golf Balls,7.0,214.0,2015-11,0,1.529,0.0
+Outdoors,2015-11,Electronics,Titleist Pro V1x High Numbers Personalized Go,16.0,610.0,2015-11,30,1.043,1.88
+Outdoors,2015-11,Golf Apparel,Top Flite Women's 2017 XL Hybrid,4.0,47.0,2015-11,7,1.902,1.75
+Outdoors,2015-11,Golf Balls,Glove It Women's Mod Oval Golf Glove,9.0,141.0,2015-11,2,1.516,0.22
+Outdoors,2015-11,Golf Balls,Hirzl Men's Hybrid Golf Glove,5.0,62.0,2015-11,3,0.293,0.6
+Outdoors,2015-11,Golf Balls,Hirzl Women's Hybrid Golf Glove,5.0,72.0,2015-11,4,1.874,0.8
+Outdoors,2015-11,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,7.0,84.0,2015-11,3,1.709,0.43
+Outdoors,2015-11,Golf Gloves,Bag Boy Beverage Holder,4.0,59.0,2015-11,3,1.296,0.75
+Outdoors,2015-11,Golf Gloves,Clicgear 8.0 Shoe Brush,1.0,16.0,2015-11,2,0.158,2.0
+Outdoors,2015-11,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,5.0,143.0,2015-11,9,1.054,1.8
+Outdoors,2015-11,Trade-In,Glove It Imperial Golf Towel,7.0,56.0,2015-11,5,1.023,0.71
+Outdoors,2015-11,Trade-In,Glove It Urban Brick Golf Towel,14.0,155.0,2015-11,18,1.819,1.29
+Outdoors,2015-11,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,8.0,86.0,2015-11,2,2.062,0.25
+Outdoors,2015-12,Accessories,Team Golf New England Patriots Putter Grip,2.0,55.0,2015-12,3,0.496,1.5
+Outdoors,2015-12,Accessories,Team Golf Pittsburgh Steelers Putter Grip,14.0,275.0,2015-12,27,1.996,1.93
+Outdoors,2015-12,Accessories,Team Golf St. Louis Cardinals Putter Grip,5.0,110.0,2015-12,2,1.931,0.4
+Outdoors,2015-12,Accessories,Team Golf Tennessee Volunteers Putter Grip,8.0,180.0,2015-12,0,1.507,0.0
+Outdoors,2015-12,Accessories,Team Golf Texas Longhorns Putter Grip,6.0,116.0,2015-12,9,0.152,1.5
+Outdoors,2015-12,Electronics,Bridgestone e6 Straight Distance NFL Carolina,6.0,146.0,2015-12,3,2.214,0.5
+Outdoors,2015-12,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,4.0,60.0,2015-12,1,0.222,0.25
+Outdoors,2015-12,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,9.0,138.0,2015-12,1,0.505,0.11
+Outdoors,2015-12,Electronics,Titleist Pro V1 High Numbers Personalized Gol,5.0,200.0,2015-12,0,2.156,0.0
+Outdoors,2015-12,Electronics,Titleist Pro V1x Golf Balls,7.0,428.0,2015-12,3,2.12,0.43
+Outdoors,2015-12,Electronics,Titleist Pro V1x High Numbers Golf Balls,12.0,312.0,2015-12,3,1.64,0.25
+Outdoors,2015-12,Electronics,Titleist Pro V1x High Numbers Personalized Go,13.0,488.0,2015-12,10,2.073,0.77
+Outdoors,2015-12,Golf Balls,Glove It Women's Imperial Golf Glove,3.0,44.0,2015-12,2,1.427,0.67
+Outdoors,2015-12,Golf Balls,Glove It Women's Mod Oval Golf Glove,1.0,47.0,2015-12,2,2.262,2.0
+Outdoors,2015-12,Golf Balls,Hirzl Men's Hybrid Golf Glove,9.0,93.0,2015-12,15,0.217,1.67
+Outdoors,2015-12,Golf Balls,Hirzl Women's Hybrid Golf Glove,7.0,72.0,2015-12,9,1.582,1.29
+Outdoors,2015-12,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,1.0,42.0,2015-12,1,0.83,1.0
+Outdoors,2015-12,Golf Gloves,Bag Boy Beverage Holder,9.0,118.0,2015-12,15,1.655,1.67
+Outdoors,2015-12,Golf Gloves,Clicgear Rovic Cooler Bag,3.0,174.0,2015-12,0,0.104,0.0
+Outdoors,2015-12,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,6.0,286.0,2015-12,8,0.672,1.33
+Outdoors,2015-12,Trade-In,Glove It Imperial Golf Towel,5.0,56.0,2015-12,10,0.13,2.0
+Outdoors,2015-12,Trade-In,Glove It Urban Brick Golf Towel,5.0,93.0,2015-12,1,0.845,0.2
+Outdoors,2015-12,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,2.0,86.0,2015-12,3,1.99,1.5
+Outdoors,2016-01,Accessories,Team Golf New England Patriots Putter Grip,5.0,110.0,2016-01,6,1.857,1.2
+Outdoors,2016-01,Accessories,Team Golf San Francisco Giants Putter Grip,11.0,171.0,2016-01,5,1.928,0.45
+Outdoors,2016-01,Accessories,Team Golf St. Louis Cardinals Putter Grip,5.0,165.0,2016-01,6,0.898,1.2
+Outdoors,2016-01,Accessories,Team Golf Texas Longhorns Putter Grip,1.0,58.0,2016-01,2,1.856,2.0
+Outdoors,2016-01,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,8.0,138.0,2016-01,14,2.049,1.75
+Outdoors,2016-01,Electronics,Titleist Pro V1 High Numbers Personalized Gol,6.0,200.0,2016-01,8,1.282,1.33
+Outdoors,2016-01,Electronics,Titleist Pro V1x Golf Balls,5.0,107.0,2016-01,5,2.234,1.0
+Outdoors,2016-01,Electronics,Titleist Pro V1x High Numbers Golf Balls,2.0,208.0,2016-01,0,0.124,0.0
+Outdoors,2016-01,Electronics,Titleist Pro V1x High Numbers Personalized Go,14.0,610.0,2016-01,27,1.651,1.93
+Outdoors,2016-01,Garden,Lawn mower,2.0,516.0,2016-01,3,0.942,1.5
+Outdoors,2016-01,Golf Balls,Glove It Women's Mod Oval Golf Glove,4.0,47.0,2016-01,4,1.439,1.0
+Outdoors,2016-01,Golf Balls,Hirzl Men's Hybrid Golf Glove,6.0,62.0,2016-01,10,1.711,1.67
+Outdoors,2016-01,Golf Balls,Hirzl Women's Hybrid Golf Glove,20.0,216.0,2016-01,25,0.661,1.25
+Outdoors,2016-01,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,5.0,42.0,2016-01,5,1.031,1.0
+Outdoors,2016-01,Golf Gloves,Bag Boy Beverage Holder,5.0,59.0,2016-01,6,1.518,1.2
+Outdoors,2016-01,Golf Gloves,Clicgear Rovic Cooler Bag,7.0,174.0,2016-01,10,1.961,1.43
+Outdoors,2016-01,Trade-In,Glove It Urban Brick Golf Towel,3.0,62.0,2016-01,2,1.344,0.67
+Outdoors,2016-02,Accessories,Team Golf New England Patriots Putter Grip,3.0,55.0,2016-02,5,0.336,1.67
+Outdoors,2016-02,Accessories,Team Golf Pittsburgh Steelers Putter Grip,5.0,55.0,2016-02,7,1.751,1.4
+Outdoors,2016-02,Accessories,Team Golf San Francisco Giants Putter Grip,2.0,114.0,2016-02,4,1.126,2.0
+Outdoors,2016-02,Accessories,Team Golf St. Louis Cardinals Putter Grip,8.0,165.0,2016-02,11,0.278,1.38
+Outdoors,2016-02,Accessories,Team Golf Texas Longhorns Putter Grip,11.0,174.0,2016-02,14,1.708,1.27
+Outdoors,2016-02,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3.0,60.0,2016-02,5,0.494,1.67
+Outdoors,2016-02,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,8.0,138.0,2016-02,0,1.854,0.0
+Outdoors,2016-02,Electronics,Titleist Pro V1 High Numbers Personalized Gol,3.0,100.0,2016-02,0,1.576,0.0
+Outdoors,2016-02,Electronics,Titleist Pro V1x Golf Balls,9.0,214.0,2016-02,15,1.79,1.67
+Outdoors,2016-02,Electronics,Titleist Pro V1x High Numbers Personalized Go,8.0,244.0,2016-02,12,1.82,1.5
+Outdoors,2016-02,Garden,Lawn mower,3.0,774.0,2016-02,0,1.603,0.0
+Outdoors,2016-02,Golf Balls,Glove It Women's Imperial Golf Glove,9.0,132.0,2016-02,17,1.725,1.89
+Outdoors,2016-02,Golf Balls,Glove It Women's Mod Oval Golf Glove,10.0,188.0,2016-02,7,0.623,0.7
+Outdoors,2016-02,Golf Balls,Hirzl Men's Hybrid Golf Glove,12.0,93.0,2016-02,9,1.411,0.75
+Outdoors,2016-02,Golf Balls,Hirzl Women's Hybrid Golf Glove,7.0,108.0,2016-02,13,1.479,1.86
+Outdoors,2016-02,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,5.0,42.0,2016-02,5,1.85,1.0
+Outdoors,2016-02,Golf Gloves,Bag Boy Beverage Holder,9.0,236.0,2016-02,8,0.702,0.89
+Outdoors,2016-02,Golf Gloves,Clicgear Rovic Cooler Bag,14.0,348.0,2016-02,1,1.26,0.07
+Outdoors,2016-02,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,8.0,286.0,2016-02,3,1.393,0.38
+Outdoors,2016-02,Trade-In,Glove It Imperial Golf Towel,5.0,28.0,2016-02,2,0.888,0.4
+Outdoors,2016-02,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,11.0,129.0,2016-02,2,1.124,0.18
+Outdoors,2016-03,Accessories,Team Golf New England Patriots Putter Grip,5.0,55.0,2016-03,8,0.701,1.6
+Outdoors,2016-03,Accessories,Team Golf Pittsburgh Steelers Putter Grip,20.0,275.0,2016-03,32,0.73,1.6
+Outdoors,2016-03,Accessories,Team Golf San Francisco Giants Putter Grip,1.0,57.0,2016-03,0,2.182,0.0
+Outdoors,2016-03,Accessories,Team Golf St. Louis Cardinals Putter Grip,3.0,55.0,2016-03,0,2.083,0.0
+Outdoors,2016-03,Accessories,Team Golf Tennessee Volunteers Putter Grip,8.0,120.0,2016-03,1,1.602,0.12
+Outdoors,2016-03,Accessories,Team Golf Texas Longhorns Putter Grip,5.0,58.0,2016-03,10,1.299,2.0
+Outdoors,2016-03,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3.0,60.0,2016-03,6,1.475,2.0
+Outdoors,2016-03,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,2.0,138.0,2016-03,1,0.904,0.5
+Outdoors,2016-03,Electronics,Titleist Pro V1 High Numbers Personalized Gol,6.0,300.0,2016-03,8,0.859,1.33
+Outdoors,2016-03,Electronics,Titleist Pro V1x Golf Balls,4.0,107.0,2016-03,7,0.974,1.75
+Outdoors,2016-03,Electronics,Titleist Pro V1x High Numbers Golf Balls,3.0,208.0,2016-03,4,0.886,1.33
+Outdoors,2016-03,Garden,Lawn mower,1.0,258.0,2016-03,2,1.495,2.0
+Outdoors,2016-03,Golf Apparel,Top Flite Women's 2017 XL Hybrid,10.0,94.0,2016-03,18,1.753,1.8
+Outdoors,2016-03,Golf Balls,Glove It Women's Imperial Golf Glove,5.0,88.0,2016-03,1,1.489,0.2
+Outdoors,2016-03,Golf Balls,Glove It Women's Mod Oval Golf Glove,4.0,47.0,2016-03,2,2.21,0.5
+Outdoors,2016-03,Golf Balls,Hirzl Men's Hybrid Golf Glove,4.0,31.0,2016-03,2,1.874,0.5
+Outdoors,2016-03,Golf Gloves,Bag Boy Beverage Holder,4.0,59.0,2016-03,5,1.457,1.25
+Outdoors,2016-03,Golf Gloves,Clicgear 8.0 Shoe Brush,5.0,32.0,2016-03,10,1.148,2.0
+Outdoors,2016-03,Golf Gloves,Clicgear Rovic Cooler Bag,2.0,87.0,2016-03,2,2.165,1.0
+Outdoors,2016-03,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,4.0,143.0,2016-03,0,0.957,0.0
+Outdoors,2016-03,Trade-In,Glove It Imperial Golf Towel,5.0,56.0,2016-03,5,0.674,1.0
+Outdoors,2016-03,Trade-In,Glove It Urban Brick Golf Towel,6.0,62.0,2016-03,7,1.947,1.17
+Outdoors,2016-03,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,6.0,86.0,2016-03,10,0.533,1.67
+Outdoors,2016-04,Accessories,Team Golf New England Patriots Putter Grip,11.0,165.0,2016-04,10,2.013,0.91
+Outdoors,2016-04,Accessories,Team Golf Pittsburgh Steelers Putter Grip,12.0,220.0,2016-04,24,1.67,2.0
+Outdoors,2016-04,Accessories,Team Golf St. Louis Cardinals Putter Grip,4.0,110.0,2016-04,5,0.111,1.25
+Outdoors,2016-04,Accessories,Team Golf Tennessee Volunteers Putter Grip,3.0,60.0,2016-04,6,0.708,2.0
+Outdoors,2016-04,Electronics,Bridgestone e6 Straight Distance NFL Carolina,4.0,73.0,2016-04,1,1.495,0.25
+Outdoors,2016-04,Electronics,Titleist Pro V1 High Numbers Personalized Gol,2.0,200.0,2016-04,4,0.146,2.0
+Outdoors,2016-04,Electronics,Titleist Pro V1x Golf Balls,1.0,107.0,2016-04,2,0.266,2.0
+Outdoors,2016-04,Electronics,Titleist Pro V1x High Numbers Golf Balls,5.0,104.0,2016-04,10,0.701,2.0
+Outdoors,2016-04,Golf Apparel,Top Flite Women's 2017 XL Hybrid,8.0,94.0,2016-04,11,2.104,1.38
+Outdoors,2016-04,Golf Balls,Glove It Women's Imperial Golf Glove,6.0,88.0,2016-04,10,0.283,1.67
+Outdoors,2016-04,Golf Balls,Glove It Women's Mod Oval Golf Glove,7.0,141.0,2016-04,0,1.082,0.0
+Outdoors,2016-04,Golf Balls,Hirzl Men's Hybrid Golf Glove,12.0,93.0,2016-04,11,1.964,0.92
+Outdoors,2016-04,Golf Balls,Hirzl Women's Hybrid Golf Glove,10.0,72.0,2016-04,4,0.376,0.4
+Outdoors,2016-04,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,4.0,84.0,2016-04,6,0.549,1.5
+Outdoors,2016-04,Golf Gloves,Bag Boy Beverage Holder,5.0,59.0,2016-04,8,1.85,1.6
+Outdoors,2016-04,Golf Gloves,Clicgear 8.0 Shoe Brush,3.0,16.0,2016-04,1,0.564,0.33
+Outdoors,2016-04,Golf Gloves,Clicgear Rovic Cooler Bag,8.0,261.0,2016-04,0,0.337,0.0
+Outdoors,2016-04,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,9.0,286.0,2016-04,4,0.299,0.44
+Outdoors,2016-04,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,3.0,121.0,2016-04,1,1.693,0.33
+Outdoors,2016-04,Trade-In,Glove It Imperial Golf Towel,13.0,84.0,2016-04,12,0.49,0.92
+Outdoors,2016-04,Trade-In,Glove It Urban Brick Golf Towel,6.0,62.0,2016-04,5,1.657,0.83
+Outdoors,2016-04,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,2.0,43.0,2016-04,0,0.418,0.0
+Outdoors,2016-05,Accessories,Team Golf New England Patriots Putter Grip,15.0,275.0,2016-05,17,0.238,1.13
+Outdoors,2016-05,Accessories,Team Golf Pittsburgh Steelers Putter Grip,11.0,220.0,2016-05,16,0.186,1.45
+Outdoors,2016-05,Accessories,Team Golf St. Louis Cardinals Putter Grip,14.0,330.0,2016-05,10,0.934,0.71
+Outdoors,2016-05,Accessories,Team Golf Tennessee Volunteers Putter Grip,2.0,60.0,2016-05,2,0.71,1.0
+Outdoors,2016-05,Accessories,Team Golf Texas Longhorns Putter Grip,22.0,348.0,2016-05,8,2.118,0.36
+Outdoors,2016-05,Electronics,Bridgestone e6 Straight Distance NFL Carolina,5.0,146.0,2016-05,10,0.386,2.0
+Outdoors,2016-05,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,8.0,180.0,2016-05,4,1.523,0.5
+Outdoors,2016-05,Electronics,Titleist Pro V1 High Numbers Personalized Gol,1.0,100.0,2016-05,1,0.654,1.0
+Outdoors,2016-05,Electronics,Titleist Pro V1x Golf Balls,11.0,321.0,2016-05,22,0.981,2.0
+Outdoors,2016-05,Electronics,Titleist Pro V1x High Numbers Personalized Go,6.0,244.0,2016-05,3,1.145,0.5
+Outdoors,2016-05,Golf Balls,Glove It Women's Imperial Golf Glove,10.0,132.0,2016-05,3,0.285,0.3
+Outdoors,2016-05,Golf Gloves,Bag Boy Beverage Holder,10.0,118.0,2016-05,5,1.919,0.5
+Outdoors,2016-05,Golf Gloves,Clicgear 8.0 Shoe Brush,12.0,48.0,2016-05,17,1.045,1.42
+Outdoors,2016-05,Golf Gloves,Clicgear Rovic Cooler Bag,7.0,174.0,2016-05,14,1.22,2.0
+Outdoors,2016-05,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,15.0,572.0,2016-05,17,1.854,1.13
+Outdoors,2016-05,Trade-In,Glove It Imperial Golf Towel,4.0,56.0,2016-05,1,0.793,0.25
+Outdoors,2016-05,Trade-In,Glove It Urban Brick Golf Towel,16.0,124.0,2016-05,12,0.988,0.75
+Outdoors,2016-05,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,4.0,43.0,2016-05,4,0.228,1.0
+Outdoors,2016-06,Accessories,Team Golf New England Patriots Putter Grip,6.0,110.0,2016-06,9,0.22,1.5
+Outdoors,2016-06,Accessories,Team Golf Pittsburgh Steelers Putter Grip,6.0,110.0,2016-06,5,0.6,0.83
+Outdoors,2016-06,Accessories,Team Golf San Francisco Giants Putter Grip,4.0,57.0,2016-06,6,1.467,1.5
+Outdoors,2016-06,Accessories,Team Golf St. Louis Cardinals Putter Grip,1.0,55.0,2016-06,1,1.878,1.0
+Outdoors,2016-06,Accessories,Team Golf Tennessee Volunteers Putter Grip,3.0,120.0,2016-06,1,1.777,0.33
+Outdoors,2016-06,Accessories,Team Golf Texas Longhorns Putter Grip,4.0,58.0,2016-06,2,0.536,0.5
+Outdoors,2016-06,Electronics,Bridgestone e6 Straight Distance NFL Carolina,12.0,219.0,2016-06,22,1.096,1.83
+Outdoors,2016-06,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,7.0,120.0,2016-06,0,2.282,0.0
+Outdoors,2016-06,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,10.0,138.0,2016-06,10,0.819,1.0
+Outdoors,2016-06,Electronics,Titleist Pro V1 High Numbers Personalized Gol,5.0,200.0,2016-06,2,1.144,0.4
+Outdoors,2016-06,Electronics,Titleist Pro V1x Golf Balls,2.0,107.0,2016-06,1,2.252,0.5
+Outdoors,2016-06,Electronics,Titleist Pro V1x High Numbers Golf Balls,8.0,312.0,2016-06,9,1.559,1.12
+Outdoors,2016-06,Golf Apparel,Top Flite Women's 2017 XL Hybrid,2.0,94.0,2016-06,0,1.359,0.0
+Outdoors,2016-06,Golf Balls,Glove It Women's Imperial Golf Glove,2.0,44.0,2016-06,4,0.362,2.0
+Outdoors,2016-06,Golf Balls,Hirzl Men's Hybrid Golf Glove,4.0,62.0,2016-06,5,0.153,1.25
+Outdoors,2016-06,Golf Balls,Hirzl Women's Hybrid Golf Glove,10.0,108.0,2016-06,13,0.208,1.3
+Outdoors,2016-06,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,5.0,42.0,2016-06,9,1.059,1.8
+Outdoors,2016-06,Golf Gloves,Bag Boy Beverage Holder,11.0,177.0,2016-06,6,1.124,0.55
+Outdoors,2016-06,Golf Gloves,Clicgear 8.0 Shoe Brush,3.0,32.0,2016-06,6,0.711,2.0
+Outdoors,2016-06,Golf Gloves,Clicgear Rovic Cooler Bag,13.0,348.0,2016-06,13,1.464,1.0
+Outdoors,2016-06,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,8.0,286.0,2016-06,1,1.615,0.12
+Outdoors,2016-06,Trade-In,Glove It Imperial Golf Towel,5.0,56.0,2016-06,9,2.113,1.8
+Outdoors,2016-06,Trade-In,Glove It Urban Brick Golf Towel,2.0,31.0,2016-06,2,1.195,1.0
+Outdoors,2016-06,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,7.0,86.0,2016-06,4,2.007,0.57
+Outdoors,2016-07,Accessories,Team Golf New England Patriots Putter Grip,19.0,275.0,2016-07,5,2.158,0.26
+Outdoors,2016-07,Accessories,Team Golf Pittsburgh Steelers Putter Grip,9.0,110.0,2016-07,7,2.101,0.78
+Outdoors,2016-07,Accessories,Team Golf San Francisco Giants Putter Grip,3.0,57.0,2016-07,3,1.319,1.0
+Outdoors,2016-07,Accessories,Team Golf St. Louis Cardinals Putter Grip,8.0,165.0,2016-07,10,1.923,1.25
+Outdoors,2016-07,Accessories,Team Golf Tennessee Volunteers Putter Grip,10.0,120.0,2016-07,15,0.456,1.5
+Outdoors,2016-07,Accessories,Team Golf Texas Longhorns Putter Grip,3.0,58.0,2016-07,5,0.209,1.67
+Outdoors,2016-07,Electronics,Bridgestone e6 Straight Distance NFL Carolina,4.0,73.0,2016-07,4,0.493,1.0
+Outdoors,2016-07,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,5.0,180.0,2016-07,1,1.883,0.2
+Outdoors,2016-07,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,2.0,69.0,2016-07,1,1.853,0.5
+Outdoors,2016-07,Electronics,Titleist Pro V1x Golf Balls,10.0,428.0,2016-07,19,1.675,1.9
+Outdoors,2016-07,Electronics,Titleist Pro V1x High Numbers Golf Balls,6.0,208.0,2016-07,7,1.741,1.17
+Outdoors,2016-07,Electronics,Titleist Pro V1x High Numbers Personalized Go,1.0,122.0,2016-07,0,2.227,0.0
+Outdoors,2016-07,Golf Apparel,Top Flite Women's 2017 XL Hybrid,8.0,94.0,2016-07,9,0.84,1.12
+Outdoors,2016-07,Golf Balls,Glove It Women's Mod Oval Golf Glove,11.0,141.0,2016-07,8,1.221,0.73
+Outdoors,2016-07,Golf Balls,Hirzl Women's Hybrid Golf Glove,3.0,36.0,2016-07,5,0.749,1.67
+Outdoors,2016-07,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,5.0,42.0,2016-07,6,0.928,1.2
+Outdoors,2016-07,Golf Gloves,Bag Boy Beverage Holder,6.0,118.0,2016-07,12,2.332,2.0
+Outdoors,2016-07,Golf Gloves,Clicgear 8.0 Shoe Brush,7.0,32.0,2016-07,10,1.271,1.43
+Outdoors,2016-07,Golf Gloves,Clicgear Rovic Cooler Bag,5.0,87.0,2016-07,4,1.18,0.8
+Outdoors,2016-07,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,5.0,429.0,2016-07,0,1.201,0.0
+Outdoors,2016-07,Trade-In,Glove It Imperial Golf Towel,5.0,28.0,2016-07,3,1.908,0.6
+Outdoors,2016-07,Trade-In,Glove It Urban Brick Golf Towel,7.0,124.0,2016-07,3,0.465,0.43
+Outdoors,2016-07,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,16.0,215.0,2016-07,29,1.014,1.81
+Outdoors,2016-08,Accessories,Team Golf New England Patriots Putter Grip,5.0,165.0,2016-08,2,0.949,0.4
+Outdoors,2016-08,Accessories,Team Golf Pittsburgh Steelers Putter Grip,6.0,165.0,2016-08,6,1.395,1.0
+Outdoors,2016-08,Accessories,Team Golf San Francisco Giants Putter Grip,4.0,57.0,2016-08,7,0.968,1.75
+Outdoors,2016-08,Accessories,Team Golf St. Louis Cardinals Putter Grip,4.0,55.0,2016-08,5,0.443,1.25
+Outdoors,2016-08,Accessories,Team Golf Tennessee Volunteers Putter Grip,7.0,240.0,2016-08,3,1.346,0.43
+Outdoors,2016-08,Accessories,Team Golf Texas Longhorns Putter Grip,2.0,58.0,2016-08,0,1.681,0.0
+Outdoors,2016-08,Electronics,Bridgestone e6 Straight Distance NFL Carolina,7.0,146.0,2016-08,1,0.222,0.14
+Outdoors,2016-08,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,5.0,120.0,2016-08,5,1.504,1.0
+Outdoors,2016-08,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,4.0,276.0,2016-08,0,0.173,0.0
+Outdoors,2016-08,Electronics,Titleist Pro V1 High Numbers Personalized Gol,1.0,100.0,2016-08,2,1.339,2.0
+Outdoors,2016-08,Electronics,Titleist Pro V1x Golf Balls,12.0,428.0,2016-08,10,0.875,0.83
+Outdoors,2016-08,Electronics,Titleist Pro V1x High Numbers Personalized Go,4.0,122.0,2016-08,0,1.365,0.0
+Outdoors,2016-08,Golf Apparel,Top Flite Women's 2017 XL Hybrid,2.0,47.0,2016-08,4,1.779,2.0
+Outdoors,2016-08,Golf Balls,Glove It Women's Imperial Golf Glove,10.0,132.0,2016-08,0,0.466,0.0
+Outdoors,2016-08,Golf Balls,Glove It Women's Mod Oval Golf Glove,3.0,47.0,2016-08,5,2.185,1.67
+Outdoors,2016-08,Golf Balls,Hirzl Women's Hybrid Golf Glove,5.0,36.0,2016-08,2,2.266,0.4
+Outdoors,2016-08,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,4.0,42.0,2016-08,8,1.815,2.0
+Outdoors,2016-08,Golf Gloves,Clicgear 8.0 Shoe Brush,11.0,64.0,2016-08,20,1.242,1.82
+Outdoors,2016-08,Golf Gloves,Clicgear Rovic Cooler Bag,3.0,174.0,2016-08,0,1.412,0.0
+Outdoors,2016-08,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,2.0,143.0,2016-08,2,1.404,1.0
+Outdoors,2016-08,Trade-In,Glove It Imperial Golf Towel,14.0,112.0,2016-08,20,1.937,1.43
+Outdoors,2016-08,Trade-In,Glove It Urban Brick Golf Towel,8.0,93.0,2016-08,12,0.262,1.5
+Outdoors,2016-09,Accessories,Team Golf New England Patriots Putter Grip,4.0,110.0,2016-09,2,1.435,0.5
+Outdoors,2016-09,Accessories,Team Golf Pittsburgh Steelers Putter Grip,1.0,55.0,2016-09,1,1.307,1.0
+Outdoors,2016-09,Accessories,Team Golf St. Louis Cardinals Putter Grip,9.0,110.0,2016-09,10,1.224,1.11
+Outdoors,2016-09,Accessories,Team Golf Tennessee Volunteers Putter Grip,19.0,300.0,2016-09,13,0.725,0.68
+Outdoors,2016-09,Accessories,Team Golf Texas Longhorns Putter Grip,14.0,232.0,2016-09,14,1.074,1.0
+Outdoors,2016-09,Electronics,Bridgestone e6 Straight Distance NFL Carolina,15.0,292.0,2016-09,1,1.835,0.07
+Outdoors,2016-09,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,4.0,120.0,2016-09,3,1.33,0.75
+Outdoors,2016-09,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,1.0,69.0,2016-09,1,0.882,1.0
+Outdoors,2016-09,Electronics,Titleist Pro V1 High Numbers Personalized Gol,1.0,100.0,2016-09,0,2.289,0.0
+Outdoors,2016-09,Electronics,Titleist Pro V1x Golf Balls,2.0,107.0,2016-09,4,0.632,2.0
+Outdoors,2016-09,Electronics,Titleist Pro V1x High Numbers Golf Balls,7.0,208.0,2016-09,11,1.881,1.57
+Outdoors,2016-09,Electronics,Titleist Pro V1x High Numbers Personalized Go,5.0,122.0,2016-09,4,2.02,0.8
+Outdoors,2016-09,Golf Apparel,Top Flite Women's 2017 XL Hybrid,13.0,188.0,2016-09,16,0.358,1.23
+Outdoors,2016-09,Golf Balls,Glove It Women's Mod Oval Golf Glove,8.0,94.0,2016-09,4,0.55,0.5
+Outdoors,2016-09,Golf Balls,Hirzl Men's Hybrid Golf Glove,10.0,93.0,2016-09,7,1.725,0.7
+Outdoors,2016-09,Golf Balls,Hirzl Women's Hybrid Golf Glove,8.0,108.0,2016-09,0,2.273,0.0
+Outdoors,2016-09,Golf Gloves,Bag Boy Beverage Holder,4.0,177.0,2016-09,8,1.832,2.0
+Outdoors,2016-09,Golf Gloves,Clicgear Rovic Cooler Bag,6.0,174.0,2016-09,0,0.977,0.0
+Outdoors,2016-09,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,5.0,143.0,2016-09,1,1.883,0.2
+Outdoors,2016-09,Trade-In,Glove It Imperial Golf Towel,1.0,28.0,2016-09,1,1.009,1.0
+Outdoors,2016-09,Trade-In,Glove It Urban Brick Golf Towel,13.0,93.0,2016-09,8,1.747,0.62
+Outdoors,2016-09,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,8.0,129.0,2016-09,11,1.135,1.38
+Outdoors,2016-10,Accessories,Team Golf New England Patriots Putter Grip,4.0,110.0,2016-10,3,0.919,0.75
+Outdoors,2016-10,Accessories,Team Golf Pittsburgh Steelers Putter Grip,8.0,165.0,2016-10,3,0.503,0.38
+Outdoors,2016-10,Accessories,Team Golf San Francisco Giants Putter Grip,8.0,114.0,2016-10,14,0.413,1.75
+Outdoors,2016-10,Accessories,Team Golf St. Louis Cardinals Putter Grip,8.0,110.0,2016-10,15,2.06,1.88
+Outdoors,2016-10,Accessories,Team Golf Tennessee Volunteers Putter Grip,5.0,60.0,2016-10,3,1.826,0.6
+Outdoors,2016-10,Accessories,Team Golf Texas Longhorns Putter Grip,3.0,58.0,2016-10,3,0.427,1.0
+Outdoors,2016-10,Electronics,Bridgestone e6 Straight Distance NFL Carolina,9.0,219.0,2016-10,13,2.25,1.44
+Outdoors,2016-10,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,11.0,180.0,2016-10,1,1.445,0.09
+Outdoors,2016-10,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,5.0,69.0,2016-10,2,2.116,0.4
+Outdoors,2016-10,Electronics,Titleist Pro V1 High Numbers Personalized Gol,1.0,100.0,2016-10,1,1.351,1.0
+Outdoors,2016-10,Electronics,Titleist Pro V1x Golf Balls,5.0,214.0,2016-10,1,1.253,0.2
+Outdoors,2016-10,Electronics,Titleist Pro V1x High Numbers Golf Balls,14.0,416.0,2016-10,22,1.858,1.57
+Outdoors,2016-10,Electronics,Titleist Pro V1x High Numbers Personalized Go,7.0,244.0,2016-10,4,0.497,0.57
+Outdoors,2016-10,Golf Apparel,Top Flite Women's 2017 XL Hybrid,1.0,47.0,2016-10,0,1.493,0.0
+Outdoors,2016-10,Golf Balls,Glove It Women's Imperial Golf Glove,8.0,176.0,2016-10,13,2.15,1.62
+Outdoors,2016-10,Golf Balls,Glove It Women's Mod Oval Golf Glove,9.0,141.0,2016-10,12,1.297,1.33
+Outdoors,2016-10,Golf Balls,Hirzl Men's Hybrid Golf Glove,3.0,62.0,2016-10,3,1.565,1.0
+Outdoors,2016-10,Golf Balls,Hirzl Women's Hybrid Golf Glove,1.0,36.0,2016-10,0,0.784,0.0
+Outdoors,2016-10,Golf Gloves,Bag Boy Beverage Holder,6.0,118.0,2016-10,2,1.079,0.33
+Outdoors,2016-10,Golf Gloves,Clicgear 8.0 Shoe Brush,5.0,32.0,2016-10,0,1.369,0.0
+Outdoors,2016-10,Golf Gloves,Clicgear Rovic Cooler Bag,17.0,348.0,2016-10,30,1.849,1.76
+Outdoors,2016-10,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,1.0,60.0,2016-10,0,0.528,0.0
+Outdoors,2016-10,Trade-In,Garmin Approach S3 Golf GPS Watch,1.0,121.0,2016-10,0,1.415,0.0
+Outdoors,2016-10,Trade-In,Glove It Imperial Golf Towel,6.0,56.0,2016-10,3,0.345,0.5
+Outdoors,2016-10,Trade-In,Glove It Urban Brick Golf Towel,7.0,124.0,2016-10,11,1.157,1.57
+Outdoors,2016-10,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,9.0,86.0,2016-10,0,1.367,0.0
+Outdoors,2016-11,Accessories,Team Golf New England Patriots Putter Grip,6.0,110.0,2016-11,0,1.426,0.0
+Outdoors,2016-11,Accessories,Team Golf Pittsburgh Steelers Putter Grip,9.0,110.0,2016-11,9,1.42,1.0
+Outdoors,2016-11,Accessories,Team Golf San Francisco Giants Putter Grip,6.0,171.0,2016-11,3,1.837,0.5
+Outdoors,2016-11,Accessories,Team Golf St. Louis Cardinals Putter Grip,4.0,55.0,2016-11,6,0.898,1.5
+Outdoors,2016-11,Accessories,Team Golf Tennessee Volunteers Putter Grip,9.0,120.0,2016-11,14,0.547,1.56
+Outdoors,2016-11,Accessories,Team Golf Texas Longhorns Putter Grip,2.0,58.0,2016-11,0,1.645,0.0
+Outdoors,2016-11,Electronics,Bridgestone e6 Straight Distance NFL Carolina,5.0,146.0,2016-11,8,0.73,1.6
+Outdoors,2016-11,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3.0,120.0,2016-11,3,0.282,1.0
+Outdoors,2016-11,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,5.0,138.0,2016-11,1,1.961,0.2
+Outdoors,2016-11,Electronics,Titleist Pro V1 High Numbers Personalized Gol,1.0,100.0,2016-11,2,1.716,2.0
+Outdoors,2016-11,Electronics,Titleist Pro V1x Golf Balls,12.0,428.0,2016-11,17,2.184,1.42
+Outdoors,2016-11,Electronics,Titleist Pro V1x High Numbers Golf Balls,5.0,208.0,2016-11,8,1.331,1.6
+Outdoors,2016-11,Electronics,Titleist Pro V1x High Numbers Personalized Go,7.0,488.0,2016-11,12,0.485,1.71
+Outdoors,2016-11,Golf Apparel,Top Flite Women's 2017 XL Hybrid,5.0,94.0,2016-11,10,0.589,2.0
+Outdoors,2016-11,Golf Balls,Glove It Women's Imperial Golf Glove,7.0,88.0,2016-11,5,0.149,0.71
+Outdoors,2016-11,Golf Balls,Glove It Women's Mod Oval Golf Glove,4.0,47.0,2016-11,2,0.358,0.5
+Outdoors,2016-11,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,1.0,42.0,2016-11,1,1.292,1.0
+Outdoors,2016-11,Golf Gloves,Clicgear 8.0 Shoe Brush,8.0,48.0,2016-11,13,1.327,1.62
+Outdoors,2016-11,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,8.0,429.0,2016-11,15,1.604,1.88
+Outdoors,2016-11,Trade-In,Glove It Imperial Golf Towel,7.0,56.0,2016-11,5,0.103,0.71
+Outdoors,2016-11,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,5.0,43.0,2016-11,8,1.252,1.6
+Outdoors,2016-12,Accessories,Team Golf New England Patriots Putter Grip,7.0,110.0,2016-12,8,0.647,1.14
+Outdoors,2016-12,Accessories,Team Golf San Francisco Giants Putter Grip,1.0,57.0,2016-12,0,0.669,0.0
+Outdoors,2016-12,Accessories,Team Golf St. Louis Cardinals Putter Grip,16.0,220.0,2016-12,5,1.901,0.31
+Outdoors,2016-12,Accessories,Team Golf Tennessee Volunteers Putter Grip,11.0,300.0,2016-12,8,2.041,0.73
+Outdoors,2016-12,Accessories,Team Golf Texas Longhorns Putter Grip,8.0,116.0,2016-12,4,0.356,0.5
+Outdoors,2016-12,Electronics,Bridgestone e6 Straight Distance NFL Carolina,2.0,73.0,2016-12,4,1.152,2.0
+Outdoors,2016-12,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,10.0,180.0,2016-12,9,2.14,0.9
+Outdoors,2016-12,Electronics,Titleist Pro V1x Golf Balls,5.0,214.0,2016-12,8,0.201,1.6
+Outdoors,2016-12,Electronics,Titleist Pro V1x High Numbers Golf Balls,3.0,104.0,2016-12,1,1.261,0.33
+Outdoors,2016-12,Electronics,Titleist Pro V1x High Numbers Personalized Go,3.0,122.0,2016-12,3,1.978,1.0
+Outdoors,2016-12,Golf Apparel,Top Flite Women's 2017 XL Hybrid,5.0,47.0,2016-12,8,0.409,1.6
+Outdoors,2016-12,Golf Balls,Glove It Women's Imperial Golf Glove,10.0,132.0,2016-12,17,1.163,1.7
+Outdoors,2016-12,Golf Balls,Glove It Women's Mod Oval Golf Glove,8.0,188.0,2016-12,9,1.203,1.12
+Outdoors,2016-12,Golf Balls,Hirzl Men's Hybrid Golf Glove,3.0,31.0,2016-12,6,0.484,2.0
+Outdoors,2016-12,Golf Balls,Hirzl Women's Hybrid Golf Glove,6.0,72.0,2016-12,9,0.122,1.5
+Outdoors,2016-12,Golf Gloves,Bag Boy Beverage Holder,2.0,59.0,2016-12,0,1.659,0.0
+Outdoors,2016-12,Golf Gloves,Clicgear Rovic Cooler Bag,5.0,87.0,2016-12,0,1.209,0.0
+Outdoors,2016-12,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,6.0,286.0,2016-12,10,1.012,1.67
+Outdoors,2016-12,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,2.0,117.0,2016-12,1,2.249,0.5
+Outdoors,2016-12,Trade-In,Glove It Imperial Golf Towel,7.0,112.0,2016-12,3,1.08,0.43
+Outdoors,2016-12,Trade-In,Glove It Urban Brick Golf Towel,2.0,31.0,2016-12,3,1.854,1.5
+Outdoors,2016-12,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,9.0,129.0,2016-12,17,1.377,1.89
+Outdoors,2017-01,Accessories,Team Golf Pittsburgh Steelers Putter Grip,4.0,55.0,2017-01,1,0.95,0.25
+Outdoors,2017-01,Accessories,Team Golf San Francisco Giants Putter Grip,2.0,57.0,2017-01,0,1.185,0.0
+Outdoors,2017-01,Accessories,Team Golf Tennessee Volunteers Putter Grip,5.0,120.0,2017-01,7,1.056,1.4
+Outdoors,2017-01,Accessories,Team Golf Texas Longhorns Putter Grip,1.0,58.0,2017-01,1,1.332,1.0
+Outdoors,2017-01,Electronics,Bridgestone e6 Straight Distance NFL Carolina,5.0,73.0,2017-01,1,1.776,0.2
+Outdoors,2017-01,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,8.0,180.0,2017-01,6,1.83,0.75
+Outdoors,2017-01,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,4.0,69.0,2017-01,6,0.414,1.5
+Outdoors,2017-01,Electronics,Titleist Pro V1x Golf Balls,1.0,107.0,2017-01,0,0.453,0.0
+Outdoors,2017-01,Electronics,Titleist Pro V1x High Numbers Golf Balls,4.0,104.0,2017-01,2,0.796,0.5
+Outdoors,2017-01,Electronics,Titleist Pro V1x High Numbers Personalized Go,14.0,610.0,2017-01,10,0.508,0.71
+Outdoors,2017-01,Golf Balls,Glove It Women's Imperial Golf Glove,13.0,132.0,2017-01,23,1.426,1.77
+Outdoors,2017-01,Golf Balls,Glove It Women's Mod Oval Golf Glove,8.0,94.0,2017-01,14,2.245,1.75
+Outdoors,2017-01,Golf Balls,Hirzl Men's Hybrid Golf Glove,5.0,62.0,2017-01,6,0.112,1.2
+Outdoors,2017-01,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,11.0,168.0,2017-01,21,0.366,1.91
+Outdoors,2017-01,Golf Gloves,Clicgear 8.0 Shoe Brush,2.0,16.0,2017-01,1,1.609,0.5
+Outdoors,2017-01,Golf Gloves,Clicgear Rovic Cooler Bag,8.0,174.0,2017-01,7,1.06,0.88
+Outdoors,2017-01,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,7.0,286.0,2017-01,9,1.158,1.29
+Outdoors,2017-01,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,1.0,96.0,2017-01,1,0.838,1.0
+Outdoors,2017-01,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,1.0,53.0,2017-01,1,0.305,1.0
+Outdoors,2017-01,Trade-In,Glove It Imperial Golf Towel,3.0,28.0,2017-01,6,0.891,2.0
+Outdoors,2017-01,Trade-In,Glove It Urban Brick Golf Towel,2.0,62.0,2017-01,2,1.992,1.0
+Outdoors,2017-01,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,6.0,86.0,2017-01,6,0.859,1.0
+Outdoors,2017-02,Accessories,Team Golf New England Patriots Putter Grip,6.0,110.0,2017-02,2,1.875,0.33
+Outdoors,2017-02,Accessories,Team Golf Pittsburgh Steelers Putter Grip,2.0,110.0,2017-02,1,0.829,0.5
+Outdoors,2017-02,Accessories,Team Golf San Francisco Giants Putter Grip,6.0,114.0,2017-02,2,1.505,0.33
+Outdoors,2017-02,Accessories,Team Golf St. Louis Cardinals Putter Grip,2.0,55.0,2017-02,0,1.834,0.0
+Outdoors,2017-02,Accessories,Team Golf Tennessee Volunteers Putter Grip,13.0,240.0,2017-02,8,1.665,0.62
+Outdoors,2017-02,Accessories,Team Golf Texas Longhorns Putter Grip,3.0,58.0,2017-02,6,0.231,2.0
+Outdoors,2017-02,Electronics,Bridgestone e6 Straight Distance NFL Carolina,4.0,73.0,2017-02,8,1.844,2.0
+Outdoors,2017-02,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3.0,60.0,2017-02,3,1.715,1.0
+Outdoors,2017-02,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,4.0,138.0,2017-02,1,1.507,0.25
+Outdoors,2017-02,Electronics,Titleist Pro V1 High Numbers Personalized Gol,12.0,300.0,2017-02,11,1.334,0.92
+Outdoors,2017-02,Electronics,Titleist Pro V1x Golf Balls,6.0,214.0,2017-02,11,1.566,1.83
+Outdoors,2017-02,Electronics,Titleist Pro V1x High Numbers Golf Balls,1.0,104.0,2017-02,0,2.236,0.0
+Outdoors,2017-02,Golf Apparel,Top Flite Women's 2017 XL Hybrid,11.0,141.0,2017-02,21,2.137,1.91
+Outdoors,2017-02,Golf Balls,Glove It Women's Mod Oval Golf Glove,13.0,188.0,2017-02,23,1.209,1.77
+Outdoors,2017-02,Golf Balls,Hirzl Men's Hybrid Golf Glove,10.0,62.0,2017-02,12,1.995,1.2
+Outdoors,2017-02,Golf Balls,Hirzl Women's Hybrid Golf Glove,6.0,108.0,2017-02,2,1.231,0.33
+Outdoors,2017-02,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,6.0,84.0,2017-02,4,0.655,0.67
+Outdoors,2017-02,Golf Gloves,Bag Boy Beverage Holder,4.0,118.0,2017-02,0,1.262,0.0
+Outdoors,2017-02,Golf Gloves,Clicgear Rovic Cooler Bag,2.0,174.0,2017-02,1,0.581,0.5
+Outdoors,2017-02,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,9.0,286.0,2017-02,14,2.296,1.56
+Outdoors,2017-02,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,3.0,117.0,2017-02,2,1.001,0.67
+Outdoors,2017-02,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,5.0,173.0,2017-02,0,1.334,0.0
+Outdoors,2017-02,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,1.0,59.0,2017-02,1,1.043,1.0
+Outdoors,2017-02,Trade-In,Glove It Urban Brick Golf Towel,4.0,31.0,2017-02,7,1.627,1.75
+Outdoors,2017-02,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,2.0,43.0,2017-02,0,0.59,0.0
+Outdoors,2017-03,Accessories,Team Golf New England Patriots Putter Grip,3.0,55.0,2017-03,3,0.804,1.0
+Outdoors,2017-03,Accessories,Team Golf Pittsburgh Steelers Putter Grip,1.0,55.0,2017-03,1,1.288,1.0
+Outdoors,2017-03,Accessories,Team Golf San Francisco Giants Putter Grip,10.0,171.0,2017-03,15,2.112,1.5
+Outdoors,2017-03,Accessories,Team Golf St. Louis Cardinals Putter Grip,2.0,55.0,2017-03,2,0.181,1.0
+Outdoors,2017-03,Accessories,Team Golf Tennessee Volunteers Putter Grip,2.0,60.0,2017-03,3,0.428,1.5
+Outdoors,2017-03,Electronics,Bridgestone e6 Straight Distance NFL Carolina,6.0,219.0,2017-03,5,0.342,0.83
+Outdoors,2017-03,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,4.0,120.0,2017-03,3,0.332,0.75
+Outdoors,2017-03,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,2.0,69.0,2017-03,2,1.245,1.0
+Outdoors,2017-03,Electronics,Titleist Pro V1 High Numbers Personalized Gol,4.0,100.0,2017-03,1,0.257,0.25
+Outdoors,2017-03,Electronics,Titleist Pro V1x Golf Balls,13.0,535.0,2017-03,18,2.248,1.38
+Outdoors,2017-03,Electronics,Titleist Pro V1x High Numbers Golf Balls,8.0,208.0,2017-03,14,1.661,1.75
+Outdoors,2017-03,Golf Balls,Glove It Women's Imperial Golf Glove,4.0,88.0,2017-03,1,1.385,0.25
+Outdoors,2017-03,Golf Balls,Hirzl Men's Hybrid Golf Glove,3.0,31.0,2017-03,0,2.326,0.0
+Outdoors,2017-03,Golf Balls,Hirzl Women's Hybrid Golf Glove,2.0,36.0,2017-03,4,1.939,2.0
+Outdoors,2017-03,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,3.0,42.0,2017-03,5,2.119,1.67
+Outdoors,2017-03,Golf Gloves,Bag Boy Beverage Holder,6.0,118.0,2017-03,11,1.193,1.83
+Outdoors,2017-03,Golf Gloves,Bag Boy M330 Push Cart,5.0,188.0,2017-03,9,1.77,1.8
+Outdoors,2017-03,Golf Gloves,Clicgear 8.0 Shoe Brush,5.0,16.0,2017-03,3,0.825,0.6
+Outdoors,2017-03,Golf Gloves,Clicgear Rovic Cooler Bag,8.0,174.0,2017-03,14,0.309,1.75
+Outdoors,2017-03,Golf Gloves,Titleist Small Wheeled Travel Cover,1.0,112.0,2017-03,2,1.964,2.0
+Outdoors,2017-03,Golf Shoes,LIJA Women's Button Golf Dress,1.0,48.0,2017-03,0,2.298,0.0
+Outdoors,2017-03,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,2.0,143.0,2017-03,3,1.034,1.5
+Outdoors,2017-03,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,6.0,242.0,2017-03,0,2.023,0.0
+Outdoors,2017-03,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,2.0,117.0,2017-03,2,1.529,1.0
+Outdoors,2017-03,Trade-In,Glove It Imperial Golf Towel,7.0,56.0,2017-03,8,1.062,1.14
+Outdoors,2017-03,Trade-In,Glove It Urban Brick Golf Towel,5.0,31.0,2017-03,6,2.128,1.2
+Outdoors,2017-03,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,8.0,86.0,2017-03,10,1.03,1.25
+Outdoors,2017-04,Accessories,Team Golf New England Patriots Putter Grip,3.0,110.0,2017-04,6,2.285,2.0
+Outdoors,2017-04,Accessories,Team Golf Pittsburgh Steelers Putter Grip,8.0,110.0,2017-04,6,2.115,0.75
+Outdoors,2017-04,Accessories,Team Golf San Francisco Giants Putter Grip,11.0,171.0,2017-04,20,0.204,1.82
+Outdoors,2017-04,Accessories,Team Golf Tennessee Volunteers Putter Grip,1.0,60.0,2017-04,0,1.163,0.0
+Outdoors,2017-04,Accessories,Team Golf Texas Longhorns Putter Grip,1.0,58.0,2017-04,1,0.631,1.0
+Outdoors,2017-04,Electronics,Bridgestone e6 Straight Distance NFL Carolina,2.0,146.0,2017-04,2,1.441,1.0
+Outdoors,2017-04,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,6.0,120.0,2017-04,7,1.862,1.17
+Outdoors,2017-04,Electronics,Titleist Pro V1 High Numbers Personalized Gol,2.0,100.0,2017-04,2,1.82,1.0
+Outdoors,2017-04,Electronics,Titleist Pro V1x Golf Balls,5.0,107.0,2017-04,0,0.884,0.0
+Outdoors,2017-04,Golf Apparel,TaylorMade Women's RBZ SL Rescue,1.0,63.0,2017-04,1,1.658,1.0
+Outdoors,2017-04,Golf Apparel,Top Flite Women's 2017 XL Hybrid,4.0,94.0,2017-04,0,2.29,0.0
+Outdoors,2017-04,Golf Bags & Carts,Ogio Race Golf Shoes,1.0,82.0,2017-04,0,0.696,0.0
+Outdoors,2017-04,Golf Balls,Glove It Women's Mod Oval Golf Glove,11.0,235.0,2017-04,16,0.318,1.45
+Outdoors,2017-04,Golf Balls,Hirzl Women's Hybrid Golf Glove,1.0,36.0,2017-04,2,1.24,2.0
+Outdoors,2017-04,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,4.0,126.0,2017-04,6,1.774,1.5
+Outdoors,2017-04,Golf Gloves,Bag Boy M330 Push Cart,4.0,188.0,2017-04,6,2.159,1.5
+Outdoors,2017-04,Golf Gloves,Clicgear 8.0 Shoe Brush,4.0,32.0,2017-04,6,1.744,1.5
+Outdoors,2017-04,Golf Gloves,Clicgear Rovic Cooler Bag,7.0,174.0,2017-04,1,0.314,0.14
+Outdoors,2017-04,Golf Gloves,TaylorMade 2017 Purelite Stand Bag,3.0,255.0,2017-04,6,1.423,2.0
+Outdoors,2017-04,Golf Gloves,Titleist Small Wheeled Travel Cover,1.0,112.0,2017-04,0,2.012,0.0
+Outdoors,2017-04,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,2.0,143.0,2017-04,1,1.438,0.5
+Outdoors,2017-04,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,1.0,96.0,2017-04,0,1.771,0.0
+Outdoors,2017-04,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,5.0,173.0,2017-04,0,1.021,0.0
+Outdoors,2017-04,Kids' Golf Clubs,Polar Loop Activity Tracker,3.0,162.0,2017-04,5,0.865,1.67
+Outdoors,2017-04,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,1.0,53.0,2017-04,0,0.954,0.0
+Outdoors,2017-04,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,3.0,235.0,2017-04,0,0.571,0.0
+Outdoors,2017-04,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,1.0,60.0,2017-04,1,2.083,1.0
+Outdoors,2017-04,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,1.0,59.0,2017-04,2,1.429,2.0
+Outdoors,2017-04,Trade-In,Glove It Imperial Golf Towel,2.0,28.0,2017-04,1,1.997,0.5
+Outdoors,2017-04,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter,4.0,158.0,2017-04,7,1.067,1.75
+Outdoors,2017-05,Electronics,Titleist Pro V1x Golf Balls,1.0,107.0,2017-05,2,2.32,2.0
+Outdoors,2017-05,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,1.0,31.0,2017-05,1,1.078,1.0
+Outdoors,2017-05,Golf Apparel,TaylorMade Women's RBZ SL Rescue,1.0,63.0,2017-05,0,0.172,0.0
+Outdoors,2017-05,Golf Apparel,Top Flite Women's 2017 XL Hybrid,2.0,47.0,2017-05,0,0.608,0.0
+Outdoors,2017-05,Golf Bags & Carts,Ogio Race Golf Shoes,3.0,246.0,2017-05,1,2.004,0.33
+Outdoors,2017-05,Golf Gloves,Bag Boy M330 Push Cart,8.0,564.0,2017-05,8,0.707,1.0
+Outdoors,2017-05,Golf Gloves,TaylorMade 2017 Purelite Stand Bag,3.0,255.0,2017-05,5,2.011,1.67
+Outdoors,2017-05,Golf Gloves,Titleist Small Wheeled Travel Cover,1.0,112.0,2017-05,0,1.807,0.0
+Outdoors,2017-05,Golf Shoes,LIJA Women's Argyle Golf Polo,10.0,536.0,2017-05,7,2.302,0.7
+Outdoors,2017-05,Golf Shoes,LIJA Women's Button Golf Dress,3.0,144.0,2017-05,4,1.683,1.33
+Outdoors,2017-05,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,6.0,242.0,2017-05,0,0.18,0.0
+Outdoors,2017-05,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,7.0,234.0,2017-05,8,2.189,1.14
+Outdoors,2017-05,Kids' Golf Clubs,GolfBuddy VT3 GPS Watch,2.0,126.0,2017-05,0,1.992,0.0
+Outdoors,2017-05,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,3.0,173.0,2017-05,3,1.398,1.0
+Outdoors,2017-05,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,6.0,318.0,2017-05,9,0.254,1.5
+Outdoors,2017-05,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,2.0,235.0,2017-05,0,0.945,0.0
+Outdoors,2017-05,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,1.0,60.0,2017-05,1,1.227,1.0
+Outdoors,2017-05,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,3.0,177.0,2017-05,4,0.309,1.33
+Outdoors,2017-05,Trade-In,Garmin Approach S3 Golf GPS Watch,2.0,242.0,2017-05,0,1.33,0.0
+Outdoors,2017-05,Trade-In,Glove It Imperial Golf Towel,4.0,28.0,2017-05,3,0.723,0.75
+Outdoors,2017-05,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588,3.0,291.0,2017-05,4,0.852,1.33
+Outdoors,2017-05,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter,6.0,316.0,2017-05,8,1.197,1.33
+Outdoors,2017-05,Women's Golf Clubs,TaylorMade White Smoke IN-12 Putter,2.0,178.0,2017-05,1,2.128,0.5
+Outdoors,2017-06,Electronics,Titleist Pro V1x High Numbers Golf Balls,1.0,104.0,2017-06,2,1.341,2.0
+Outdoors,2017-06,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,1.0,31.0,2017-06,2,2.29,2.0
+Outdoors,2017-06,Golf Apparel,TaylorMade Women's RBZ SL Rescue,2.0,126.0,2017-06,1,1.718,0.5
+Outdoors,2017-06,Golf Apparel,Top Flite Women's 2017 XL Hybrid,2.0,94.0,2017-06,2,0.513,1.0
+Outdoors,2017-06,Golf Bags & Carts,Ogio Race Golf Shoes,1.0,82.0,2017-06,2,0.561,2.0
+Outdoors,2017-06,Golf Balls,Glove It Women's Mod Oval Golf Glove,1.0,47.0,2017-06,0,1.442,0.0
+Outdoors,2017-06,Golf Gloves,Bag Boy Beverage Holder,1.0,59.0,2017-06,0,1.761,0.0
+Outdoors,2017-06,Golf Gloves,Bag Boy M330 Push Cart,3.0,376.0,2017-06,0,1.691,0.0
+Outdoors,2017-06,Golf Gloves,Clicgear 8.0 Shoe Brush,3.0,32.0,2017-06,0,0.371,0.0
+Outdoors,2017-06,Golf Gloves,TaylorMade 2017 Purelite Stand Bag,3.0,255.0,2017-06,1,1.057,0.33
+Outdoors,2017-06,Golf Gloves,Titleist Club Glove Travel Cover,2.0,282.0,2017-06,3,0.585,1.5
+Outdoors,2017-06,Golf Shoes,LIJA Women's Argyle Golf Polo,10.0,536.0,2017-06,15,2.155,1.5
+Outdoors,2017-06,Golf Shoes,LIJA Women's Button Golf Dress,3.0,144.0,2017-06,6,2.201,2.0
+Outdoors,2017-06,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,2.0,121.0,2017-06,2,2.162,1.0
+Outdoors,2017-06,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,2.0,117.0,2017-06,4,0.268,2.0
+Outdoors,2017-06,Kids' Golf Clubs,GolfBuddy VT3 GPS Watch,2.0,126.0,2017-06,1,1.073,0.5
+Outdoors,2017-06,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,2.0,192.0,2017-06,0,1.039,0.0
+Outdoors,2017-06,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,9.0,346.0,2017-06,4,1.327,0.44
+Outdoors,2017-06,Kids' Golf Clubs,Polar Loop Activity Tracker,3.0,162.0,2017-06,3,2.001,1.0
+Outdoors,2017-06,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,6.0,318.0,2017-06,0,1.122,0.0
+Outdoors,2017-06,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,12.0,705.0,2017-06,18,1.842,1.5
+Outdoors,2017-06,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,2.0,120.0,2017-06,2,1.871,1.0
+Outdoors,2017-06,Trade-In,Glove It Urban Brick Golf Towel,1.0,31.0,2017-06,1,1.484,1.0
+Outdoors,2017-06,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,1.0,43.0,2017-06,1,0.197,1.0
+Outdoors,2017-06,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588,2.0,194.0,2017-06,0,2.075,0.0
+Outdoors,2017-06,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter,4.0,158.0,2017-06,0,1.91,0.0
+Outdoors,2017-06,Women's Golf Clubs,TaylorMade White Smoke IN-12 Putter,12.0,534.0,2017-06,16,1.699,1.33
+Outdoors,2017-07,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,1.0,31.0,2017-07,0,1.551,0.0
+Outdoors,2017-07,Golf Bags & Carts,Ogio Race Golf Shoes,2.0,164.0,2017-07,4,0.625,2.0
+Outdoors,2017-07,Golf Gloves,TaylorMade 2017 Purelite Stand Bag,2.0,170.0,2017-07,1,2.149,0.5
+Outdoors,2017-07,Golf Gloves,Titleist Small Wheeled Travel Cover,1.0,112.0,2017-07,0,2.002,0.0
+Outdoors,2017-07,Golf Shoes,LIJA Women's Argyle Golf Polo,10.0,536.0,2017-07,20,0.172,2.0
+Outdoors,2017-07,Golf Shoes,LIJA Women's Button Golf Dress,3.0,144.0,2017-07,3,0.281,1.0
+Outdoors,2017-07,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,5.0,143.0,2017-07,8,0.333,1.6
+Outdoors,2017-07,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,8.0,363.0,2017-07,1,0.714,0.12
+Outdoors,2017-07,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,7.0,234.0,2017-07,7,0.492,1.0
+Outdoors,2017-07,Kids' Golf Clubs,GolfBuddy VT3 GPS Watch,4.0,252.0,2017-07,2,1.205,0.5
+Outdoors,2017-07,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,1.0,96.0,2017-07,0,0.124,0.0
+Outdoors,2017-07,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,2.0,173.0,2017-07,4,0.4,2.0
+Outdoors,2017-07,Kids' Golf Clubs,Polar Loop Activity Tracker,2.0,108.0,2017-07,2,2.336,1.0
+Outdoors,2017-07,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,4.0,212.0,2017-07,1,1.482,0.25
+Outdoors,2017-07,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,19.0,1410.0,2017-07,15,0.706,0.79
+Outdoors,2017-07,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,3.0,180.0,2017-07,3,0.45,1.0
+Outdoors,2017-07,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,3.0,177.0,2017-07,0,2.34,0.0
+Outdoors,2017-07,Trade-In,Garmin Approach S3 Golf GPS Watch,2.0,242.0,2017-07,1,2.32,0.5
+Outdoors,2017-07,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,2.0,43.0,2017-07,4,2.2,2.0
+Outdoors,2017-07,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588,1.0,97.0,2017-07,2,1.065,2.0
+Outdoors,2017-07,Women's Golf Clubs,TaylorMade White Smoke IN-12 Putter,6.0,356.0,2017-07,2,1.785,0.33
+Outdoors,2017-08,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,1.0,31.0,2017-08,1,0.285,1.0
+Outdoors,2017-08,Golf Apparel,TaylorMade Women's RBZ SL Rescue,1.0,63.0,2017-08,2,1.106,2.0
+Outdoors,2017-08,Golf Bags & Carts,Ogio Race Golf Shoes,6.0,492.0,2017-08,1,0.553,0.17
+Outdoors,2017-08,Golf Gloves,Bag Boy M330 Push Cart,5.0,188.0,2017-08,2,1.059,0.4
+Outdoors,2017-08,Golf Gloves,Clicgear 8.0 Shoe Brush,4.0,16.0,2017-08,4,0.998,1.0
+Outdoors,2017-08,Golf Gloves,TaylorMade 2017 Purelite Stand Bag,2.0,170.0,2017-08,0,1.682,0.0
+Outdoors,2017-08,Golf Gloves,Titleist Small Wheeled Travel Cover,2.0,224.0,2017-08,1,1.052,0.5
+Outdoors,2017-08,Golf Shoes,LIJA Women's Argyle Golf Polo,3.0,134.0,2017-08,4,1.51,1.33
+Outdoors,2017-08,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,5.0,242.0,2017-08,9,0.188,1.8
+Outdoors,2017-08,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,4.0,234.0,2017-08,5,1.617,1.25
+Outdoors,2017-08,Kids' Golf Clubs,GolfBuddy VT3 GPS Watch,1.0,63.0,2017-08,1,2.272,1.0
+Outdoors,2017-08,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,1.0,96.0,2017-08,0,0.418,0.0
+Outdoors,2017-08,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,3.0,173.0,2017-08,4,0.609,1.33
+Outdoors,2017-08,Kids' Golf Clubs,Polar Loop Activity Tracker,3.0,162.0,2017-08,5,0.522,1.67
+Outdoors,2017-08,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,3.0,470.0,2017-08,0,2.058,0.0
+Outdoors,2017-08,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,2.0,120.0,2017-08,4,1.711,2.0
+Outdoors,2017-08,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,3.0,177.0,2017-08,4,1.804,1.33
+Outdoors,2017-08,Trade-In,Garmin Approach S3 Golf GPS Watch,2.0,242.0,2017-08,3,2.148,1.5
+Outdoors,2017-08,Trade-In,Glove It Urban Brick Golf Towel,7.0,62.0,2017-08,12,1.091,1.71
+Outdoors,2017-08,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter,1.0,158.0,2017-08,1,2.146,1.0
+Outdoors,2017-08,Women's Golf Clubs,TaylorMade White Smoke IN-12 Putter,12.0,534.0,2017-08,16,1.937,1.33
+Outdoors,2017-09,Golf Apparel,TaylorMade Women's RBZ SL Rescue,2.0,126.0,2017-09,4,1.134,2.0
+Outdoors,2017-09,Golf Apparel,Top Flite Women's 2017 XL Hybrid,4.0,47.0,2017-09,4,0.764,1.0
+Outdoors,2017-09,Golf Gloves,Bag Boy Beverage Holder,1.0,59.0,2017-09,1,0.602,1.0
+Outdoors,2017-09,Golf Gloves,Bag Boy M330 Push Cart,3.0,188.0,2017-09,4,1.395,1.33
+Outdoors,2017-09,Golf Gloves,TaylorMade 2017 Purelite Stand Bag,3.0,255.0,2017-09,0,0.125,0.0
+Outdoors,2017-09,Golf Gloves,Titleist Club Glove Travel Cover,3.0,423.0,2017-09,3,0.981,1.0
+Outdoors,2017-09,Golf Gloves,Titleist Small Wheeled Travel Cover,1.0,112.0,2017-09,0,2.072,0.0
+Outdoors,2017-09,Golf Shoes,LIJA Women's Argyle Golf Polo,6.0,268.0,2017-09,4,1.508,0.67
+Outdoors,2017-09,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,3.0,121.0,2017-09,3,0.827,1.0
+Outdoors,2017-09,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,5.0,234.0,2017-09,1,2.043,0.2
+Outdoors,2017-09,Kids' Golf Clubs,Garmin Approach S4 Golf GPS Watch,3.0,126.0,2017-09,2,0.177,0.67
+Outdoors,2017-09,Kids' Golf Clubs,Garmin Forerunner 910XT GPS Watch,3.0,132.0,2017-09,2,0.782,0.67
+Outdoors,2017-09,Kids' Golf Clubs,GolfBuddy VT3 GPS Watch,2.0,126.0,2017-09,3,0.949,1.5
+Outdoors,2017-09,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,4.0,384.0,2017-09,3,0.61,0.75
+Outdoors,2017-09,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,6.0,346.0,2017-09,8,1.121,1.33
+Outdoors,2017-09,Kids' Golf Clubs,Polar Loop Activity Tracker,3.0,162.0,2017-09,3,1.218,1.0
+Outdoors,2017-09,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,2.0,106.0,2017-09,3,2.234,1.5
+Outdoors,2017-09,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,5.0,235.0,2017-09,10,0.312,2.0
+Outdoors,2017-09,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,1.0,60.0,2017-09,0,2.127,0.0
+Outdoors,2017-09,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,1.0,59.0,2017-09,2,0.124,2.0
+Outdoors,2017-09,Trade-In,Garmin Approach S3 Golf GPS Watch,1.0,121.0,2017-09,2,0.783,2.0
+Outdoors,2017-10,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,1.0,31.0,2017-10,1,0.796,1.0
+Outdoors,2017-10,Golf Apparel,Top Flite Women's 2017 XL Hybrid,1.0,47.0,2017-10,2,2.037,2.0
+Outdoors,2017-10,Golf Gloves,Bag Boy Beverage Holder,1.0,59.0,2017-10,0,0.142,0.0
+Outdoors,2017-10,Kids' Golf Clubs,Garmin Forerunner 910XT GPS Watch,1.0,44.0,2017-10,2,0.536,2.0
+Outdoors,2017-10,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,1.0,59.0,2017-10,0,0.706,0.0
+Outdoors,2017-10,Trade-In,Garmin Approach S3 Golf GPS Watch,2.0,242.0,2017-10,4,1.833,2.0
+Outdoors,2017-10,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter,1.0,158.0,2017-10,1,0.747,1.0
+Outdoors,2017-11,Garden,Lawn mower,45.0,11610.0,2017-11,8,0.28,0.18
+Outdoors,2017-11,Kids' Golf Clubs,Polar Loop Activity Tracker,2.0,108.0,2017-11,1,1.094,0.5
+Outdoors,2017-11,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,1.0,53.0,2017-11,2,1.981,2.0
+Outdoors,2017-11,Trade-In,Glove It Imperial Golf Towel,1.0,28.0,2017-11,2,1.87,2.0
+Outdoors,2017-12,Accessories,Team Golf Texas Longhorns Putter Grip,1.0,58.0,2017-12,2,2.246,2.0
+Outdoors,2017-12,Garden,Lawn mower,15.0,3870.0,2017-12,4,1.344,0.27
+Outdoors,2017-12,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,2.0,86.0,2017-12,2,2.162,1.0
+Pet Shop,2016-02,Pet Supplies,Adult dog supplies,2.0,80.0,2016-02,3,1.043,1.5
+Pet Shop,2016-03,Pet Supplies,Adult dog supplies,2.0,80.0,2016-03,2,0.676,1.0
+Pet Shop,2017-11,Pet Supplies,Adult dog supplies,20.0,800.0,2017-11,19,2.292,0.95
+Pet Shop,2017-12,Pet Supplies,Adult dog supplies,51.0,2040.0,2017-12,2,2.079,0.04
+Technology,2015-07,Consumer Electronics,Industrial consumer electronics,1.0,123.0,2015-07,1,1.651,1.0
+Technology,2015-08,Cameras,Web Camera,3.0,657.0,2015-08,6,0.271,2.0
+Technology,2015-09,Cameras,Web Camera,10.0,2190.0,2015-09,5,1.284,0.5
+Technology,2015-10,Cameras,Web Camera,1.0,219.0,2015-10,1,1.208,1.0
+Technology,2017-06,Cameras,Web Camera,2.0,438.0,2017-06,1,1.052,0.5
+Technology,2017-06,Consumer Electronics,Industrial consumer electronics,1.0,123.0,2017-06,2,1.406,2.0
+Technology,2017-07,Cameras,Web Camera,7.0,1533.0,2017-07,7,1.217,1.0
+Technology,2017-07,Consumer Electronics,Industrial consumer electronics,2.0,246.0,2017-07,1,1.713,0.5
+Technology,2017-08,Cameras,Web Camera,2.0,438.0,2017-08,3,1.862,1.5
+Technology,2017-08,Consumer Electronics,Industrial consumer electronics,2.0,246.0,2017-08,2,1.873,1.0
+Technology,2017-09,Cameras,Web Camera,10.0,2190.0,2017-09,15,1.885,1.5
+Technology,2017-10,Cameras,Web Camera,129.0,28251.0,2017-10,234,0.888,1.81
+Technology,2017-10,Consumer Electronics,Industrial consumer electronics,18.0,2214.0,2017-10,5,0.674,0.28
+Technology,2017-11,Cameras,Web Camera,27.0,5913.0,2017-11,5,1.543,0.19
+Technology,2017-11,Consumer Electronics,Industrial consumer electronics,26.0,3198.0,2017-11,0,1.806,0.0
