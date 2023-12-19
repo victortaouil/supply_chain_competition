@@ -16,4 +16,8 @@ Using either Tableau or Power BI, create an interactive dashboard to summarize y
 
 🛑 An important indicator in this case is the index that measures how much we are in excess or shortage of stock at the time there is an order confirmation.Not having the product in stock would possibly cause delay in delivery, on the other hand, having too much would cause unnecessary costs. This metric was analyzed monthly and showed a relatively satisfactory performance, with its average at 0.99 and most products circulating around the average. The closer this indicator is to zero, the smaller our inventory in relation to demand, if it is greater than 1 it is a sign that we have more inventory than we need. However the indicator seems to be fine by now, we should monitorate this very carefully.
 
+
+![Victor_taouil_supply_competition](https://github.com/victortaouil/supply_chain_competition/assets/119637079/d75cec32-414f-4970-8b35-7234b9e2d589)
+
+
 And so much more discoveries we could get in this DataCamp competition
